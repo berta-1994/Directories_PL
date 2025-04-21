@@ -1,0 +1,2178 @@
+city,year,unique_buildings,count
+Atlanta,1912,10 Auburn av.,52
+Atlanta,1912,106½ Whall,52
+Atlanta,1912,12 Auburn ave.,52
+Atlanta,1912,13 N. Pryor,52
+Atlanta,1912,14 Auburn ave.,52
+Atlanta,1912,16 S. Broad,52
+Atlanta,1912,17 Walton,52
+Atlanta,1912,19 S. Pryor,52
+Atlanta,1912,24 S. Broad,52
+Atlanta,1912,32 E. Alabama,52
+Atlanta,1912,427 Chandler bldg,52
+Atlanta,1912,4th N. B. bldg.,52
+Atlanta,1912,4th N. Bank bldg.,52
+Atlanta,1912,6 Walton,52
+Atlanta,1912,715 Forsyth bldg.,52
+Atlanta,1912,84 Marietta,52
+Atlanta,1912,844 Marietta,52
+Atlanta,1912,9 Auburn ave.,52
+Atlanta,1912,Alt. N. B. bldg.,52
+Atlanta,1912,Atl. N. B.,52
+Atlanta,1912,Atl. N. B. bld.,52
+Atlanta,1912,Atl. N. B. bldg.,52
+Atlanta,1912,Atl. N. R. bldg.,52
+Atlanta,1912,Atlanta National Bank bldg.,52
+Atlanta,1912,Austell bldg.,52
+Atlanta,1912,Austell bldk.,52
+Atlanta,1912,Brown-Randolph bldg.,52
+Atlanta,1912,Candler bld.,52
+Atlanta,1912,Candler bldg.,52
+Atlanta,1912,Col. Pk.,52
+Atlanta,1912,Decatur,52
+Atlanta,1912,Elec. & Gas bldg.,52
+Atlanta,1912,Emp. bldg.,52
+Atlanta,1912,Empire Life bldg.,52
+Atlanta,1912,Empire bldg.,52
+Atlanta,1912,Equitable bldg.,52
+Atlanta,1912,Forsyth bldg.,52
+Atlanta,1912,Gould bldg,52
+Atlanta,1912,Gould bldg.,52
+Atlanta,1912,Grant bldg.,52
+Atlanta,1912,Hillyer Trust bldg.,52
+Atlanta,1912,Inman bldg.,52
+Atlanta,1912,Peachtree Heights,52
+Atlanta,1912,Peters bldg,52
+Atlanta,1912,Peters bldg.,52
+Atlanta,1912,Real Estate Co.,52
+Atlanta,1912,Temple Ct.,52
+Atlanta,1912,Temple Ct. bldg.,52
+Atlanta,1912,Temple ct.,52
+Atlanta,1912,Walton,52
+Atlanta,1912,Walton bldg.,52
+Atlanta,1912,,52
+Austin,1912,1st Natl. Bank bldg.,11
+Austin,1912,7 Openheimer bldg.,11
+Austin,1912,Austin Nat'l Bank,11
+Austin,1912,Austin Nat.,11
+Austin,1912,Austin Natl. Bank bldg.,11
+Austin,1912,Bosche bldg.,11
+Austin,1912,Little-field bldg.,11
+Austin,1912,Masonic Temple,11
+Austin,1912,McDonald bldg.,11
+Austin,1912,Scarbrough bldg.,11
+Austin,1912,,11
+Boston,1912,1030 Old So. b'dg.,36
+Boston,1912,Ames bldg.,36
+Boston,1912,Barristers Hall,36
+Boston,1912,Barstrs. Hall,36
+Boston,1912,Dexter Row,36
+Boston,1912,Equitable bld.,36
+Boston,1912,Equitable bldg.,36
+Boston,1912,Exch. bldg.,36
+Boston,1912,Exchange bldg.,36
+Boston,1912,John Hancock bldg,36
+Boston,1912,John Hancock bldg.,36
+Boston,1912,Kimball bldg.,36
+Boston,1912,Mason bldg.,36
+Boston,1912,Old S. bld.,36
+Boston,1912,Old So. bld.,36
+Boston,1912,Old South bid,36
+Boston,1912,Old South bld.,36
+Boston,1912,Old South bldg,36
+Boston,1912,Old South bldg.,36
+Boston,1912,Sears bldg.,36
+Boston,1912,St Marys bldg.,36
+Boston,1912,State Mut. bldg,36
+Boston,1912,State Mut. bldg.,36
+Boston,1912,Tremont Tem.,36
+Boston,1912,Tremont Temple,36
+Boston,1912,Tremont bld.,36
+Boston,1912,Tremont bldg,36
+Boston,1912,Tremont bldg.,36
+Boston,1912,Trent. bld.,36
+Boston,1912,Trmi,36
+Boston,1912,Trmt bld.,36
+Boston,1912,Upham's Cor.,36
+Boston,1912,Worthing-,36
+Boston,1912,Worthington bld.,36
+Boston,1912,Worthington bldg,36
+Boston,1912,,36
+Charlotte,1912,7 Wilkinson bldg.,7
+Charlotte,1912,American bldg.,7
+Charlotte,1912,Hunt bldg.,7
+Charlotte,1912,Piedmont bldg.,7
+Charlotte,1912,Realty bldg.,7
+Charlotte,1912,Trust bldg.,7
+Charlotte,1912,,7
+Chicago,1912,1026 Tribune bldg.,28
+Chicago,1912,1st Nat'l Bk. bldg.,28
+Chicago,1912,1st Nat. Bk.,28
+Chicago,1912,1st Nat. Bk. bidg.,28
+Chicago,1912,1st Nat. Bk. bldg.,28
+Chicago,1912,1st. Nat. Bk. bidg.,28
+Chicago,1912,504 Chicage Sav. Bk. bldg.,28
+Chicago,1912,Becter bldg.,28
+Chicago,1912,Chamber of Commerce,28
+Chicago,1912,Commercial Bk. bldg.,28
+Chicago,1912,FL Dearborn bldg.,28
+Chicago,1912,Fisher bldg.,28
+Chicago,1912,Great Northern bldg.,28
+Chicago,1912,Hartford bldg.,28
+Chicago,1912,Hermitage,28
+Chicago,1912,Manhattan bidr.,28
+Chicago,1912,Marquette bldg.,28
+Chicago,1912,Monadnock,28
+Chicago,1912,Rector bldg.,28
+Chicago,1912,Tacoma bldg.,28
+Chicago,1912,The Bookery bldg.,28
+Chicago,1912,Title & Tr. bldg.,28
+Chicago,1912,Title & Trust bldg.,28
+Chicago,1912,Title Trust bidg.,28
+Chicago,1912,Tribune bldg.,28
+Chicago,1912,Unity bldg.,28
+Chicago,1912,Warrington Theater bldg.,28
+Chicago,1912,,28
+Cincinnati,1912,10 Allen bldg.,78
+Cincinnati,1912,1000 First Nat. Bank,78
+Cincinnati,1912,1006 Mer. Lib. bld.,78
+Cincinnati,1912,1006 Mer. Lib. bldg.,78
+Cincinnati,1912,1007 First Nat. Bank bldg.,78
+Cincinnati,1912,1009 Mer. Lib. bldg.,78
+Cincinnati,1912,1011 Fourth Nat. Bank bldg.,78
+Cincinnati,1912,11 St. Paul bldg.,78
+Cincinnati,1912,1228s Vine st.,78
+Cincinnati,1912,1310 First Nat. Bk. bld.,78
+Cincinnati,1912,1404 First Nat. Bk. bldg.,78
+Cincinnati,1912,1406 First Nat. Bk. bld.,78
+Cincinnati,1912,1410 Traction bld.,78
+Cincinnati,1912,144 E. Court,78
+Cincinnati,1912,15 Carew bldg.,78
+Cincinnati,1912,15-16 Wiggins blk.,78
+Cincinnati,1912,1533 Union Trust,78
+Cincinnati,1912,1815 Union Tr.,78
+Cincinnati,1912,2 Baker ct.,78
+Cincinnati,1912,205 Carlisle bldg.,78
+Cincinnati,1912,28 Blymyer bldg.,78
+Cincinnati,1912,300-301 Livingston bldg.,78
+Cincinnati,1912,306 E. 5th,78
+Cincinnati,1912,309 Johnston bldg.,78
+Cincinnati,1912,32 Thomas bldg.,78
+Cincinnati,1912,402 Provident Bk.,78
+Cincinnati,1912,409 Mercantile Library bld.,78
+Cincinnati,1912,410 Mer. Lib. bldg.,78
+Cincinnati,1912,44 Atlas Bank bldg.,78
+Cincinnati,1912,45 Atlas Bank bldg.,78
+Cincinnati,1912,500 Bell blk.,78
+Cincinnati,1912,51 St. Paul bldg.,78
+Cincinnati,1912,510 Mer. Lib. bldg.,78
+Cincinnati,1912,515 Johnston bldg.,78
+Cincinnati,1912,55 Atlas Bank bldg.,78
+Cincinnati,1912,602 Lyric Theatre bldg.,78
+Cincinnati,1912,603 Mer. Lib. bldg.,78
+Cincinnati,1912,604 First Nat. Bank bldg.,78
+Cincinnati,1912,605 Mer. Lib bldg.,78
+Cincinnati,1912,605 Mer. Lib. bldg.,78
+Cincinnati,1912,606-7 Mer. Lib. bldg.,78
+Cincinnati,1912,608 First Nat. Bk. bld.,78
+Cincinnati,1912,64 Atlas Bk. bldg.,78
+Cincinnati,1912,706 Traction bldg.,78
+Cincinnati,1912,708 Mer. Lib. bldg.,78
+Cincinnati,1912,711 Traction bld.,78
+Cincinnati,1912,77 Blymyer bldg.,78
+Cincinnati,1912,78 Perin bldg.,78
+Cincinnati,1912,80 Atlas Bank bld.,78
+Cincinnati,1912,805 Second Nat. Bank bld.,78
+Cincinnati,1912,809 Mer. Lib. bfd.,78
+Cincinnati,1912,9 Fosdick bldg.,78
+Cincinnati,1912,903 Mer. Lib. bldg.,78
+Cincinnati,1912,904 Com. Trib. bldg.,78
+Cincinnati,1912,"905 E. McMillan, W. H.",78
+Cincinnati,1912,907 Mer. Lib. bldg.,78
+Cincinnati,1912,908 Mer. Lib. bldg.,78
+Cincinnati,1912,Allen Bldg,78
+Cincinnati,1912,Atlas Bk. bldg,78
+Cincinnati,1912,Blymyer bldg.,78
+Cincinnati,1912,First Nat. Bank,78
+Cincinnati,1912,First Nat. Bank bldg,78
+Cincinnati,1912,First Nat. Bk. bld.,78
+Cincinnati,1912,Gerke bldg.,78
+Cincinnati,1912,Hotel Sinton,78
+Cincinnati,1912,Hulbert blk.,78
+Cincinnati,1912,Johnston bldg.,78
+Cincinnati,1912,Lyric Theatre bldg,78
+Cincinnati,1912,Main,78
+Cincinnati,1912,Mer. Lib. bldg.,78
+Cincinnati,1912,Mercantile Library bld,78
+Cincinnati,1912,Mitchell bldg.,78
+Cincinnati,1912,Second Nat. Bk. bldg.,78
+Cincinnati,1912,St. Leger bldg.,78
+Cincinnati,1912,Union Tr. bldg.,78
+Cincinnati,1912,Union Trust,78
+Cincinnati,1912,Union Trust bldg.,78
+Cincinnati,1912,,78
+Cleveland,1912,Am. Tr. bld.,70
+Cleveland,1912,Am. Trust,70
+Cleveland,1912,Am. Trust bldg.,70
+Cleveland,1912,Arcade,70
+Cleveland,1912,B. of L. E. bldg.,70
+Cleveland,1912,Beckman bldg.,70
+Cleveland,1912,Century bldg.,70
+Cleveland,1912,Cham. of Com. bldg.,70
+Cleveland,1912,Citi-zens bldg.,70
+Cleveland,1912,Citizens,70
+Cleveland,1912,Citizens bldg.,70
+Cleveland,1912,Columbia,70
+Cleveland,1912,Columbia bldg.,70
+Cleveland,1912,Cuya-hoga bldg.,70
+Cleveland,1912,Cuyahoga bidg.,70
+Cleveland,1912,Cuyahoga bldg.,70
+Cleveland,1912,Detroit,70
+Cleveland,1912,Electric bldg.,70
+Cleveland,1912,Engineers' bldg.,70
+Cleveland,1912,Garfield bidg.,70
+Cleveland,1912,Garfield bldg.,70
+Cleveland,1912,Guardian bldg.,70
+Cleveland,1912,Hippo-drome bldg.,70
+Cleveland,1912,Hippodrome,70
+Cleveland,1912,Hippodrome bldg.,70
+Cleveland,1912,Hippodrome blåg.,70
+Cleveland,1912,Homesite Allot-ment,70
+Cleveland,1912,New Eng,70
+Cleveland,1912,New Eng. bldg.,70
+Cleveland,1912,New England bldg.,70
+Cleveland,1912,Park bldg.,70
+Cleveland,1912,Public sq.,70
+Cleveland,1912,Pythian Temple,70
+Cleveland,1912,Republic bldg.,70
+Cleveland,1912,Rockefeller,70
+Cleveland,1912,Rockefeller bld.,70
+Cleveland,1912,Rockefeller bldg.,70
+Cleveland,1912,Rose bldg.,70
+Cleveland,1912,Schofield,70
+Cleveland,1912,Schofield bid.,70
+Cleveland,1912,Schofield bldg.,70
+Cleveland,1912,Soc.,70
+Cleveland,1912,Soc. for Sav,70
+Cleveland,1912,Soc. for Sav.,70
+Cleveland,1912,Soc. for Sav. bldg.,70
+Cleveland,1912,Soc. for Savings bld.,70
+Cleveland,1912,Soc. for Sev. bldg.,70
+Cleveland,1912,Socfor Sav. bld.,70
+Cleveland,1912,St. Clair,70
+Cleveland,1912,Tenbusch bldg.,70
+Cleveland,1912,The Ar-cade,70
+Cleveland,1912,The Arcade,70
+Cleveland,1912,W. 25th,70
+Cleveland,1912,Wade bldg,70
+Cleveland,1912,Wick bldg.,70
+Cleveland,1912,William bldg.,70
+Cleveland,1912,William-son bldg.,70
+Cleveland,1912,Williamson,70
+Cleveland,1912,Williamson bidg.,70
+Cleveland,1912,Williamson bldg.,70
+Cleveland,1912,Williamson blåg.,70
+Cleveland,1912,Willlamson bldg.,70
+Cleveland,1912,Wmson bld.,70
+Cleveland,1912,Wmson bldg.,70
+Cleveland,1912,Wmson.,70
+Cleveland,1912,Wmson. bidg.,70
+Cleveland,1912,Wmson. bld,70
+Cleveland,1912,Wmson. bldg.,70
+Cleveland,1912,Wyandot bldg.,70
+Cleveland,1912,,70
+Columbus,1912,Brunson bldg.,27
+Columbus,1912,Capitol Trust bldg.,27
+Columbus,1912,Capitol Trust blåg.,27
+Columbus,1912,Capt. Trust bldg.,27
+Columbus,1912,Cola Sav. & Trust bldg.,27
+Columbus,1912,Cola. Sav. & Tr. bldg.,27
+Columbus,1912,Cola. Sav. & Trust bldg.,27
+Columbus,1912,Cols. Sav. & Tr. bldg.,27
+Columbus,1912,Cols. Sav. & Trust bldg.,27
+Columbus,1912,Deshler bldg.,27
+Columbus,1912,Douglas bik,27
+Columbus,1912,Harri-son bldg.,27
+Columbus,1912,Harrison bidg.,27
+Columbus,1912,Harrison bldg.,27
+Columbus,1912,Hayden-Clinton Bk.,27
+Columbus,1912,Hayden-Clinton bidg.,27
+Columbus,1912,New 1st Nat. Bk.,27
+Columbus,1912,New 1st Nat. Bk. bld.,27
+Columbus,1912,New First Nat. Bk. bldg.,27
+Columbus,1912,New Hayden bldg.,27
+Columbus,1912,Ruggery bldg.,27
+Columbus,1912,Union Nat. Bk. bld.,27
+Columbus,1912,Union Nat. Bk. bldg.,27
+Columbus,1912,Wyandotte bldg.,27
+Columbus,1912,Wyandotte blk.,27
+Columbus,1912,blk.,27
+Columbus,1912,,27
+Dallas,1912,724 Slaughter bldg,22
+Dallas,1912,807 Slaughter bldg,22
+Dallas,1912,810 Slaughter bldg,22
+Dallas,1912,905 Praetorian bldg,22
+Dallas,1912,Bank bldg.,22
+Dallas,1912,Guar. Bank bldg.,22
+Dallas,1912,Guaranty Bank,22
+Dallas,1912,Guaranty S. Bk. bldg.,22
+Dallas,1912,Guaranty bldg.,22
+Dallas,1912,Juanita bldg.,22
+Dallas,1912,Linz bldg.,22
+Dallas,1912,Praetorian bldg.,22
+Dallas,1912,Scollard,22
+Dallas,1912,Scollard bidg.,22
+Dallas,1912,Scollard bld.,22
+Dallas,1912,Scollard bldg.,22
+Dallas,1912,Slaughter bldg.,22
+Dallas,1912,Texas bldg.,22
+Dallas,1912,Wilson,22
+Dallas,1912,Wilson bidg.,22
+Dallas,1912,Wilson bldg.,22
+Dallas,1912,,22
+Denver,1912,1st Nat Bank bldg.,79
+Denver,1912,1st Nat.,79
+Denver,1912,1st Nat. Bank bidg,79
+Denver,1912,1st Nat. Bank bidg.,79
+Denver,1912,1st Nat. Bank bldg.,79
+Denver,1912,1st Nat. Bk. bld.,79
+Denver,1912,1st Nat. Bk. bldg.,79
+Denver,1912,1st. Nat. Bk. bld.,79
+Denver,1912,Bank bldg.,79
+Denver,1912,Bank block,79
+Denver,1912,Boston bld,79
+Denver,1912,Boston bldg.,79
+Denver,1912,By. Exch. bldg.,79
+Denver,1912,Bymes bid.,79
+Denver,1912,Calif. bidg.,79
+Denver,1912,Calif. biel,79
+Denver,1912,Calif. bldg,79
+Denver,1912,Calif. bldg.,79
+Denver,1912,Callf. bldg.,79
+Denver,1912,Century bldg.,79
+Denver,1912,Chamber,79
+Denver,1912,Champa,79
+Denver,1912,Colo. bldg.,79
+Denver,1912,Colorado bidg.,79
+Denver,1912,Colorado bldg.,79
+Denver,1912,Commenwealth blide,79
+Denver,1912,Commonwealth bldg.,79
+Denver,1912,Continental bldg.,79
+Denver,1912,Cooper bldg.,79
+Denver,1912,Cooper hidg.,79
+Denver,1912,Coronado bldg.,79
+Denver,1912,E. & C. bldg.,79
+Denver,1912,Empire bid.,79
+Denver,1912,Empire bldg.,79
+Denver,1912,Equit. bldg.,79
+Denver,1912,Equitable bldg.,79
+Denver,1912,Exch. bldg.,79
+Denver,1912,Exchange bldg.,79
+Denver,1912,Foster bld.,79
+Denver,1912,Foster bldg.,79
+Denver,1912,Gas & Elec,79
+Denver,1912,Gas & Elec bldg.,79
+Denver,1912,Gas & Elec. bid.,79
+Denver,1912,Gas & Elec. bldg,79
+Denver,1912,Gas & Elec. bldg.,79
+Denver,1912,Gas & Electric bldg.,79
+Denver,1912,Glenarm pl.,79
+Denver,1912,Ideal bidg.,79
+Denver,1912,Ideal bldg.,79
+Denver,1912,Jacobson bldg.,79
+Denver,1912,Kittredge bldg.,79
+Denver,1912,Mack bldg.,79
+Denver,1912,Majestic bld,79
+Denver,1912,McPhee bidg.,79
+Denver,1912,McPhee bldg.,79
+Denver,1912,Mercantile bidg.,79
+Denver,1912,Mercantile bldg.,79
+Denver,1912,MoPhee bidg.,79
+Denver,1912,Nassau bldg.,79
+Denver,1912,Nat. Bank bldg.,79
+Denver,1912,New Cen. bldg.,79
+Denver,1912,New Century bldg.,79
+Denver,1912,Opera House bldg.,79
+Denver,1912,Quincy bldg.,79
+Denver,1912,Ry. Ex,79
+Denver,1912,Ry. Ex. bldg.,79
+Denver,1912,Ry. Exch,79
+Denver,1912,Ry. Exch.,79
+Denver,1912,Ry. Exch. bldg.,79
+Denver,1912,Steele bldg,79
+Denver,1912,Stout,79
+Denver,1912,Symes bldg,79
+Denver,1912,Symes bldg.,79
+Denver,1912,Temple Ct. bidg.,79
+Denver,1912,Temple Ct. bldg.,79
+Denver,1912,Tmpl Ct. bld.,79
+Denver,1912,Welton,79
+Denver,1912,ist Nat. Bk. bldg.,79
+Denver,1912,,79
+Detroit,1912,1 McGraw bldg.,163
+Detroit,1912,100 Griswold,163
+Detroit,1912,1006 Hammond bldg.,163
+Detroit,1912,1007 Majestic bldg.,163
+Detroit,1912,1008 Ford bldg.,163
+Detroit,1912,1008 U. T. bldg.,163
+Detroit,1912,1026 Majestic bldg.,163
+Detroit,1912,1028 Majestic bldg.,163
+Detroit,1912,1117 Ford bldg.,163
+Detroit,1912,1120 C. of C.,163
+Detroit,1912,1208 C. of C.,163
+Detroit,1912,1228 C. of C.,163
+Detroit,1912,1302 Penobscot bldg.,163
+Detroit,1912,1325 Penobscot bldg.,163
+Detroit,1912,1328 C. of C.,163
+Detroit,1912,1411 Ford bldg.,163
+Detroit,1912,1558 Michigan,163
+Detroit,1912,1613 Ford bldg.,163
+Detroit,1912,165 Kercheval,163
+Detroit,1912,197 High W.,163
+Detroit,1912,"1st fl., Campau bldg.",163
+Detroit,1912,2 Walker blk.,163
+Detroit,1912,20 Buhl bldg.,163
+Detroit,1912,203 Breitmeyer bldg.,163
+Detroit,1912,208 Whitney bidg.,163
+Detroit,1912,21 McGraw bldg.,163
+Detroit,1912,212 Buhl bldg.,163
+Detroit,1912,214 Moffat blk.,163
+Detroit,1912,215 Hammond bldg.,163
+Detroit,1912,217 Moffat,163
+Detroit,1912,2196 W. Jeff,163
+Detroit,1912,22 Buhl bik,163
+Detroit,1912,22 McGraw bldg.,163
+Detroit,1912,27 Cleland bldg.,163
+Detroit,1912,28 Buhl blk.,163
+Detroit,1912,29 Home Blk. bldg.,163
+Detroit,1912,29 Monroe,163
+Detroit,1912,29 Monroe ave.,163
+Detroit,1912,302 Moffat blk.,163
+Detroit,1912,303 Hodges bldg.,163
+Detroit,1912,305 Hodges bldg.,163
+Detroit,1912,306 Hodges bldg.,163
+Detroit,1912,307 Majestic bldg.,163
+Detroit,1912,309 Majestic bldg.,163
+Detroit,1912,31 Home Bk. bldg.,163
+Detroit,1912,311 Moffat,163
+Detroit,1912,316 Moffat blk.,163
+Detroit,1912,3215 W. Jefferson,163
+Detroit,1912,35 State,163
+Detroit,1912,36 Home Bk. bldg.,163
+Detroit,1912,402 Whitney bldg.,163
+Detroit,1912,405 Whitney bldg.,163
+Detroit,1912,406 Moffat blk.,163
+Detroit,1912,406 Penobscot bldg.,163
+Detroit,1912,409 Hodges bldg.,163
+Detroit,1912,415 Moffat blk.,163
+Detroit,1912,416 Hammond bldg.,163
+Detroit,1912,45 Home Bk. bldg.,163
+Detroit,1912,45 State,163
+Detroit,1912,450 Kirby E.,163
+Detroit,1912,46 Equity bldg.,163
+Detroit,1912,496 Hastings,163
+Detroit,1912,501 C. of C.,163
+Detroit,1912,501 Ferguson bldg.,163
+Detroit,1912,501 Ford bldg.,163
+Detroit,1912,504 Whitney bldg.,163
+Detroit,1912,505 Majestic bldg.,163
+Detroit,1912,508 C. of C.,163
+Detroit,1912,510 Penobscot bldg.,163
+Detroit,1912,511 Moffat blk.,163
+Detroit,1912,516 Moffat bik.,163
+Detroit,1912,52 Buhl blk.,163
+Detroit,1912,521 Hammond,163
+Detroit,1912,523 Hammond bldg.,163
+Detroit,1912,568 Gratiot,163
+Detroit,1912,58 Lafayette,163
+Detroit,1912,6 Home Bk. bldg.,163
+Detroit,1912,601 Majestic,163
+Detroit,1912,601 Whitney bldg.,163
+Detroit,1912,602 Hodges bldg.,163
+Detroit,1912,604 Union Trust bldg.,163
+Detroit,1912,610 Wayne Co. Bk. bidg.,163
+Detroit,1912,618 Moffat blk.,163
+Detroit,1912,65 Home Bk. bldg.,163
+Detroit,1912,656 Clinton,163
+Detroit,1912,703 Breitmeyer bldg.,163
+Detroit,1912,705 Whitney,163
+Detroit,1912,706 Whitney bldg.,163
+Detroit,1912,71 Home Bk. bldg.,163
+Detroit,1912,711 C. of C.,163
+Detroit,1912,726 C. of C.,163
+Detroit,1912,727 C. of C.,163
+Detroit,1912,728 Gratiot,163
+Detroit,1912,8000 Woodward,163
+Detroit,1912,801 Breitmeyer bidg.,163
+Detroit,1912,801 Loyal Guard bldg.,163
+Detroit,1912,801 Wayne Co. Bk. bldg.,163
+Detroit,1912,803 Elks Temple,163
+Detroit,1912,804 Moffat blk.,163
+Detroit,1912,804 U. T. bldg.,163
+Detroit,1912,805 C. of C.,163
+Detroit,1912,807 Hammond bldg.,163
+Detroit,1912,807 Majestic bldg.,163
+Detroit,1912,81 Home Bk. bldg.,163
+Detroit,1912,810 U. T. bldg.,163
+Detroit,1912,811 Majestic bldg.,163
+Detroit,1912,815 Ford bldg.,163
+Detroit,1912,82 Griswold,163
+Detroit,1912,84 Griswold,163
+Detroit,1912,842 Griswold,163
+Detroit,1912,85 Home Bk. bldg.,163
+Detroit,1912,885 Hastings,163
+Detroit,1912,89 Rowland,163
+Detroit,1912,919 Hammond bldg.,163
+Detroit,1912,988 Michigan,163
+Detroit,1912,Adelaide & Hastings,163
+Detroit,1912,Bewick,163
+Detroit,1912,Bll Wayne Co. Bk. bldg.,163
+Detroit,1912,Breitmeyer hldg.,163
+Detroit,1912,Buhl blk.,163
+Detroit,1912,Butler bldg.,163
+Detroit,1912,C. of C.,163
+Detroit,1912,Chene,163
+Detroit,1912,Congress W.,163
+Detroit,1912,Elka Temple,163
+Detroit,1912,Ford bldg.,163
+Detroit,1912,Goebel bldg.,163
+Detroit,1912,"Grand blvd, & Dexter",163
+Detroit,1912,Gratiot,163
+Detroit,1912,Gratiot & Chippewa,163
+Detroit,1912,Ham'd bldg,163
+Detroit,1912,Hammond bldg.,163
+Detroit,1912,Hancock & Rivard,163
+Detroit,1912,Hastings,163
+Detroit,1912,Hillger & Jeff.,163
+Detroit,1912,Hodges bldg.,163
+Detroit,1912,Hodges blk.,163
+Detroit,1912,Home Bk. bldg.,163
+Detroit,1912,Jeff & Lakewood,163
+Detroit,1912,Mack nr. McLellan,163
+Detroit,1912,Majestic,163
+Detroit,1912,Majestic bidg.,163
+Detroit,1912,Majestic bldg.,163
+Detroit,1912,McCraw bldg.,163
+Detroit,1912,McGraw bldg,163
+Detroit,1912,McGraw bldg.,163
+Detroit,1912,Moffat,163
+Detroit,1912,Moffat bidg.,163
+Detroit,1912,Moffat bldg.,163
+Detroit,1912,Moffat blk.,163
+Detroit,1912,Palmer bldg.,163
+Detroit,1912,Penobscot,163
+Detroit,1912,Penobscot bldg.,163
+Detroit,1912,Shelby,163
+Detroit,1912,Tel. bldg.,163
+Detroit,1912,Tolsma bldg.,163
+Detroit,1912,U. T. bldg.,163
+Detroit,1912,Union Tr. bldg.,163
+Detroit,1912,Union Trust bldg.,163
+Detroit,1912,Walker blk.,163
+Detroit,1912,Whitney bldg.,163
+Detroit,1912,Woodward & Smith,163
+Detroit,1912,,163
+Fort Worth,1912,1st Nat. Bank,33
+Fort Worth,1912,1st Nat. Bank bldg.,33
+Fort Worth,1912,1st Nat. Bk.,33
+Fort Worth,1912,1st Nat. Bk. bldg.,33
+Fort Worth,1912,401 Flat-iron bldg.,33
+Fort Worth,1912,Continental Bank bldg.,33
+Fort Worth,1912,Court House,33
+Fort Worth,1912,Dundee bld.,33
+Fort Worth,1912,Dundee bldg.,33
+Fort Worth,1912,Ellison bldg.,33
+Fort Worth,1912,Exch. Nat. Bank,33
+Fort Worth,1912,F. & M. Bank bld.,33
+Fort Worth,1912,F. & M. Bk. bldg.,33
+Fort Worth,1912,First Nat. Bk. bidg.,33
+Fort Worth,1912,Flatiron bld.,33
+Fort Worth,1912,Flatiron bldg.,33
+Fort Worth,1912,Ft Worth Bk.,33
+Fort Worth,1912,Ft. Worth Nat' Bank bidg.,33
+Fort Worth,1912,Ft. Worth Nat. Bank,33
+Fort Worth,1912,Ft. Worth Nat. Bank bldg.,33
+Fort Worth,1912,Horie bldg.,33
+Fort Worth,1912,Houston,33
+Fort Worth,1912,Hoxie bldg.,33
+Fort Worth,1912,Moore bid.,33
+Fort Worth,1912,Moore bldg.,33
+Fort Worth,1912,Reynolds bld.,33
+Fort Worth,1912,Reynolds bldg.,33
+Fort Worth,1912,Terrell bldg.,33
+Fort Worth,1912,Touraine bldg.,33
+Fort Worth,1912,Westbrook bldg.,33
+Fort Worth,1912,Western Nat. Bank,33
+Fort Worth,1912,Wheat bldg.,33
+Fort Worth,1912,,33
+Houston,1912,1001 Carter bldg.,139
+Houston,1912,1004 Scan-lan bldg.,139
+Houston,1912,1006 Scanlan bldg.,139
+Houston,1912,1008 Carter bid,139
+Houston,1912,1008 Scanian bldg.,139
+Houston,1912,1010½ Congress ave.,139
+Houston,1912,1014 Capitol ave.,139
+Houston,1912,1016½ Congress ave.,139
+Houston,1912,109Milam st.,139
+Houston,1912,1106 Scanlan bldg.,139
+Houston,1912,1216 Carter bldg.,139
+Houston,1912,1302 Carter bldg.,139
+Houston,1912,1stNat'l Bk. bldg.,139
+Houston,1912,202 1st Nat'l Bk.,139
+Houston,1912,203 Land &Trust bldg.,139
+Houston,1912,203 Scanlan bldg.,139
+Houston,1912,204 Stewart bldg.,139
+Houston,1912,205 Moore-Burnett bldg.,139
+Houston,1912,206 Prince Theatre bldg.,139
+Houston,1912,206 Scanlan bld.,139
+Houston,1912,206 Scanlan bldg.,139
+Houston,1912,207 H. L. & T. bldg.,139
+Houston,1912,207 Main st.,139
+Houston,1912,208 Stewart bldg.,139
+Houston,1912,209 1st Nat'l Bk. bldg.,139
+Houston,1912,210 Mason bldg.,139
+Houston,1912,211 Templebldg.,139
+Houston,1912,216 Mason bldg.,139
+Houston,1912,219 1st Nat'l Bk. bidg.,139
+Houston,1912,233 Mason bidg.,139
+Houston,1912,301 Binz bldg.,139
+Houston,1912,301 Paul bldg.,139
+Houston,1912,301 Scanlan bldg.,139
+Houston,1912,302 Klam bldg.,139
+Houston,1912,302 Scanlan bldg.,139
+Houston,1912,304 Scanlan,139
+Houston,1912,304 Scanlan bldg.,139
+Houston,1912,305 Kiam bld.,139
+Houston,1912,305 Temple bldg.,139
+Houston,1912,306 Com'l Nat'lBk. bldg.,139
+Houston,1912,307 Scanlan bld.,139
+Houston,1912,308 1st Nat'l Bk. bldg,139
+Houston,1912,308 1st Nat'l Bk. bldg.,139
+Houston,1912,308 Prince Theatre bld.,139
+Houston,1912,308 Scanian bldg.,139
+Houston,1912,309 1st Nat'l Bk.,139
+Houston,1912,309 Scanlan bldg.,139
+Houston,1912,310 Paul bldg.,139
+Houston,1912,310 Stewart bldg.,139
+Houston,1912,311 Scanlan bldg.,139
+Houston,1912,315 1st Nat'l Bk. bldg.,139
+Houston,1912,315 Com. Nat. Bank bldg.,139
+Houston,1912,317¼ Main st.,139
+Houston,1912,319 Kiam bldg.,139
+Houston,1912,321 1st Nat'l Bk. bldg.,139
+Houston,1912,326 1st Nat'l Bk. bid.,139
+Houston,1912,400 Klam bldg.,139
+Houston,1912,401 Binz bldg.,139
+Houston,1912,401 Mason Bldg.,139
+Houston,1912,401 Scanian,139
+Houston,1912,402 Chronicle bldg.,139
+Houston,1912,402 Kiam bldg.,139
+Houston,1912,402 Moore-Burnett bldg.,139
+Houston,1912,404-5 Klam bldg.,139
+Houston,1912,405 Klam bldg.,139
+Houston,1912,405 Paul bldg.,139
+Houston,1912,405 Scanlan bldg.,139
+Houston,1912,406 Paul bldg.,139
+Houston,1912,406 Scanlan bldg.,139
+Houston,1912,407 Scanlan bldg.,139
+Houston,1912,408 Cotton Exch.,139
+Houston,1912,409 Paul bldg.,139
+Houston,1912,409 Scanlan bldg.,139
+Houston,1912,410 W. 17th ave.,139
+Houston,1912,411 Binz bldg.,139
+Houston,1912,4114 Travis st.,139
+Houston,1912,412 Binz bld.,139
+Houston,1912,412 Paul bldg.,139
+Houston,1912,417 Binz bldg.,139
+Houston,1912,417 Com'lNat'l Bk. bldg.,139
+Houston,1912,418-19-20 Mason bldg.,139
+Houston,1912,423 Mason bldg.,139
+Houston,1912,426 1st. Nat'l Bk. bldg.,139
+Houston,1912,427 1st Na'l Bk. bldg.,139
+Houston,1912,435 Mason bldg.,139
+Houston,1912,4th fl. Mason bldg.,139
+Houston,1912,501 Bins bldg.,139
+Houston,1912,502 Binz bldg.,139
+Houston,1912,503 Binz bldg.,139
+Houston,1912,503 Kiam,139
+Houston,1912,503 Kiam bldg.,139
+Houston,1912,504 Binz bldg.,139
+Houston,1912,505 Carter bldg.,139
+Houston,1912,505 Kiam,139
+Houston,1912,506 Paul bldg.,139
+Houston,1912,507 Paul bldg.,139
+Houston,1912,508 Paul bldg.,139
+Houston,1912,512 Paul bldg.,139
+Houston,1912,525 1st Nat'llBk. bldg.,139
+Houston,1912,526 Com'l Bk. bldg.,139
+Houston,1912,6 Cotton Exch.,139
+Houston,1912,6 Klam bldg.,139
+Houston,1912,602 Binz bldg.,139
+Houston,1912,602¼ Main st.,139
+Houston,1912,602½ Main,139
+Houston,1912,605 Binz bldg.,139
+Houston,1912,606 1st Nat'l Bk.,139
+Houston,1912,612 Binz bldg.,139
+Houston,1912,701Stewart bldg.,139
+Houston,1912,710 Stewart bidg.,139
+Houston,1912,8 Fox bldg.,139
+Houston,1912,801 Theatre bldg.,139
+Houston,1912,801-2 Union Nat. Bank bldg.,139
+Houston,1912,802 Main St.,139
+Houston,1912,802 Stewart bldg.,139
+Houston,1912,802-8 Union Nat. Bank bldg.,139
+Houston,1912,804 Theatre bldg.,139
+Houston,1912,807 Paul bulg.,139
+Houston,1912,811-12 Kiam bldg.,139
+Houston,1912,900 Main St.,139
+Houston,1912,901 Carter bldg.,139
+Houston,1912,906 Scanlan bld.,139
+Houston,1912,9104 Preston ave.,139
+Houston,1912,Binx bldg.,139
+Houston,1912,Bk. bldg.,139
+Houston,1912,Carter bldg.,139
+Houston,1912,Chronicle bidg.,139
+Houston,1912,Chronicle bld.,139
+Houston,1912,Chronicle bldg.,139
+Houston,1912,Com. Nat. Bk. bldg.,139
+Houston,1912,Grand CentralDepot,139
+Houston,1912,Kiam bldg.,139
+Houston,1912,L. & T. bldg.,139
+Houston,1912,Rice hotel,139
+Houston,1912,Scanian bldg.,139
+Houston,1912,Scanlan bld.,139
+Houston,1912,Stewart bldg.,139
+Houston,1912,lat Nat. Bank bldg.,139
+Houston,1912,,139
+Indianapolis,1912,Am. Cent. Life bidg.,46
+Indianapolis,1912,Am. Central Life bldg.,46
+Indianapolis,1912,Amer. Cent. Life bldg.,46
+Indianapolis,1912,Amer. Central Life bldg.,46
+Indianapolis,1912,Amer. Cont. Life bldg.,46
+Indianapolis,1912,Baldwin bik.,46
+Indianapolis,1912,Baldwin blk,46
+Indianapolis,1912,Baldwin blk.,46
+Indianapolis,1912,Bd. of Trade bldg.,46
+Indianapolis,1912,Board of Trade,46
+Indianapolis,1912,Bran-don blk.,46
+Indianapolis,1912,Castle Hall,46
+Indianapolis,1912,Castle Hall bldg.,46
+Indianapolis,1912,E. Market,46
+Indianapolis,1912,Fletcher Am. Bank bldg.,46
+Indianapolis,1912,Holiday bldg.,46
+Indianapolis,1912,Ind. Pyth. bldg.,46
+Indianapolis,1912,Ind. Pythian bldg.,46
+Indianapolis,1912,Ind. Trust bldg.,46
+Indianapolis,1912,Indiana Tr. bldg.,46
+Indianapolis,1912,Law Bldg.,46
+Indianapolis,1912,Law bdig.,46
+Indianapolis,1912,Law bldg.,46
+Indianapolis,1912,Lemcke,46
+Indianapolis,1912,Lemcke Annex,46
+Indianapolis,1912,Lemcke bidg.,46
+Indianapolis,1912,Lemcke bld.,46
+Indianapolis,1912,Lemcke bldg.,46
+Indianapolis,1912,Lemcko bldg.,46
+Indianapolis,1912,Lombard bldg.,46
+Indianapolis,1912,Newton Claypool bldg.,46
+Indianapolis,1912,Odd Fellows bldg.,46
+Indianapolis,1912,Saks bldg.,46
+Indianapolis,1912,State Life,46
+Indianapolis,1912,State Life bid.,46
+Indianapolis,1912,State Life bldg.,46
+Indianapolis,1912,Terminal blog.,46
+Indianapolis,1912,Trac. Term.,46
+Indianapolis,1912,Trac. Term. bld.,46
+Indianapolis,1912,Trac. Term. bldg.,46
+Indianapolis,1912,Traction bldg.,46
+Indianapolis,1912,Union Tr. bldg.,46
+Indianapolis,1912,Union Trust bldg.,46
+Indianapolis,1912,Unity bldg.,46
+Indianapolis,1912,When bldg.,46
+Indianapolis,1912,,46
+Kansas City,1912,10th,188
+Kansas City,1912,1st Nat. Bank bldg.,188
+Kansas City,1912,1st Nat. Bk. bldg.,188
+Kansas City,1912,1st NatBank bldg.,188
+Kansas City,1912,300 U. S. & Mex. Trust bldg.,188
+Kansas City,1912,325 Midland bldg.,188
+Kansas City,1912,Acarritt bide.,188
+Kansas City,1912,Acarritt bldg.,188
+Kansas City,1912,Am. Bank bidg.,188
+Kansas City,1912,Am. Rank bldg.,188
+Kansas City,1912,Amer. Bank bldg.,188
+Kansas City,1912,American Bank bldg.,188
+Kansas City,1912,Argyle bldg.,188
+Kansas City,1912,Arlington bldg.,188
+Kansas City,1912,Baltimore,188
+Kansas City,1912,Baltimore ave.,188
+Kansas City,1912,Barker bldg.,188
+Kansas City,1912,Braley bldg.,188
+Kansas City,1912,Bruleys bldg.,188
+Kansas City,1912,Bryant bldg.,188
+Kansas City,1912,Bunker bldg.,188
+Kansas City,1912,Central ave.,188
+Kansas City,1912,Century bldg.,188
+Kansas City,1912,Chapman bldg.,188
+Kansas City,1912,Com. bld.,188
+Kansas City,1912,Com. bldg.,188
+Kansas City,1912,Com. blåg.,188
+Kansas City,1912,Commerce,188
+Kansas City,1912,Commerce bidg.,188
+Kansas City,1912,Commerce bilg.,188
+Kansas City,1912,Commerce bld.,188
+Kansas City,1912,Commerce bldg.,188
+Kansas City,1912,Commercial Bk. bldg.,188
+Kansas City,1912,Dwight,188
+Kansas City,1912,Dwight bld.,188
+Kansas City,1912,Dwight bldg.,188
+Kansas City,1912,E 18th,188
+Kansas City,1912,E. 10th,188
+Kansas City,1912,E. 6th,188
+Kansas City,1912,E. 9th,188
+Kansas City,1912,Fidelity Tr. bldg.,188
+Kansas City,1912,Fidelity Trust,188
+Kansas City,1912,Fidelity Trust bidg.,188
+Kansas City,1912,Fidelity Trust bldg.,188
+Kansas City,1912,Finance bid.,188
+Kansas City,1912,Finance bidg.,188
+Kansas City,1912,Finance bld.,188
+Kansas City,1912,Finance bldg.,188
+Kansas City,1912,G. & K. bldg.,188
+Kansas City,1912,Gibraltar bldg.,188
+Kansas City,1912,Glendale bldg.,188
+Kansas City,1912,Gloyd bidg.,188
+Kansas City,1912,Gloyd bldg.,188
+Kansas City,1912,Grand Av. Tem.,188
+Kansas City,1912,Grand Av. Temple,188
+Kansas City,1912,Grand Ave. Tempie,188
+Kansas City,1912,Grand Ave. Temple,188
+Kansas City,1912,Grand Ave. Temple bidg.,188
+Kansas City,1912,Gumbel bldg.,188
+Kansas City,1912,Gumbet bldg.,188
+Kansas City,1912,Hail bidg,188
+Kansas City,1912,Hall bidg.,188
+Kansas City,1912,Hall bldg.,188
+Kansas City,1912,Hardesty ave.,188
+Kansas City,1912,Harrison,188
+Kansas City,1912,Hatt Didg.,188
+Kansas City,1912,Helst bldg.,188
+Kansas City,1912,Junction bldg,188
+Kansas City,1912,Junction bldg.,188
+Kansas City,1912,K. & I. bldg.,188
+Kansas City,1912,K. & P. bidg.,188
+Kansas City,1912,K. & P. bld.,188
+Kansas City,1912,K. & P. bldg.,188
+Kansas City,1912,K. & P. hldg.,188
+Kansas City,1912,K. A. Long bldg.,188
+Kansas City,1912,K. C. Life,188
+Kansas City,1912,K. C. Life bld.,188
+Kansas City,1912,K. C. Life bldg.,188
+Kansas City,1912,Kansas ave.,188
+Kansas City,1912,Keith & Perry bldg.,188
+Kansas City,1912,Kemper bldg,188
+Kansas City,1912,Koppel bldg.,188
+Kansas City,1912,Lillis bldg.,188
+Kansas City,1912,Live Stock Exch.,188
+Kansas City,1912,Live Stock Exchange,188
+Kansas City,1912,Long Bros bldg.,188
+Kansas City,1912,Main,188
+Kansas City,1912,Mass. bidg.,188
+Kansas City,1912,Mass. bldg.,188
+Kansas City,1912,Massachusetts bldg.,188
+Kansas City,1912,Midland,188
+Kansas City,1912,Midland bl,188
+Kansas City,1912,Midland bldg.,188
+Kansas City,1912,Missouri bldg.,188
+Kansas City,1912,Myers bldg.,188
+Kansas City,1912,N. Y.,188
+Kansas City,1912,N. Y. Life,188
+Kansas City,1912,N. Y. Life bidg.,188
+Kansas City,1912,N. Y. Life bld.,188
+Kansas City,1912,N. Y. Life bldg,188
+Kansas City,1912,N. Y. Life bldg.,188
+Kansas City,1912,N. Y. Life hidg.,188
+Kansas City,1912,Nat. Bk. of Reserve,188
+Kansas City,1912,Nat. Reserve Bank bldg.,188
+Kansas City,1912,Ned. Sk. bldg.,188
+Kansas City,1912,Nelson birde.,188
+Kansas City,1912,Nelson bldg.,188
+Kansas City,1912,New Eng. bldg.,188
+Kansas City,1912,New Eng. hldg.,188
+Kansas City,1912,New England blag.,188
+Kansas City,1912,New England bldg.,188
+Kansas City,1912,New Life bldg.,188
+Kansas City,1912,New Ridge,188
+Kansas City,1912,New Ridge bldg.,188
+Kansas City,1912,Orear-Lesile bldg.,188
+Kansas City,1912,Orear-Leslie bldg.,188
+Kansas City,1912,Penn,188
+Kansas City,1912,Pennock bldg.,188
+Kansas City,1912,Poplar,188
+Kansas City,1912,Portsmouth bld.,188
+Kansas City,1912,Postal Tel. bldg.,188
+Kansas City,1912,R. A. Long bid.,188
+Kansas City,1912,R. A. Long bidg.,188
+Kansas City,1912,R. A. Long bldg,188
+Kansas City,1912,R. A. Long bldg.,188
+Kansas City,1912,R. A. Long blog.,188
+Kansas City,1912,Rea Bank bidg.,188
+Kansas City,1912,Rea. Bank bldg.,188
+Kansas City,1912,Reliance blag.,188
+Kansas City,1912,Reliance bld.,188
+Kansas City,1912,Reliance bldg.,188
+Kansas City,1912,Rellance bidg.,188
+Kansas City,1912,Rellance bldg.,188
+Kansas City,1912,Republic bldg.,188
+Kansas City,1912,Res Bank bldg.,188
+Kansas City,1912,Res Rank bldg.,188
+Kansas City,1912,Res. Bank bldg.,188
+Kansas City,1912,Res. Bk bld.,188
+Kansas City,1912,Res. Bk. bld.,188
+Kansas City,1912,Res. Bk. bldg.,188
+Kansas City,1912,Reserve Bank bldg.,188
+Kansas City,1912,Reserve Bank blog.,188
+Kansas City,1912,Rialto bld.,188
+Kansas City,1912,Rialto bldg,188
+Kansas City,1912,Rialto bldg.,188
+Kansas City,1912,Ricksecker,188
+Kansas City,1912,Ricksecker bldg.,188
+Kansas City,1912,Ridge bidg.,188
+Kansas City,1912,Ridge bldg.,188
+Kansas City,1912,Scarritt,188
+Kansas City,1912,Scarritt Arcade,188
+Kansas City,1912,Scarritt bidg.,188
+Kansas City,1912,Scarritt bld.,188
+Kansas City,1912,Scarritt bldg,188
+Kansas City,1912,Scarritt bldg.,188
+Kansas City,1912,Scerritt bldg.,188
+Kansas City,1912,Scurritt bldg.,188
+Kansas City,1912,Sharp bldg.,188
+Kansas City,1912,Sheidley bidg.,188
+Kansas City,1912,Sheidley bld.,188
+Kansas City,1912,Sheidley bldg.,188
+Kansas City,1912,Sheld-ley bldg.,188
+Kansas City,1912,Sheldley bld.,188
+Kansas City,1912,Sheldley bldg.,188
+Kansas City,1912,Sheldley hide.,188
+Kansas City,1912,Shiedley bldg.,188
+Kansas City,1912,Shukert bldg.,188
+Kansas City,1912,Snukert bldg.,188
+Kansas City,1912,Sterling bldg.,188
+Kansas City,1912,Temple,188
+Kansas City,1912,Temple bldg.,188
+Kansas City,1912,U. S. & Mex. Trust bldg.,188
+Kansas City,1912,Victor,188
+Kansas City,1912,Victor bld.,188
+Kansas City,1912,Victor bldg.,188
+Kansas City,1912,W. 8th,188
+Kansas City,1912,W. 9th,188
+Kansas City,1912,Wald-,188
+Kansas City,1912,Wald-heim bldg.,188
+Kansas City,1912,Wald-helm bldg.,188
+Kansas City,1912,Waldheim bidz.,188
+Kansas City,1912,Waldheim bldg.,188
+Kansas City,1912,Wardheim bldg.,188
+Kansas City,1912,Water Works bldg.,188
+Kansas City,1912,Wheeler bldg.,188
+Kansas City,1912,Y. Life bldg.,188
+Kansas City,1912,К. С. Life bldg.,188
+Kansas City,1912,,188
+Lexington,1912,Tr. Co. bldg,2
+Lexington,1912,,2
+Los Angeles,1912,1114 Union Trust bldg.,249
+Los Angeles,1912,1403 E. Vernon,249
+Los Angeles,1912,142 S. Broadway,249
+Los Angeles,1912,1454 N. Main,249
+Los Angeles,1912,1468 Central,249
+Los Angeles,1912,147 S. Broadway,249
+Los Angeles,1912,200 Coulter bldg.,249
+Los Angeles,1912,200 H. W. Hellman,249
+Los Angeles,1912,200-1-2-3 Currler bldg.,249
+Los Angeles,1912,200-2 Frost bldg.,249
+Los Angeles,1912,201 Equit. Savings Bank bldg.,249
+Los Angeles,1912,201 Grant bldg.,249
+Los Angeles,1912,202 Mercantile pl.,249
+Los Angeles,1912,204 Bradbury bldg.,249
+Los Angeles,1912,205 Amer. Bank bldg.,249
+Los Angeles,1912,207 Amer. Bk bldg.,249
+Los Angeles,1912,207 Stimson bldg.,249
+Los Angeles,1912,210 Mason bldg.,249
+Los Angeles,1912,211 Grant bldg.,249
+Los Angeles,1912,214-16-18 Am. Bank bldg.,249
+Los Angeles,1912,216 Copp bldg.,249
+Los Angeles,1912,219 Cit. Nat. Bank bldg,249
+Los Angeles,1912,221 Central bldg.,249
+Los Angeles,1912,229 I. W. Hellman bld.,249
+Los Angeles,1912,280 I. W. Hellman bldg.,249
+Los Angeles,1912,280 I. W. Hellman blåg.,249
+Los Angeles,1912,284 Mason bldg.,249
+Los Angeles,1912,302 Central bldg.,249
+Los Angeles,1912,304 Fay bldg.,249
+Los Angeles,1912,305 Mason bldg.,249
+Los Angeles,1912,308 Tr. & Sav. bldg.,249
+Los Angeles,1912,310 Fay bldg.,249
+Los Angeles,1912,310 Severance,249
+Los Angeles,1912,313 O T. Johnson bldg.,249
+Los Angeles,1912,315 Cons. Rity bldg.,249
+Los Angeles,1912,317 Mer. Tr. bld.,249
+Los Angeles,1912,329 P. E. bldg.,249
+Los Angeles,1912,376 Wilcox bldg.,249
+Los Angeles,1912,382 W. 6th,249
+Los Angeles,1912,404 Lankerahim bldg.,249
+Los Angeles,1912,404 P. E. bldg.,249
+Los Angeles,1912,405 Grant bldg.,249
+Los Angeles,1912,406 Laughlin bldg.,249
+Los Angeles,1912,406 Mason bldg.,249
+Los Angeles,1912,408 Bumiller bldg,249
+Los Angeles,1912,408-10 S. Hill,249
+Los Angeles,1912,409 Fay bldg.,249
+Los Angeles,1912,410 Lankershim bldg.,249
+Los Angeles,1912,413 Grant bldg.,249
+Los Angeles,1912,415 Exchange bldg.,249
+Los Angeles,1912,420-21 Story bldg.,249
+Los Angeles,1912,425 I. W. Hellman bldg.,249
+Los Angeles,1912,427 Story bldg.,249
+Los Angeles,1912,428 Mason bld.,249
+Los Angeles,1912,4706 Vermont,249
+Los Angeles,1912,524 Bumiller bldg.,249
+Los Angeles,1912,601 Story bldg.,249
+Los Angeles,1912,609 Bumiller bldg.,249
+Los Angeles,1912,611 Security bldg.,249
+Los Angeles,1912,612 H. W. Hellman bldg.,249
+Los Angeles,1912,613 Citz. Bank bldg.,249
+Los Angeles,1912,614 Tr. & Sav. bld.,249
+Los Angeles,1912,614 Trust & Sav. bldg.,249
+Los Angeles,1912,616 Grant bldg.,249
+Los Angeles,1912,619 Cons. Rity bld.,249
+Los Angeles,1912,621 Bumiller bldg.,249
+Los Angeles,1912,628 8. Hill at.,249
+Los Angeles,1912,631 Security bldg.,249
+Los Angeles,1912,632 Chamber of Commerce,249
+Los Angeles,1912,658 P. E. bldg.,249
+Los Angeles,1912,680 Security bldg.,249
+Los Angeles,1912,681 I. W. Hellman bldg.,249
+Los Angeles,1912,686 H. W. Hell-man blåg.,249
+Los Angeles,1912,702 Fay bidg.,249
+Los Angeles,1912,702 Johnston bldg.,249
+Los Angeles,1912,705 Delta bldg.,249
+Los Angeles,1912,710 W. & C. bldg.,249
+Los Angeles,1912,719 Delta bldg.,249
+Los Angeles,1912,722 Story bldg.,249
+Los Angeles,1912,732 Security bldg.,249
+Los Angeles,1912,802 Frost bldg.,249
+Los Angeles,1912,802 Story bldg.,249
+Los Angeles,1912,804 Grant bldg.,249
+Los Angeles,1912,804 Trust & Sav. bldg.,249
+Los Angeles,1912,808 H. W. Hellman,249
+Los Angeles,1912,812 Ferguson bidg.,249
+Los Angeles,1912,815 Currier bldg.,249
+Los Angeles,1912,817 Cons. Rity bldg.,249
+Los Angeles,1912,818 H. W. Hellman,249
+Los Angeles,1912,822 Security bldg.,249
+Los Angeles,1912,841 8 Hill,249
+Los Angeles,1912,89th & Western,249
+Los Angeles,1912,905 Story bldg.,249
+Los Angeles,1912,933 Security bldg.,249
+Los Angeles,1912,937 Security bldg.,249
+Los Angeles,1912,Am. Bank,249
+Los Angeles,1912,Am. Bank bldg.,249
+Los Angeles,1912,Amer. Bank bldg.,249
+Los Angeles,1912,Bradbury,249
+Los Angeles,1912,Bradbury bldg.,249
+Los Angeles,1912,"Brwy, Cent bld.",249
+Los Angeles,1912,Bryson bldg.,249
+Los Angeles,1912,Bullard bldg.,249
+Los Angeles,1912,Bumiller bldg,249
+Los Angeles,1912,Bumiller bldg.,249
+Los Angeles,1912,Byrne bldg.,249
+Los Angeles,1912,California bldg.,249
+Los Angeles,1912,Cent. bld.,249
+Los Angeles,1912,Central,249
+Los Angeles,1912,Central bide.,249
+Los Angeles,1912,Central bldg.,249
+Los Angeles,1912,Central blvd.,249
+Los Angeles,1912,Centrul,249
+Los Angeles,1912,Centrul bldg.,249
+Los Angeles,1912,Cham. of Com.,249
+Los Angeles,1912,Cham. of Com. bldg.,249
+Los Angeles,1912,Chamber of Com.,249
+Los Angeles,1912,Chamber of Commerce,249
+Los Angeles,1912,Cit. Nat. Bank bldg.,249
+Los Angeles,1912,Citizens National Bank bldg.,249
+Los Angeles,1912,Citizens' National Bank bldg.,249
+Los Angeles,1912,City Bank bldg.,249
+Los Angeles,1912,City Nat. Bank bidg.,249
+Los Angeles,1912,Citz. Nat. Bank bidg.,249
+Los Angeles,1912,Citz. Nat. Bank bldg.,249
+Los Angeles,1912,Citz. Nat. Bk bld.,249
+Los Angeles,1912,Columbia Trust bldg.,249
+Los Angeles,1912,Cons. Realty,249
+Los Angeles,1912,Cons. Realty bidg.,249
+Los Angeles,1912,Cons. Realty bldg.,249
+Los Angeles,1912,Cons. Rity bldg.,249
+Los Angeles,1912,Cons. Rity. bld.,249
+Los Angeles,1912,Consolidated Realty bldg.,249
+Los Angeles,1912,Currier bldg.,249
+Los Angeles,1912,Delta bidg.,249
+Los Angeles,1912,Delta bldg.,249
+Los Angeles,1912,Donglas bldg.,249
+Los Angeles,1912,Douglas bidg.,249
+Los Angeles,1912,Douglas bld.,249
+Los Angeles,1912,Douglas bldg.,249
+Los Angeles,1912,East Hollywood,249
+Los Angeles,1912,Eq. Sav. Bk bldg.,249
+Los Angeles,1912,Exch. bldg.,249
+Los Angeles,1912,Exchange bldg,249
+Los Angeles,1912,Exchange bldg.,249
+Los Angeles,1912,Fay bldg.,249
+Los Angeles,1912,Ferguson bldg.,249
+Los Angeles,1912,Frost bldg,249
+Los Angeles,1912,Frost bldg.,249
+Los Angeles,1912,Grant,249
+Los Angeles,1912,Grant bidg.,249
+Los Angeles,1912,Grant bldg.,249
+Los Angeles,1912,Grosse bldg.,249
+Los Angeles,1912,H. W. H. bidg.,249
+Los Angeles,1912,H. W. H. bld.,249
+Los Angeles,1912,H. W. Hellman,249
+Los Angeles,1912,H. W. Hellman bld,249
+Los Angeles,1912,H. W. Hellman bld.,249
+Los Angeles,1912,H. W. Hellman bldg.,249
+Los Angeles,1912,Hellman,249
+Los Angeles,1912,Hellman bld.,249
+Los Angeles,1912,Hellman bldg,249
+Los Angeles,1912,Hellman bldg.,249
+Los Angeles,1912,Hellman hidg.,249
+Los Angeles,1912,Henne bidg.,249
+Los Angeles,1912,Henne bldg.,249
+Los Angeles,1912,Higgins blag.,249
+Los Angeles,1912,Higgins bldg.,249
+Los Angeles,1912,Higgins hide.,249
+Los Angeles,1912,Hill,249
+Los Angeles,1912,Hilyd blvd.,249
+Los Angeles,1912,I. W. Hellman bidg.,249
+Los Angeles,1912,I. W. Hellman bldg.,249
+Los Angeles,1912,Int. Bank bldg.,249
+Los Angeles,1912,J. W. Hellman,249
+Los Angeles,1912,Johnson bldg.,249
+Los Angeles,1912,Kerckhoff bldg.,249
+Los Angeles,1912,Lankershim bldg.,249
+Los Angeles,1912,"Lankershim, bldg.",249
+Los Angeles,1912,Laughlin bide.,249
+Los Angeles,1912,Laughlin bidg,249
+Los Angeles,1912,Laughlin bldg.,249
+Los Angeles,1912,Lissner bldg.,249
+Los Angeles,1912,Lyceum Theater bld.,249
+Los Angeles,1912,Mason Opera House,249
+Los Angeles,1912,Mason bid.,249
+Los Angeles,1912,Mason bidg,249
+Los Angeles,1912,Mason bidg.,249
+Los Angeles,1912,Mason bldg.,249
+Los Angeles,1912,Mer. Tr. bidg.,249
+Los Angeles,1912,Mer. Tr. bldg.,249
+Los Angeles,1912,Mer. Trust bidg.,249
+Los Angeles,1912,Mer. Trust bldg.,249
+Los Angeles,1912,Mercantile,249
+Los Angeles,1912,Mercantile pl.,249
+Los Angeles,1912,Nat'l Bank bidg,249
+Los Angeles,1912,Nat. Bank bldg.,249
+Los Angeles,1912,O. T. Johnson bidg.,249
+Los Angeles,1912,O. T. Johnson bldg.,249
+Los Angeles,1912,P. E. bldg.,249
+Los Angeles,1912,Pac. Elec. bldg.,249
+Los Angeles,1912,S. HIM,249
+Los Angeles,1912,S. Hill,249
+Los Angeles,1912,S. Spring,249
+Los Angeles,1912,San Fernando bidg.,249
+Los Angeles,1912,Sec bldg.,249
+Los Angeles,1912,Security bidg.,249
+Los Angeles,1912,Security blag.,249
+Los Angeles,1912,Security bldg.,249
+Los Angeles,1912,Severance,249
+Los Angeles,1912,Severance bldg.,249
+Los Angeles,1912,Severance pl.,249
+Los Angeles,1912,Stimson bidg.,249
+Los Angeles,1912,Stimson bik.,249
+Los Angeles,1912,Stimson bldg.,249
+Los Angeles,1912,Store bldr.,249
+Los Angeles,1912,Story bid.,249
+Los Angeles,1912,Story bilg.,249
+Los Angeles,1912,Story bldg.,249
+Los Angeles,1912,Story blilg.,249
+Los Angeles,1912,Sumson bldg.,249
+Los Angeles,1912,T. & Bav. bldg.,249
+Los Angeles,1912,Temple blk.,249
+Los Angeles,1912,Title Inn. bldg.,249
+Los Angeles,1912,Tr. & Bav. bldg.,249
+Los Angeles,1912,Tr. & Sav.,249
+Los Angeles,1912,Tr. & Sav. bld.,249
+Los Angeles,1912,Tr. & Sav. bldg.,249
+Los Angeles,1912,Trust & Sav.,249
+Los Angeles,1912,Trust & Sav. bldg.,249
+Los Angeles,1912,Trust & Savings bldg.,249
+Los Angeles,1912,Un. Tr. bldg.,249
+Los Angeles,1912,Union League bldg.,249
+Los Angeles,1912,Union Tr. bid.,249
+Los Angeles,1912,Union Tr. bldg.,249
+Los Angeles,1912,Union Trust,249
+Los Angeles,1912,Union Trust bldg.,249
+Los Angeles,1912,Union Trust blåg.,249
+Los Angeles,1912,University,249
+Los Angeles,1912,Vermont,249
+Los Angeles,1912,W. & C. bldg.,249
+Los Angeles,1912,W. A. Sec. bldg.,249
+Los Angeles,1912,W. H. bldg.,249
+Los Angeles,1912,W. P. Story bldg.,249
+Los Angeles,1912,Wilcox bldg.,249
+Los Angeles,1912,Wr. & Call. bldg.,249
+Los Angeles,1912,Wright & Cal. bldg.,249
+Los Angeles,1912,Wright & Callender bldg.,249
+Los Angeles,1912,,249
+Milwaukee,1912,Alhambra bld.,44
+Milwaukee,1912,Alhambra bldg.,44
+Milwaukee,1912,Camp bldg.,44
+Milwaukee,1912,"Caswell blk,",44
+Milwaukee,1912,Caswell blk.,44
+Milwaukee,1912,Cawker bldg.,44
+Milwaukee,1912,Cawker bole,44
+Milwaukee,1912,Cns-well blk.,44
+Milwaukee,1912,Colby-Abbott bldg.,44
+Milwaukee,1912,East Water,44
+Milwaukee,1912,Empire bldg.,44
+Milwaukee,1912,Folnom Place,44
+Milwaukee,1912,Germania bldg.,44
+Milwaukee,1912,Germanin bldg.,44
+Milwaukee,1912,Goldsmith bldg.,44
+Milwaukee,1912,Iron blk.,44
+Milwaukee,1912,Kinnikinnic,44
+Milwaukee,1912,Kinnikinnte,44
+Milwaukee,1912,Loan & T. bldg.,44
+Milwaukee,1912,Loan & Tr. bld.,44
+Milwaukee,1912,Loan & Trust bldg.,44
+Milwaukee,1912,Majestic bldg.,44
+Milwaukee,1912,Matthews bld.,44
+Milwaukee,1912,Matthews bldg.,44
+Milwaukee,1912,Mayester bldg.,44
+Milwaukee,1912,Merrill bldg.,44
+Milwaukee,1912,Metropolitan blk.,44
+Milwaukee,1912,Miller bldg.,44
+Milwaukee,1912,Mitchell,44
+Milwaukee,1912,Mitchell bldg.,44
+Milwaukee,1912,Montgom-ery bldg.,44
+Milwaukee,1912,National ave.,44
+Milwaukee,1912,Ogden bldg.,44
+Milwaukee,1912,Pabst bidg.,44
+Milwaukee,1912,Pabst bldg.,44
+Milwaukee,1912,Plankinton bld.,44
+Milwaukee,1912,Plankinton bldg.,44
+Milwaukee,1912,Railway Ex. bld.,44
+Milwaukee,1912,Railway Ex. bldg.,44
+Milwaukee,1912,Rallway Ex bldg.,44
+Milwaukee,1912,Ry. Ex. bld.,44
+Milwaukee,1912,Sentinel bldg.,44
+Milwaukee,1912,Wells bldg.,44
+Milwaukee,1912,,44
+Minneapolis,1912,1st Main,95
+Minneapolis,1912,1st ave. N.,95
+Minneapolis,1912,1st ave. S.,95
+Minneapolis,1912,4th,95
+Minneapolis,1912,An-,95
+Minneapolis,1912,Andrus,95
+Minneapolis,1912,Andrus bidg.,95
+Minneapolis,1912,Andrus bld.,95
+Minneapolis,1912,Andrus bldg.,95
+Minneapolis,1912,Bank Com.,95
+Minneapolis,1912,Bank Commerce,95
+Minneapolis,1912,Bank of Commerce,95
+Minneapolis,1912,Bk. Com.,95
+Minneapolis,1912,Boston bik.,95
+Minneapolis,1912,Boston blk.,95
+Minneapolis,1912,Broadway Beit Line,95
+Minneapolis,1912,Central,95
+Minneapolis,1912,Century bldg.,95
+Minneapolis,1912,Cham. Commerce,95
+Minneapolis,1912,Flour Ex. bldg.,95
+Minneapolis,1912,Furn. Expo. bldg.,95
+Minneapolis,1912,Globe,95
+Minneapolis,1912,Globe bldg.,95
+Minneapolis,1912,Guaranty bldg.,95
+Minneapolis,1912,Kasota,95
+Minneapolis,1912,Kasota bldg.,95
+Minneapolis,1912,Kasota blk.,95
+Minneapolis,1912,Life bldg.,95
+Minneapolis,1912,Lincoln bldg.,95
+Minneapolis,1912,Loan,95
+Minneapolis,1912,Lobby,95
+Minneapolis,1912,Lumber Ex.,95
+Minneapolis,1912,Lumber Exch.,95
+Minneapolis,1912,Lumber Exch. bldg.,95
+Minneapolis,1912,Lumber Exchange,95
+Minneapolis,1912,Lumber Exchange bldg.,95
+Minneapolis,1912,McMullen bldg.,95
+Minneapolis,1912,Medical blk.,95
+Minneapolis,1912,Met Life,95
+Minneapolis,1912,Met Life bid.,95
+Minneapolis,1912,Met Life bldg,95
+Minneapolis,1912,Met Life bldg.,95
+Minneapolis,1912,"Met, Life bld.",95
+Minneapolis,1912,"Met, Life bldg.",95
+Minneapolis,1912,Met.,95
+Minneapolis,1912,Met. Life,95
+Minneapolis,1912,Met. Life bide.,95
+Minneapolis,1912,Met. Life bidg.,95
+Minneapolis,1912,Met. Life bld.,95
+Minneapolis,1912,Met. Life bldg.,95
+Minneapolis,1912,Met. bldg.,95
+Minneapolis,1912,Met. hldg.,95
+Minneapolis,1912,Minn. L. & Tr.,95
+Minneapolis,1912,N. W. bldg.,95
+Minneapolis,1912,N. Y. Life bldg.,95
+Minneapolis,1912,Nicollet,95
+Minneapolis,1912,Nicollet ave.,95
+Minneapolis,1912,Oneida bldg.,95
+Minneapolis,1912,Oneida blk.,95
+Minneapolis,1912,Onelda bldg.,95
+Minneapolis,1912,Palace,95
+Minneapolis,1912,Palace bld.,95
+Minneapolis,1912,Palace bldg.,95
+Minneapolis,1912,"Palace bldg.,",95
+Minneapolis,1912,Phoe,95
+Minneapolis,1912,Phoenix,95
+Minneapolis,1912,Phoenix bld.,95
+Minneapolis,1912,Phoenix bldg.,95
+Minneapolis,1912,Pilsbury bldg.,95
+Minneapolis,1912,Ply. bldg.,95
+Minneapolis,1912,Plymouth bld.,95
+Minneapolis,1912,Plymouth bldg.,95
+Minneapolis,1912,Rand bldg.,95
+Minneapolis,1912,Reid Corner,95
+Minneapolis,1912,Relr Corner,95
+Minneapolis,1912,S. 4th,95
+Minneapolis,1912,S. 4th.,95
+Minneapolis,1912,S. 5th,95
+Minneapolis,1912,Sec.,95
+Minneapolis,1912,Sec. Bank,95
+Minneapolis,1912,Sec. Bank bld.,95
+Minneapolis,1912,Sec. Bank bldg.,95
+Minneapolis,1912,Sec. Bk.,95
+Minneapolis,1912,Sec. Bk. bldg.,95
+Minneapolis,1912,Sec. Bldg.,95
+Minneapolis,1912,Sec. bldg.,95
+Minneapolis,1912,Security Bank,95
+Minneapolis,1912,Security Bank bld.,95
+Minneapolis,1912,Security Bank bldg.,95
+Minneapolis,1912,Security Bk.,95
+Minneapolis,1912,St. Anth. Falls Bank,95
+Minneapolis,1912,Sykes blk.,95
+Minneapolis,1912,Temple Court,95
+Minneapolis,1912,Temple Ct.,95
+Minneapolis,1912,,95
+Nashville,1912,"1st Nat'l Bank, bldg.",18
+Nashville,1912,1st Natl. Bk.,18
+Nashville,1912,23 Vanderbilt bldg.,18
+Nashville,1912,7 Noel blk.,18
+Nashville,1912,Bruce bldg.,18
+Nashville,1912,Cham. of Com.,18
+Nashville,1912,Homestead bldg.,18
+Nashville,1912,McGavock blk.,18
+Nashville,1912,Natl. Bk bidg,18
+Nashville,1912,Natl. Bk.,18
+Nashville,1912,Natl. Bk. bld.,18
+Nashville,1912,Un. Bk. bldg.,18
+Nashville,1912,Union Bank bldg.,18
+Nashville,1912,Union Bk. bldg.,18
+Nashville,1912,Unton Bk. bldg.,18
+Nashville,1912,Vander-bilt bldg.,18
+Nashville,1912,Vanderbilt blåg,18
+Nashville,1912,,18
+Newark,1912,Essex,11
+Newark,1912,Essex Bldg.,11
+Newark,1912,Frme Bids.,11
+Newark,1912,Frms. Bldg.,11
+Newark,1912,Met. Bldg.,11
+Newark,1912,Mt. Pros,11
+Newark,1912,Prud bldg.,11
+Newark,1912,Prud. Bldg.,11
+Newark,1912,Union Bldg.,11
+Newark,1912,Union bldg.,11
+Newark,1912,,11
+Philadelphia,1912,1006 Franklin Bk bld.,126
+Philadelphia,1912,1006 Franklin Rk. bld.,126
+Philadelphia,1912,603 Franklin Bk. bldg.,126
+Philadelphia,1912,615 Bulletin bldg.,126
+Philadelphia,1912,705 Stephen Girard bldg.,126
+Philadelphia,1912,818 Arcade bldg,126
+Philadelphia,1912,Amer.bldg.,126
+Philadelphia,1912,American bldg.,126
+Philadelphia,1912,Arcade bidg,126
+Philadelphia,1912,Arcade bidg.,126
+Philadelphia,1912,Arcade bld.,126
+Philadelphia,1912,Arcade bldg.,126
+Philadelphia,1912,Arch,126
+Philadelphia,1912,Bailey,126
+Philadelphia,1912,Bailey bldg,126
+Philadelphia,1912,Bailey bldg.,126
+Philadelphia,1912,Balley bld.,126
+Philadelphia,1912,Balley bldg.,126
+Philadelphia,1912,Betz bldg,126
+Philadelphia,1912,Betz bldg.,126
+Philadelphia,1912,Bridge bidg.,126
+Philadelphia,1912,Broad-St. Sta.,126
+Philadelphia,1912,Bulletin,126
+Philadelphia,1912,Bulletin bidg.,126
+Philadelphia,1912,Bulletin bldg,126
+Philadelphia,1912,Bulletin bldg.,126
+Philadelphia,1912,Bullitt bldg.,126
+Philadelphia,1912,Chestnut,126
+Philadelphia,1912,Christian,126
+Philadelphia,1912,Commonwealth,126
+Philadelphia,1912,Commonwealth Trust,126
+Philadelphia,1912,Commonwealth Trust bldg.,126
+Philadelphia,1912,Crozer bldg.,126
+Philadelphia,1912,Denckla bldg.,126
+Philadelphia,1912,Drexel bld.,126
+Philadelphia,1912,Drexel bldg,126
+Philadelphia,1912,Drexel bldg.,126
+Philadelphia,1912,E. Boston,126
+Philadelphia,1912,Fidelity Mu-,126
+Philadelphia,1912,Fidelity Mutual Life bldg.,126
+Philadelphia,1912,Fidellty Mutual Life bldg.,126
+Philadelphia,1912,Filbert,126
+Philadelphia,1912,Fisher's In,126
+Philadelphia,1912,Franklin Bank,126
+Philadelphia,1912,Franklin Bk. bldg.,126
+Philadelphia,1912,Franklin bid.,126
+Philadelphia,1912,Franklin bld.,126
+Philadelphia,1912,Franklin bldg.,126
+Philadelphia,1912,Fuller bldg.,126
+Philadelphia,1912,Hal,126
+Philadelphia,1912,Hale bidg.,126
+Philadelphia,1912,Hale bldg,126
+Philadelphia,1912,Hale bldg.,126
+Philadelphia,1912,Harrison bldg.,126
+Philadelphia,1912,Haverford,126
+Philadelphia,1912,Heed bldg.,126
+Philadelphia,1912,Keith's Theatre bld.,126
+Philadelphia,1912,Keith's Theatre bldg.,126
+Philadelphia,1912,Keul Estate Trust bldg.,126
+Philadelphia,1912,Lafayette bldg.,126
+Philadelphia,1912,Land Title,126
+Philadelphia,1912,Land Title bid,126
+Philadelphia,1912,Land Title bid.,126
+Philadelphia,1912,Land Title bld.,126
+Philadelphia,1912,Land Title bldg,126
+Philadelphia,1912,Land Title bldg.,126
+Philadelphia,1912,Land Titlo,126
+Philadelphia,1912,Ledger bldg.,126
+Philadelphia,1912,Manhattan bldg.,126
+Philadelphia,1912,Mariner & Merchant bldg.,126
+Philadelphia,1912,Mint Arcade bld.,126
+Philadelphia,1912,Mint Arcade bldg.,126
+Philadelphia,1912,Morris bldg.,126
+Philadelphia,1912,Mut. Life bldg.,126
+Philadelphia,1912,Mut. Life budg,126
+Philadelphia,1912,Mutual Life,126
+Philadelphia,1912,Mutual Life bid,126
+Philadelphia,1912,Mutual Life bldg.,126
+Philadelphia,1912,N. Am. bldg.,126
+Philadelphia,1912,N. Amer. bldg.,126
+Philadelphia,1912,N. American bldg.,126
+Philadelphia,1912,N. Front,126
+Philadelphia,1912,North Amer-ican bldg.,126
+Philadelphia,1912,North American bid.,126
+Philadelphia,1912,North American bldg.,126
+Philadelphia,1912,Orthodox Fkd.,126
+Philadelphia,1912,Orthodox bld.,126
+Philadelphia,1912,Orthodox bldg.,126
+Philadelphia,1912,"Orthodox, Fkd.",126
+Philadelphia,1912,Penn. Sq. bldg.,126
+Philadelphia,1912,PennSq. bldg.,126
+Philadelphia,1912,Penna. bldg.,126
+Philadelphia,1912,Pennsylvania bldg.,126
+Philadelphia,1912,Perry bldg.,126
+Philadelphia,1912,Petz bldg.,126
+Philadelphia,1912,Phila. Bourse,126
+Philadelphia,1912,Provident bldg.,126
+Philadelphia,1912,R. E. Tr. bld.,126
+Philadelphia,1912,R. E. Trust bld.,126
+Philadelphia,1912,R. E. Trust bldg.,126
+Philadelphia,1912,Real Est. Tr. bld,126
+Philadelphia,1912,Real Est. Trust bld.,126
+Philadelphia,1912,Real Estate,126
+Philadelphia,1912,Real Estate Trust,126
+Philadelphia,1912,Real Estate Trust bidg.,126
+Philadelphia,1912,Real Estate Trust bldg.,126
+Philadelphia,1912,Real EstateTrust bldg.,126
+Philadelphia,1912,RealEstate Trust bldg.,126
+Philadelphia,1912,Ridge bidg.,126
+Philadelphia,1912,S. 2nd.,126
+Philadelphia,1912,S. 4th,126
+Philadelphia,1912,S. 6th,126
+Philadelphia,1912,S. 8d,126
+Philadelphia,1912,Stephen Girard bids,126
+Philadelphia,1912,Stephen Girard bldg.,126
+Philadelphia,1912,Trust bldg.,126
+Philadelphia,1912,Walnut,126
+Philadelphia,1912,Walnut & Witherspoon bldg,126
+Philadelphia,1912,Weightman bld.,126
+Philadelphia,1912,Weightman bldg.,126
+Philadelphia,1912,Willings al.,126
+Philadelphia,1912,Witherspoon bidg.,126
+Philadelphia,1912,Witherspoon bldg,126
+Philadelphia,1912,Witherspoon bldg.,126
+Philadelphia,1912,ne c. 3rd & McKean,126
+Philadelphia,1912,,126
+Phoenix,1912,Fleming bldg.,7
+Phoenix,1912,Goodrich bldg,7
+Phoenix,1912,Nat. Bank bldg.,7
+Phoenix,1912,Rm. 1 Lewis bldg,7
+Phoenix,1912,Rma 2-3 Lewis bldg.,7
+Phoenix,1912,Vendome Hotel,7
+Phoenix,1912,,7
+Pittsburgh,1912,Apollo bldg.,53
+Pittsburgh,1912,Arrott bldg.,53
+Pittsburgh,1912,Bakewell bldg.,53
+Pittsburgh,1912,"Beely Blk., Penn & Beatty",53
+Pittsburgh,1912,Berger bldg,53
+Pittsburgh,1912,Berger bldg.,53
+Pittsburgh,1912,Bijou bidg.,53
+Pittsburgh,1912,Bridge at.,53
+Pittsburgh,1912,Caldwell & Graham bldg.,53
+Pittsburgh,1912,Century bldg.,53
+Pittsburgh,1912,Columbia Bank bldg.,53
+Pittsburgh,1912,Commonwealth Real Estate Co.,53
+Pittsburgh,1912,Commonwealth bldg.,53
+Pittsburgh,1912,Diamond Bank bldg.,53
+Pittsburgh,1912,Diamond Bk. bldg.,53
+Pittsburgh,1912,Empire bldg.,53
+Pittsburgh,1912,Farmer Bank bldg.,53
+Pittsburgh,1912,Farmer's Bank bld.,53
+Pittsburgh,1912,Farmers Bank Bldg.,53
+Pittsburgh,1912,Farmers Bank bldg.,53
+Pittsburgh,1912,Farmers Bk. bldg.,53
+Pittsburgh,1912,Farmers' Bank bldg.,53
+Pittsburgh,1912,Ferguson bldg.,53
+Pittsburgh,1912,Forbes & Shady,53
+Pittsburgh,1912,Fulton bldg.,53
+Pittsburgh,1912,Highland bldg.,53
+Pittsburgh,1912,Jenkins Arcade,53
+Pittsburgh,1912,Jenkins bldg.,53
+Pittsburgh,1912,Keystone bld.,53
+Pittsburgh,1912,Keystone bldg.,53
+Pittsburgh,1912,Lewis bldg.,53
+Pittsburgh,1912,Machesney bidg.,53
+Pittsburgh,1912,Machesney bldg.,53
+Pittsburgh,1912,Magee bldg.,53
+Pittsburgh,1912,May bldg.,53
+Pittsburgh,1912,Ohio Valley Trust bldg.,53
+Pittsburgh,1912,Oliver bldg.,53
+Pittsburgh,1912,Park bldg.,53
+Pittsburgh,1912,People Bank bldg.,53
+Pittsburgh,1912,People bldg.,53
+Pittsburgh,1912,People's Bank bldg.,53
+Pittsburgh,1912,Peoples Bank bldg.,53
+Pittsburgh,1912,Peoples bldg.,53
+Pittsburgh,1912,Renshaw bldg.,53
+Pittsburgh,1912,St. Nicholas bldg.,53
+Pittsburgh,1912,Times bldg.,53
+Pittsburgh,1912,Union Bank bldg.,53
+Pittsburgh,1912,Union Bk. bldg.,53
+Pittsburgh,1912,Unton Bank bldg,53
+Pittsburgh,1912,Vandergrift bldg.,53
+Pittsburgh,1912,Wabash bldg.,53
+Pittsburgh,1912,Washington Bank bldg.,53
+Pittsburgh,1912,,53
+Portland,1912,13th & Spokane,139
+Portland,1912,248 Alder,139
+Portland,1912,Abington bld.,139
+Portland,1912,Abington bldg.,139
+Portland,1912,Acheson bldg.,139
+Portland,1912,Allsky bldg.,139
+Portland,1912,Arleta,139
+Portland,1912,B. of Trade bld.,139
+Portland,1912,B. of Trade bldg.,139
+Portland,1912,Bank of Kenton bld.,139
+Portland,1912,Bd. of T. bld.,139
+Portland,1912,Bd. of Trade bidg,139
+Portland,1912,Bd. of Trade bidg.,139
+Portland,1912,Bd. of Trade bld.,139
+Portland,1912,Bd. of Trade bldg,139
+Portland,1912,Bd. of Trade bldg.,139
+Portland,1912,Behnke-Walker bldg.,139
+Portland,1912,Berlinger bldg.,139
+Portland,1912,Board of T. bldg.,139
+Portland,1912,Board of Trade,139
+Portland,1912,Board of Trade bldg.,139
+Portland,1912,Buchanan bldg.,139
+Portland,1912,Cambridge bldg.,139
+Portland,1912,Ch. of Com,139
+Portland,1912,Ch. of Com.,139
+Portland,1912,Ch. of Com. bidg.,139
+Portland,1912,Ch. of Com. bld.,139
+Portland,1912,Ch. of Com. bldg,139
+Portland,1912,Ch. of Com. bldg.,139
+Portland,1912,Cham. of Com.,139
+Portland,1912,Cham. of Com. bidg.,139
+Portland,1912,Cham. of Com. bld.,139
+Portland,1912,Cham. of Com. bldg.,139
+Portland,1912,Chamber of Com. bldg.,139
+Portland,1912,Chambers bldg.,139
+Portland,1912,Com Club bldg.,139
+Portland,1912,Com'l Club bldg.,139
+Portland,1912,Com'l blk.,139
+Portland,1912,Com. Club bldg.,139
+Portland,1912,Com. Club. bld.,139
+Portland,1912,Commercial Club bldg.,139
+Portland,1912,Commercial bik.,139
+Portland,1912,Commercial bldg,139
+Portland,1912,Commercial bldg.,139
+Portland,1912,Commercial blk.,139
+Portland,1912,Commonwealth bldg.,139
+Portland,1912,Corbett bld.,139
+Portland,1912,Corbett bldg.,139
+Portland,1912,Corbett blidg,139
+Portland,1912,Couch bld.,139
+Portland,1912,Couch bldg.,139
+Portland,1912,Dekum bldg.,139
+Portland,1912,E. 39th & Glisan,139
+Portland,1912,Electric bldg.,139
+Portland,1912,Failing bldg.,139
+Portland,1912,Falling bldg.,139
+Portland,1912,Fenton bidg.,139
+Portland,1912,Firland Sta.,139
+Portland,1912,Gerlinger bld.,139
+Portland,1912,Gerlinger bldg.,139
+Portland,1912,Grand av. & Multnomah,139
+Portland,1912,Hamilton bidg.,139
+Portland,1912,Hamilton bldg,139
+Portland,1912,Hamilton bldg.,139
+Portland,1912,Healy bldg.,139
+Portland,1912,Henry bid,139
+Portland,1912,Henry bidg,139
+Portland,1912,Henry bldg.,139
+Portland,1912,Humlion bldg.,139
+Portland,1912,Kenton Bank bldg.,139
+Portland,1912,Kerrigan Sta.,139
+Portland,1912,Laurelwood Sta.,139
+Portland,1912,Lewis bidg.,139
+Portland,1912,Lewis bldg,139
+Portland,1912,Lewis bldg.,139
+Portland,1912,Lmbr. Ex. bldg.,139
+Portland,1912,Lmbr. Exch. bldg.,139
+Portland,1912,Lmbr. Exchange bldg.,139
+Portland,1912,Lumber Ex. bldg.,139
+Portland,1912,Lumber Exch. bid.,139
+Portland,1912,Lumber Exch. bidg.,139
+Portland,1912,Lumber Exch. bldg.,139
+Portland,1912,Lumber Exchange,139
+Portland,1912,Lumberman's,139
+Portland,1912,Lumberman's bldg.,139
+Portland,1912,Lumbermen's bld.,139
+Portland,1912,Lumbermen's bldg,139
+Portland,1912,Lumbermen's bldg.,139
+Portland,1912,Madison bldg.,139
+Portland,1912,Marquam bldg.,139
+Portland,1912,McKay bidg.,139
+Portland,1912,McKay bldg.,139
+Portland,1912,Merchants Trust bldg.,139
+Portland,1912,Merchants' Trust bid.,139
+Portland,1912,Merchants' Trust bldg.,139
+Portland,1912,Metzger Station,139
+Portland,1912,Mohawk bidg.,139
+Portland,1912,Mohawk bldg.,139
+Portland,1912,Mohawk blåg,139
+Portland,1912,Mulkey bldg.,139
+Portland,1912,Oregonian bldg.,139
+Portland,1912,Peninsula & Pippin,139
+Portland,1912,Railroad Exch. bldg.,139
+Portland,1912,Railway Exch. bldg.,139
+Portland,1912,Rothchild bldg.,139
+Portland,1912,Russell bldg.,139
+Portland,1912,Ry. Ex. bld.,139
+Portland,1912,Ry. Exch bldg,139
+Portland,1912,Ry. Exch. bld,139
+Portland,1912,Ry. Exch. bldg.,139
+Portland,1912,Ry. Exchange bidg.,139
+Portland,1912,Selling bidg.,139
+Portland,1912,Selling bldg.,139
+Portland,1912,Sherlock bldg.,139
+Portland,1912,Spalding bidg.,139
+Portland,1912,Spalding bld.,139
+Portland,1912,Spalding bldg.,139
+Portland,1912,Spalding blilk.,139
+Portland,1912,Stearns bldg.,139
+Portland,1912,Stewarts Sta.,139
+Portland,1912,Strowbridge bld.,139
+Portland,1912,Swetland bldg,139
+Portland,1912,Swetland bldg.,139
+Portland,1912,Wash bldg.,139
+Portland,1912,Wash. bldg.,139
+Portland,1912,Washington bldg,139
+Portland,1912,Washington bldg.,139
+Portland,1912,Wells-Fargo bld.,139
+Portland,1912,Wells-Fargo bldg,139
+Portland,1912,Wells-Fargo bldg.,139
+Portland,1912,Worcester bldg.,139
+Portland,1912,Worcester blk.,139
+Portland,1912,Yeon bidg.,139
+Portland,1912,Yeon bld.,139
+Portland,1912,Yeon bldg.,139
+Portland,1912,Yeon blug.,139
+Portland,1912,Yeon.bldg.,139
+Portland,1912,h. of Com. 11.,139
+Portland,1912,,139
+Providence,1912,Banican bldg.,22
+Providence,1912,Banigan,22
+Providence,1912,Banigan bid,22
+Providence,1912,Banigan bid.,22
+Providence,1912,Banigan bidg.,22
+Providence,1912,Banigan bidr.,22
+Providence,1912,Banigan bldg.,22
+Providence,1912,Banlgan bldg.,22
+Providence,1912,Butler Exch.,22
+Providence,1912,Case-Mead bldg.,22
+Providence,1912,Custom House,22
+Providence,1912,Exchange,22
+Providence,1912,Howard bldg.,22
+Providence,1912,Ind. Tr. bidg,22
+Providence,1912,Ind. Trust bldg,22
+Providence,1912,Ind. Trust bldg.,22
+Providence,1912,Industrial Trust,22
+Providence,1912,Lapham bldg.,22
+Providence,1912,Ranigan bidg,22
+Providence,1912,Union Tr. bidg,22
+Providence,1912,Union Trust bldg.,22
+Providence,1912,,22
+Sacramento,1912,Forum bldg.,12
+Sacramento,1912,Hagelstein bldg.,12
+Sacramento,1912,Hotel Sacramento,12
+Sacramento,1912,Ochaner bldg.,12
+Sacramento,1912,Ochener,12
+Sacramento,1912,Ochsner,12
+Sacramento,1912,Ochsner bldg,12
+Sacramento,1912,Ochsner bldg.,12
+Sacramento,1912,Samuels bldg.,12
+Sacramento,1912,Sav. Bk. bldg.,12
+Sacramento,1912,Stoll bldg.,12
+Sacramento,1912,,12
+Saint Louis,1912,3d Nat. Bk. bldg.,64
+Saint Louis,1912,3rd Nat. Bk. bldg.,64
+Saint Louis,1912,Arcade bldg.,64
+Saint Louis,1912,Bank of Com. bldg.,64
+Saint Louis,1912,Benoist bldg.,64
+Saint Louis,1912,Bk. of Commerce bldg.,64
+Saint Louis,1912,Carleton bldg.,64
+Saint Louis,1912,Central Nat. Bk. bldg.,64
+Saint Louis,1912,Century bldg.,64
+Saint Louis,1912,Chas. A. Liggett bldg.,64
+Saint Louis,1912,Chemical bldg.,64
+Saint Louis,1912,Chestnut,64
+Saint Louis,1912,Columbia bldg.,64
+Saint Louis,1912,Commercial bld.,64
+Saint Louis,1912,Commercial bldg.,64
+Saint Louis,1912,Cont. Nat. Bank bldg.,64
+Saint Louis,1912,Culver bldg.,64
+Saint Louis,1912,De Menil bldg.,64
+Saint Louis,1912,Frisco bldg.,64
+Saint Louis,1912,Fullerton bldg.,64
+Saint Louis,1912,Granite bldg.,64
+Saint Louis,1912,Holland bldg.,64
+Saint Louis,1912,Homer bldg.,64
+Saint Louis,1912,Itaska bldg.,64
+Saint Louis,1912,La Salle bldg.,64
+Saint Louis,1912,LaSalle bldg.,64
+Saint Louis,1912,Laciede bldg.,64
+Saint Louis,1912,Laclede bldg.,64
+Saint Louis,1912,Liggett bld.,64
+Saint Louis,1912,Liggett bldg.,64
+Saint Louis,1912,Lincoln Trust bldg.,64
+Saint Louis,1912,Lister bldg.,64
+Saint Louis,1912,McElhinney bldg.,64
+Saint Louis,1912,Mech. Am. Bank bldg.,64
+Saint Louis,1912,Mer.-Laclede bldg.,64
+Saint Louis,1912,Mermod & Jaccard bldg.,64
+Saint Louis,1912,Mo. Tr. bldg.,64
+Saint Louis,1912,Mo. Trust bldg.,64
+Saint Louis,1912,Navarra bldg.,64
+Saint Louis,1912,Navarre bldg.,64
+Saint Louis,1912,New Bk. of Com. bld.,64
+Saint Louis,1912,Olivia bldg.,64
+Saint Louis,1912,Pierce bldg.,64
+Saint Louis,1912,Rialto bldg.,64
+Saint Louis,1912,Roe bldg.,64
+Saint Louis,1912,Sawyer bldg.,64
+Saint Louis,1912,Security bldg.,64
+Saint Louis,1912,Syndicate Tr. bld.,64
+Saint Louis,1912,Syndicate Trust bldg.,64
+Saint Louis,1912,Temple bldg.,64
+Saint Louis,1912,The Mer. Laclede bld.,64
+Saint Louis,1912,The Navarre bldg.,64
+Saint Louis,1912,Times bldg.,64
+Saint Louis,1912,Title Guar. bld,64
+Saint Louis,1912,Title Guar. bld.,64
+Saint Louis,1912,Title Guar. bldg.,64
+Saint Louis,1912,Title Guaranty bldg.,64
+Saint Louis,1912,Victoria bidg.,64
+Saint Louis,1912,Victoria bldg.,64
+Saint Louis,1912,Wainright bldg.,64
+Saint Louis,1912,Wainwright bld.,64
+Saint Louis,1912,Wainwright bldg.,64
+Saint Louis,1912,Wright bldg.,64
+Saint Louis,1912,,64
+San Antonio,1912,113 Ave. C,47
+San Antonio,1912,118 Mackay bldg.,47
+San Antonio,1912,210 Mackay bldg.,47
+San Antonio,1912,211 Gibbs bldg.,47
+San Antonio,1912,212 Moore bldg.,47
+San Antonio,1912,213 Frost bldg.,47
+San Antonio,1912,214 Gibbs bldg.,47
+San Antonio,1912,225 St. Mary's,47
+San Antonio,1912,229 E. Houston st.,47
+San Antonio,1912,23 E. Houston st.,47
+San Antonio,1912,238 Moore,47
+San Antonio,1912,301 Gunter bldg.,47
+San Antonio,1912,301 Mackay bldg.,47
+San Antonio,1912,306 Mackay bldg.,47
+San Antonio,1912,311 Moore bldg.,47
+San Antonio,1912,407 E. Houston st.,47
+San Antonio,1912,421 Navarro st.,47
+San Antonio,1912,5 Riverside bldg.,47
+San Antonio,1912,501 Gunter bldg.,47
+San Antonio,1912,540 Moore bldg.,47
+San Antonio,1912,544 Moore bldg.,47
+San Antonio,1912,601 Navarro st.,47
+San Antonio,1912,811 Mackay bldg.,47
+San Antonio,1912,Alamo Bk bldg.,47
+San Antonio,1912,Alamo Nat'l Bk. bldg.,47
+San Antonio,1912,Alamo Plaza,47
+San Antonio,1912,Bedell bldg.,47
+San Antonio,1912,Bwearingen-McCraw bldg.,47
+San Antonio,1912,Central Office bldg.,47
+San Antonio,1912,Chamber of Commerce bldg.,47
+San Antonio,1912,Chandler bldg.,47
+San Antonio,1912,Frost,47
+San Antonio,1912,Frost bldg.,47
+San Antonio,1912,Gibbs,47
+San Antonio,1912,Gibbs bldg.,47
+San Antonio,1912,Gunter bldg.,47
+San Antonio,1912,Hicks bldg.,47
+San Antonio,1912,Kampmann bldg.,47
+San Antonio,1912,Loan & Trust bldg.,47
+San Antonio,1912,Mackay,47
+San Antonio,1912,Mackay bldg.,47
+San Antonio,1912,Medell bldg.,47
+San Antonio,1912,Moore bldg.,47
+San Antonio,1912,Riverside bldg.,47
+San Antonio,1912,St. James hotel,47
+San Antonio,1912,Washer bldg.,47
+San Antonio,1912,,47
+San Diego,1912,Amer. Nat. Bank bldg.,11
+San Diego,1912,Granger bldg.,11
+San Diego,1912,Hill blk.,11
+San Diego,1912,Keating bldg.,11
+San Diego,1912,Pacific bldg,11
+San Diego,1912,Sun bldg.,11
+San Diego,1912,Timeken bidg,11
+San Diego,1912,Timken bldg,11
+San Diego,1912,Union Bldg.,11
+San Diego,1912,Union bldg.,11
+San Diego,1912,,11
+San Francisco,1912,1st Nat. Bank bldg.,58
+San Francisco,1912,1st Nat. Bk. bld.,58
+San Francisco,1912,1st Nat. Bk. bldg,58
+San Francisco,1912,1st Nat. Bk. bldg.,58
+San Francisco,1912,Balboa bidg.,58
+San Francisco,1912,Balboa bldg.,58
+San Francisco,1912,C. Spreckles bld.,58
+San Francisco,1912,C. Spreckles bldg.,58
+San Francisco,1912,Chron. bldg.,58
+San Francisco,1912,Chronicle bldg.,58
+San Francisco,1912,Cl. Spreckles bidg.,58
+San Francisco,1912,Cl. Spreckles bldg.,58
+San Francisco,1912,Clunie bldg.,58
+San Francisco,1912,Crocker bid.,58
+San Francisco,1912,Crocker bldg.,58
+San Francisco,1912,Ex. bldg.,58
+San Francisco,1912,First National Bank bidg.,58
+San Francisco,1912,Hewes bldg.,58
+San Francisco,1912,Hmbit Bk. bldg.,58
+San Francisco,1912,Hmbit. Bk. bld.,58
+San Francisco,1912,Hmblt. Bk. bld.,58
+San Francisco,1912,Humbit. Bank bldg.,58
+San Francisco,1912,Humbit. Bk. bld.,58
+San Francisco,1912,Humbit. Bk. bldg.,58
+San Francisco,1912,Ist Nat. Bank bldg.,58
+San Francisco,1912,Kohl bldg.,58
+San Francisco,1912,Lick bldg.,58
+San Francisco,1912,MacDonough bldg.,58
+San Francisco,1912,Mechanica Institute bld.,58
+San Francisco,1912,Mer. Ex. bldg.,58
+San Francisco,1912,Met. Bk.,58
+San Francisco,1912,Metrop. Bank bidg.,58
+San Francisco,1912,Mille bldg.,58
+San Francisco,1912,Mills bidg,58
+San Francisco,1912,Mills bidg.,58
+San Francisco,1912,Mills bldg,58
+San Francisco,1912,Mills bldg.,58
+San Francisco,1912,Monad. Bldg.,58
+San Francisco,1912,Monad. bldg.,58
+San Francisco,1912,Monadnock bldg.,58
+San Francisco,1912,"Moned, bldg.",58
+San Francisco,1912,Nevada Bank bldg.,58
+San Francisco,1912,Nevada bldg.,58
+San Francisco,1912,Newhall bldg.,58
+San Francisco,1912,Pac bldg.,58
+San Francisco,1912,Pac. bldg.,58
+San Francisco,1912,Phelan bidg.,58
+San Francisco,1912,Phelan bldg.,58
+San Francisco,1912,Russ bd.,58
+San Francisco,1912,Russ bldg.,58
+San Francisco,1912,S. Spreckles bld.,58
+San Francisco,1912,Sheldon bldg.,58
+San Francisco,1912,W. Met Nat. Bank bldg.,58
+San Francisco,1912,W. Met. Nat. Bank bldg.,58
+San Francisco,1912,W. Met. Nat. Bk. bldg.,58
+San Francisco,1912,Westbank bldg.,58
+San Francisco,1912,lat Nat. Bank bldg.,58
+San Francisco,1912,,58
+Seattle,1912,10 Marion bldg.,156
+Seattle,1912,103 2d. S.,156
+Seattle,1912,105 White bldg.,156
+Seattle,1912,106 Cherry,156
+Seattle,1912,201 Mehlhorn bldg.,156
+Seattle,1912,207 Am. Bk. bldg.,156
+Seattle,1912,208-10 Leary bldg.,156
+Seattle,1912,214 Leary bld,156
+Seattle,1912,218 Leary bldg.,156
+Seattle,1912,2420 W. 58th,156
+Seattle,1912,302 Peoples Bk. bldg.,156
+Seattle,1912,308 New York blk.,156
+Seattle,1912,311 Hinckley bik.,156
+Seattle,1912,311 White bldg.,156
+Seattle,1912,312 Central bldg.,156
+Seattle,1912,316 Leary bldg.,156
+Seattle,1912,323 Central bldg,156
+Seattle,1912,326 Leary bldg,156
+Seattle,1912,342-3 Central bldg.,156
+Seattle,1912,405 Oriental bldg.,156
+Seattle,1912,407 Central hide,156
+Seattle,1912,418 Leary bldg.,156
+Seattle,1912,501 Colman bldg.,156
+Seattle,1912,512 Balley bldg.,156
+Seattle,1912,529 Central bldg.,156
+Seattle,1912,529-30-31 Central bldg.,156
+Seattle,1912,664 Empire bldg.,156
+Seattle,1912,719-21 Leary bldg.,156
+Seattle,1912,743 Central bldg.,156
+Seattle,1912,806 Leary bldg.,156
+Seattle,1912,812 Boston blk.,156
+Seattle,1912,812 Central bldg.,156
+Seattle,1912,843 Central bld.,156
+Seattle,1912,856 Empire,156
+Seattle,1912,908 Alaska bldg.,156
+Seattle,1912,Alaska bld.,156
+Seattle,1912,Alaska bldg,156
+Seattle,1912,Alaska bldg.,156
+Seattle,1912,Am. Bank bldg.,156
+Seattle,1912,Am. Bk. bld.,156
+Seattle,1912,Am. Bk. bldg.,156
+Seattle,1912,Amer. Bk. bld,156
+Seattle,1912,American Bank bldg.,156
+Seattle,1912,American Bk. bldg.,156
+Seattle,1912,Arcade Annex,156
+Seattle,1912,Arcade bldg.,156
+Seattle,1912,Bailey bld.,156
+Seattle,1912,Bailey bldg.,156
+Seattle,1912,Balley bldg.,156
+Seattle,1912,Boston bik.,156
+Seattle,1912,Boston bldg.,156
+Seattle,1912,Boston blk,156
+Seattle,1912,Boston blk.,156
+Seattle,1912,Burke bide.,156
+Seattle,1912,Burke bldg.,156
+Seattle,1912,Central bid,156
+Seattle,1912,Central bidg.,156
+Seattle,1912,Central bld,156
+Seattle,1912,Central bld.,156
+Seattle,1912,Central bldg,156
+Seattle,1912,Central bldg.,156
+Seattle,1912,Cherry bldg.,156
+Seattle,1912,Cobb bldg.,156
+Seattle,1912,Collins bldg.,156
+Seattle,1912,Colman,156
+Seattle,1912,Colman bidg.,156
+Seattle,1912,Colman bk.,156
+Seattle,1912,Colman bldg,156
+Seattle,1912,Colman bldg.,156
+Seattle,1912,Colman blk.,156
+Seattle,1912,Crary bldg.,156
+Seattle,1912,Crown bldg.,156
+Seattle,1912,Downs blk.,156
+Seattle,1912,Empire bhldg.,156
+Seattle,1912,Empire bldg.,156
+Seattle,1912,Epler bldg,156
+Seattle,1912,Epler bldg.,156
+Seattle,1912,Epler blk.,156
+Seattle,1912,Georgetown,156
+Seattle,1912,Globe bldg.,156
+Seattle,1912,Haight bldg.,156
+Seattle,1912,Haller bldg.,156
+Seattle,1912,Haller blk.,156
+Seattle,1912,Henry bld.,156
+Seattle,1912,Henry bldg,156
+Seattle,1912,Henry bldg.,156
+Seattle,1912,Hinckley bldg.,156
+Seattle,1912,Hinckley blk.,156
+Seattle,1912,Hoge bldg.,156
+Seattle,1912,Home Office,156
+Seattle,1912,Howard blk.,156
+Seattle,1912,Korn bidg.,156
+Seattle,1912,Learv bldg.,156
+Seattle,1912,Leary bld.,156
+Seattle,1912,Leary bldg,156
+Seattle,1912,Leary bldg.,156
+Seattle,1912,Liberty bldg.,156
+Seattle,1912,Lowman bldg.,156
+Seattle,1912,Ltd.. Mut. Life,156
+Seattle,1912,Lumber,156
+Seattle,1912,Lumber Exch.,156
+Seattle,1912,Lumber Exchange,156
+Seattle,1912,Lumber Exchange.,156
+Seattle,1912,Majestic Theatre,156
+Seattle,1912,Marion,156
+Seattle,1912,Marion bld.,156
+Seattle,1912,Marion bldg.,156
+Seattle,1912,Marion blk.,156
+Seattle,1912,Market bldg.,156
+Seattle,1912,Marlon bldg.,156
+Seattle,1912,Maynard bldg.,156
+Seattle,1912,Mehlhorn bid.,156
+Seattle,1912,Mehlhorn bldg.,156
+Seattle,1912,Mehlhorn hldg.,156
+Seattle,1912,Montlake Park,156
+Seattle,1912,Mutual Life bldg.,156
+Seattle,1912,N. Y. bik.,156
+Seattle,1912,N. Y. blk.,156
+Seattle,1912,New York bik.,156
+Seattle,1912,New York bldg.,156
+Seattle,1912,New York blk.,156
+Seattle,1912,Nor. Bk. & Trust bldg.,156
+Seattle,1912,Northern Bank,156
+Seattle,1912,Northern Bank bldg.,156
+Seattle,1912,Oriental bidg.,156
+Seattle,1912,Oriental bld.,156
+Seattle,1912,Oriental bldg.,156
+Seattle,1912,Oriontal bldg.,156
+Seattle,1912,Oxbow Addition,156
+Seattle,1912,Pacific bldg.,156
+Seattle,1912,Pacific blk.,156
+Seattle,1912,People's Bk. bld.,156
+Seattle,1912,People's Bk. bldg.,156
+Seattle,1912,Peoples Bk. bldg.,156
+Seattle,1912,Peoples' Bank bldg.,156
+Seattle,1912,Pier 2,156
+Seattle,1912,Pioneer,156
+Seattle,1912,Pioneer 'bldg.,156
+Seattle,1912,Pioneer bldg.,156
+Seattle,1912,Pioneer blk.,156
+Seattle,1912,Ranier Beach,156
+Seattle,1912,Scheuerman bldg.,156
+Seattle,1912,Seattle Nat. Bank bldg.,156
+Seattle,1912,Seattle Nat. Bk. bldg.,156
+Seattle,1912,Seattle National Bank bldg.,156
+Seattle,1912,Seneca,156
+Seattle,1912,Starr-Boyd bldg.,156
+Seattle,1912,Sullivan bldg.,156
+Seattle,1912,Tacoma Tide,156
+Seattle,1912,Times bldg.,156
+Seattle,1912,Trafford,156
+Seattle,1912,Wallingford,156
+Seattle,1912,Washington Annex,156
+Seattle,1912,Washington bldg.,156
+Seattle,1912,White bldg.,156
+Seattle,1912,,156
+Tampa,1912,1st Nat. Bank,25
+Tampa,1912,1st Nat. Bank bldg.,25
+Tampa,1912,Am. Bank bldg.,25
+Tampa,1912,Am. Nat. Bank bldg.,25
+Tampa,1912,Amer. Bank,25
+Tampa,1912,Arcade,25
+Tampa,1912,Bank of Tampa,25
+Tampa,1912,City Sav. Bk. bldg.,25
+Tampa,1912,Curry bldg.,25
+Tampa,1912,Davis bldg.,25
+Tampa,1912,De Soto Hotel,25
+Tampa,1912,Drew bldg.,25
+Tampa,1912,Elk bldg.,25
+Tampa,1912,Giddens bldg.,25
+Tampa,1912,Gould bldg.,25
+Tampa,1912,Hampson bldg.,25
+Tampa,1912,Hampton bldg.,25
+Tampa,1912,Harrison,25
+Tampa,1912,Hillsboro Hotel,25
+Tampa,1912,Jackson bldg.,25
+Tampa,1912,Madison,25
+Tampa,1912,Twiggs,25
+Tampa,1912,West Tampa Bank bldg.,25
+Tampa,1912,Ybor Bank bldg.,25
+Tampa,1912,,25
+Washington,1912,Auray bldg.,58
+Washington,1912,Bond bldg,58
+Washington,1912,Bond bldg.,58
+Washington,1912,Bong bldg,58
+Washington,1912,Cen. Nat. Bk bid.,58
+Washington,1912,Cent. N. Bank bldg.,58
+Washington,1912,Cent. Nat. Bk. bldg.,58
+Washington,1912,Cent. bld.,58
+Washington,1912,Colo. bld.,58
+Washington,1912,Colo. bldg,58
+Washington,1912,Colo. bldg.,58
+Washington,1912,Colorado bidg.,58
+Washington,1912,Colorado bldg,58
+Washington,1912,Colorado bldg.,58
+Washington,1912,Com'l Nat. Bank bldg,58
+Washington,1912,"Cong. Hta., D. C.",58
+Washington,1912,Corcoran bldg.,58
+Washington,1912,Dis. Nat. Bk bid,58
+Washington,1912,District Nat. Bank bldg,58
+Washington,1912,Evans bld,58
+Washington,1912,Evans bld.,58
+Washington,1912,Evans bldg,58
+Washington,1912,Evans bldg.,58
+Washington,1912,Fendall bldg.,58
+Washington,1912,Hibba bldg.,58
+Washington,1912,Hibbs bldg,58
+Washington,1912,Home Life bid.,58
+Washington,1912,Home Life bldg,58
+Washington,1912,Jenifer bldg.,58
+Washington,1912,Kellogg bldg.,58
+Washington,1912,Le Droit bldg,58
+Washington,1912,Maryland bidg,58
+Washington,1912,Maryland bldg,58
+Washington,1912,McGill bldg.,58
+Washington,1912,Mel. Bank bldg.,58
+Washington,1912,Munsey Building,58
+Washington,1912,Munsey bld.,58
+Washington,1912,Munsey bldg.,58
+Washington,1912,Mut. Fire ina. bld.,58
+Washington,1912,Nat. Met. Bank bldg.,58
+Washington,1912,Oxford bidg.,58
+Washington,1912,Oxford bldg,58
+Washington,1912,Oxford bldg.,58
+Washington,1912,So. bldg.,58
+Washington,1912,Union Tr. bld.,58
+Washington,1912,Union Tr. bldg.,58
+Washington,1912,Union Trust bldg,58
+Washington,1912,Union Trust bldg.,58
+Washington,1912,Victor bidg.,58
+Washington,1912,Victor bldg.,58
+Washington,1912,"W. L. &
+T. bldg.",58
+Washington,1912,Wash. L. & T. bldg.,58
+Washington,1912,Wash. L. & Tr. bldg,58
+Washington,1912,Wash. Loan & T. bldg,58
+Washington,1912,Wash. Loan & T. bldg.,58
+Washington,1912,Wash. Loan & Tr. bldg.,58
+Washington,1912,Wash. Loan & Trust bldg.,58
+Washington,1912,,58

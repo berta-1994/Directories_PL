@@ -1,0 +1,36 @@
+city,address,building,full_address,geoloc,ratio
+Atlanta,21,114,135,39,26.9
+Austin,29,12,41,17,38.64
+Boston,606,95,589,338,52.16
+Charlotte,13,9,22,10,43.48
+Chicago,1442,36,1478,1070,72.3
+Cincinnati,73,83,132,35,24.14
+Cleveland,208,189,41,21,9.59
+Columbus,45,40,85,32,37.65
+Dallas,128,56,86,42,30.43
+Denver,274,207,136,103,30.93
+Detroit,82,238,185,43,16.86
+Fort Worth,56,49,105,13,12.15
+Houston,9,148,157,16,9.82
+Indianapolis,62,118,180,26,14.44
+Kansas City,248,594,648,129,19.82
+Lexington,14,1,15,9,47.37
+Los Angeles,284,477,609,156,24.92
+Milwaukee,149,97,200,57,28.5
+Minneapolis,155,302,331,49,14.58
+Nashville,97,19,99,28,27.72
+Newark,200,20,186,69,33.99
+Philadelphia,1117,295,1141,536,40.98
+Phoenix,31,8,39,17,41.46
+Pittsburgh,257,157,414,189,44.26
+Portland,198,494,692,229,33.09
+Providence,112,32,112,72,63.72
+Sacramento,73,18,77,32,40.51
+Saint Louis,245,125,367,210,56.0
+San Antonio,31,81,112,33,28.45
+San Diego,91,14,105,12,11.11
+San Francisco,219,138,357,104,28.65
+San Jose,21,0,21,1,4.76
+Seattle,66,383,449,169,36.11
+Tampa,36,40,60,18,28.12
+Washington,282,93,373,65,17.33

@@ -1,0 +1,37 @@
+city,total_B,geoloc_B,ratio
+Atlanta,81,9,11.11
+Austin,7,2,28.57
+Boston,83,0,0.0
+Charlotte,7,0,0.0
+Chicago,46,3,6.52
+Cincinnati,57,2,3.51
+Cleveland,126,1,0.79
+Columbus,31,4,12.9
+Dallas,54,0,0.0
+Denver,54,0,0.0
+Detroit,23,0,0.0
+Fort Worth,24,0,0.0
+Houston,102,2,1.96
+Indianapolis,81,0,0.0
+Kansas City,457,2,0.44
+Lexington,1,0,0.0
+Los Angeles,475,22,4.63
+Milwaukee,86,2,2.33
+Minneapolis,206,4,1.94
+Nashville,15,0,0.0
+New York,42,17,40.48
+Newark,5,0,0.0
+Philadelphia,174,2,1.15
+Phoenix,3,0,0.0
+Pittsburgh,140,32,22.86
+Portland,469,132,28.14
+Providence,33,0,0.0
+Sacramento,7,0,0.0
+Saint Louis,118,35,29.66
+San Antonio,54,1,1.85
+San Diego,4,0,0.0
+San Francisco,150,37,24.67
+San Jose,3,1,33.33
+Seattle,385,139,36.1
+Tampa,24,0,0.0
+Washington,85,20,23.53

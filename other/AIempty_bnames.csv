@@ -1,0 +1,2181 @@
+city,unique_buildings,count
+Atlanta,10 Auburn av.,52
+Atlanta,106½ Whall,52
+Atlanta,12 Auburn ave.,52
+Atlanta,13 N. Pryor,52
+Atlanta,14 Auburn ave.,52
+Atlanta,16 S. Broad,52
+Atlanta,17 Walton,52
+Atlanta,19 S. Pryor,52
+Atlanta,24 S. Broad,52
+Atlanta,32 E. Alabama,52
+Atlanta,427 Chandler bldg,52
+Atlanta,4th N. B. bldg.,52
+Atlanta,4th N. Bank bldg.,52
+Atlanta,6 Walton,52
+Atlanta,715 Forsyth bldg.,52
+Atlanta,84 Marietta,52
+Atlanta,844 Marietta,52
+Atlanta,9 Auburn ave.,52
+Atlanta,Alt. N. B. bldg.,52
+Atlanta,Atl. N. B.,52
+Atlanta,Atl. N. B. bld.,52
+Atlanta,Atl. N. B. bldg.,52
+Atlanta,Atl. N. R. bldg.,52
+Atlanta,Atlanta National Bank bldg.,52
+Atlanta,Austell bldg.,52
+Atlanta,Austell bldk.,52
+Atlanta,Brown-Randolph bldg.,52
+Atlanta,Candler bld.,52
+Atlanta,Candler bldg.,52
+Atlanta,Col. Pk.,52
+Atlanta,Decatur,52
+Atlanta,Elec. & Gas bldg.,52
+Atlanta,Emp. bldg.,52
+Atlanta,Empire Life bldg.,52
+Atlanta,Empire bldg.,52
+Atlanta,Equitable bldg.,52
+Atlanta,Forsyth bldg.,52
+Atlanta,Gould bldg,52
+Atlanta,Gould bldg.,52
+Atlanta,Grant bldg.,52
+Atlanta,Hillyer Trust bldg.,52
+Atlanta,Inman bldg.,52
+Atlanta,Peachtree Heights,52
+Atlanta,Peters bldg,52
+Atlanta,Peters bldg.,52
+Atlanta,Real Estate Co.,52
+Atlanta,Temple Ct.,52
+Atlanta,Temple Ct. bldg.,52
+Atlanta,Temple ct.,52
+Atlanta,Walton,52
+Atlanta,Walton bldg.,52
+Atlanta,,52
+Austin,1st Natl. Bank bldg.,11
+Austin,7 Openheimer bldg.,11
+Austin,Austin Nat'l Bank,11
+Austin,Austin Nat.,11
+Austin,Austin Natl. Bank bldg.,11
+Austin,Bosche bldg.,11
+Austin,Little-field bldg.,11
+Austin,Masonic Temple,11
+Austin,McDonald bldg.,11
+Austin,Scarbrough bldg.,11
+Austin,,11
+Boston,1030 Old So. b'dg.,36
+Boston,Ames bldg.,36
+Boston,Barristers Hall,36
+Boston,Barstrs. Hall,36
+Boston,Dexter Row,36
+Boston,Equitable bld.,36
+Boston,Equitable bldg.,36
+Boston,Exch. bldg.,36
+Boston,Exchange bldg.,36
+Boston,John Hancock bldg,36
+Boston,John Hancock bldg.,36
+Boston,Kimball bldg.,36
+Boston,Mason bldg.,36
+Boston,Old S. bld.,36
+Boston,Old So. bld.,36
+Boston,Old South bid,36
+Boston,Old South bld.,36
+Boston,Old South bldg,36
+Boston,Old South bldg.,36
+Boston,Sears bldg.,36
+Boston,St Marys bldg.,36
+Boston,State Mut. bldg,36
+Boston,State Mut. bldg.,36
+Boston,Tremont Tem.,36
+Boston,Tremont Temple,36
+Boston,Tremont bld.,36
+Boston,Tremont bldg,36
+Boston,Tremont bldg.,36
+Boston,Trent. bld.,36
+Boston,Trmi,36
+Boston,Trmt bld.,36
+Boston,Upham's Cor.,36
+Boston,Worthing-,36
+Boston,Worthington bld.,36
+Boston,Worthington bldg,36
+Boston,,36
+Charlotte,7 Wilkinson bldg.,7
+Charlotte,American bldg.,7
+Charlotte,Hunt bldg.,7
+Charlotte,Piedmont bldg.,7
+Charlotte,Realty bldg.,7
+Charlotte,Trust bldg.,7
+Charlotte,,7
+Chicago,1026 Tribune bldg.,28
+Chicago,1st Nat'l Bk. bldg.,28
+Chicago,1st Nat. Bk.,28
+Chicago,1st Nat. Bk. bidg.,28
+Chicago,1st Nat. Bk. bldg.,28
+Chicago,1st. Nat. Bk. bidg.,28
+Chicago,504 Chicage Sav. Bk. bldg.,28
+Chicago,Becter bldg.,28
+Chicago,Chamber of Commerce,28
+Chicago,Commercial Bk. bldg.,28
+Chicago,FL Dearborn bldg.,28
+Chicago,Fisher bldg.,28
+Chicago,Great Northern bldg.,28
+Chicago,Hartford bldg.,28
+Chicago,Hermitage,28
+Chicago,Manhattan bidr.,28
+Chicago,Marquette bldg.,28
+Chicago,Monadnock,28
+Chicago,Rector bldg.,28
+Chicago,Tacoma bldg.,28
+Chicago,The Bookery bldg.,28
+Chicago,Title & Tr. bldg.,28
+Chicago,Title & Trust bldg.,28
+Chicago,Title Trust bidg.,28
+Chicago,Tribune bldg.,28
+Chicago,Unity bldg.,28
+Chicago,Warrington Theater bldg.,28
+Chicago,,28
+Cincinnati,10 Allen bldg.,78
+Cincinnati,1000 First Nat. Bank,78
+Cincinnati,1006 Mer. Lib. bld.,78
+Cincinnati,1006 Mer. Lib. bldg.,78
+Cincinnati,1007 First Nat. Bank bldg.,78
+Cincinnati,1009 Mer. Lib. bldg.,78
+Cincinnati,1011 Fourth Nat. Bank bldg.,78
+Cincinnati,11 St. Paul bldg.,78
+Cincinnati,1228s Vine st.,78
+Cincinnati,1310 First Nat. Bk. bld.,78
+Cincinnati,1404 First Nat. Bk. bldg.,78
+Cincinnati,1406 First Nat. Bk. bld.,78
+Cincinnati,1410 Traction bld.,78
+Cincinnati,144 E. Court,78
+Cincinnati,15 Carew bldg.,78
+Cincinnati,15-16 Wiggins blk.,78
+Cincinnati,1533 Union Trust,78
+Cincinnati,1815 Union Tr.,78
+Cincinnati,2 Baker ct.,78
+Cincinnati,205 Carlisle bldg.,78
+Cincinnati,28 Blymyer bldg.,78
+Cincinnati,300-301 Livingston bldg.,78
+Cincinnati,306 E. 5th,78
+Cincinnati,309 Johnston bldg.,78
+Cincinnati,32 Thomas bldg.,78
+Cincinnati,402 Provident Bk.,78
+Cincinnati,409 Mercantile Library bld.,78
+Cincinnati,410 Mer. Lib. bldg.,78
+Cincinnati,44 Atlas Bank bldg.,78
+Cincinnati,45 Atlas Bank bldg.,78
+Cincinnati,500 Bell blk.,78
+Cincinnati,51 St. Paul bldg.,78
+Cincinnati,510 Mer. Lib. bldg.,78
+Cincinnati,515 Johnston bldg.,78
+Cincinnati,55 Atlas Bank bldg.,78
+Cincinnati,602 Lyric Theatre bldg.,78
+Cincinnati,603 Mer. Lib. bldg.,78
+Cincinnati,604 First Nat. Bank bldg.,78
+Cincinnati,605 Mer. Lib bldg.,78
+Cincinnati,605 Mer. Lib. bldg.,78
+Cincinnati,606-7 Mer. Lib. bldg.,78
+Cincinnati,608 First Nat. Bk. bld.,78
+Cincinnati,64 Atlas Bk. bldg.,78
+Cincinnati,706 Traction bldg.,78
+Cincinnati,708 Mer. Lib. bldg.,78
+Cincinnati,711 Traction bld.,78
+Cincinnati,77 Blymyer bldg.,78
+Cincinnati,78 Perin bldg.,78
+Cincinnati,80 Atlas Bank bld.,78
+Cincinnati,805 Second Nat. Bank bld.,78
+Cincinnati,809 Mer. Lib. bfd.,78
+Cincinnati,9 Fosdick bldg.,78
+Cincinnati,903 Mer. Lib. bldg.,78
+Cincinnati,904 Com. Trib. bldg.,78
+Cincinnati,"905 E. McMillan, W. H.",78
+Cincinnati,907 Mer. Lib. bldg.,78
+Cincinnati,908 Mer. Lib. bldg.,78
+Cincinnati,Allen Bldg,78
+Cincinnati,Atlas Bk. bldg,78
+Cincinnati,Blymyer bldg.,78
+Cincinnati,First Nat. Bank,78
+Cincinnati,First Nat. Bank bldg,78
+Cincinnati,First Nat. Bk. bld.,78
+Cincinnati,Gerke bldg.,78
+Cincinnati,Hotel Sinton,78
+Cincinnati,Hulbert blk.,78
+Cincinnati,Johnston bldg.,78
+Cincinnati,Lyric Theatre bldg,78
+Cincinnati,Main,78
+Cincinnati,Mer. Lib. bldg.,78
+Cincinnati,Mercantile Library bld,78
+Cincinnati,Mitchell bldg.,78
+Cincinnati,Second Nat. Bk. bldg.,78
+Cincinnati,St. Leger bldg.,78
+Cincinnati,Union Tr. bldg.,78
+Cincinnati,Union Trust,78
+Cincinnati,Union Trust bldg.,78
+Cincinnati,,78
+Cleveland,Am. Tr. bld.,70
+Cleveland,Am. Trust,70
+Cleveland,Am. Trust bldg.,70
+Cleveland,Arcade,70
+Cleveland,B. of L. E. bldg.,70
+Cleveland,Beckman bldg.,70
+Cleveland,Century bldg.,70
+Cleveland,Cham. of Com. bldg.,70
+Cleveland,Citi-zens bldg.,70
+Cleveland,Citizens,70
+Cleveland,Citizens bldg.,70
+Cleveland,Columbia,70
+Cleveland,Columbia bldg.,70
+Cleveland,Cuya-hoga bldg.,70
+Cleveland,Cuyahoga bidg.,70
+Cleveland,Cuyahoga bldg.,70
+Cleveland,Detroit,70
+Cleveland,Electric bldg.,70
+Cleveland,Engineers' bldg.,70
+Cleveland,Garfield bidg.,70
+Cleveland,Garfield bldg.,70
+Cleveland,Guardian bldg.,70
+Cleveland,Hippo-drome bldg.,70
+Cleveland,Hippodrome,70
+Cleveland,Hippodrome bldg.,70
+Cleveland,Hippodrome blåg.,70
+Cleveland,Homesite Allot-ment,70
+Cleveland,New Eng,70
+Cleveland,New Eng. bldg.,70
+Cleveland,New England bldg.,70
+Cleveland,Park bldg.,70
+Cleveland,Public sq.,70
+Cleveland,Pythian Temple,70
+Cleveland,Republic bldg.,70
+Cleveland,Rockefeller,70
+Cleveland,Rockefeller bld.,70
+Cleveland,Rockefeller bldg.,70
+Cleveland,Rose bldg.,70
+Cleveland,Schofield,70
+Cleveland,Schofield bid.,70
+Cleveland,Schofield bldg.,70
+Cleveland,Soc.,70
+Cleveland,Soc. for Sav,70
+Cleveland,Soc. for Sav.,70
+Cleveland,Soc. for Sav. bldg.,70
+Cleveland,Soc. for Savings bld.,70
+Cleveland,Soc. for Sev. bldg.,70
+Cleveland,Socfor Sav. bld.,70
+Cleveland,St. Clair,70
+Cleveland,Tenbusch bldg.,70
+Cleveland,The Ar-cade,70
+Cleveland,The Arcade,70
+Cleveland,W. 25th,70
+Cleveland,Wade bldg,70
+Cleveland,Wick bldg.,70
+Cleveland,William bldg.,70
+Cleveland,William-son bldg.,70
+Cleveland,Williamson,70
+Cleveland,Williamson bidg.,70
+Cleveland,Williamson bldg.,70
+Cleveland,Williamson blåg.,70
+Cleveland,Willlamson bldg.,70
+Cleveland,Wmson bld.,70
+Cleveland,Wmson bldg.,70
+Cleveland,Wmson.,70
+Cleveland,Wmson. bidg.,70
+Cleveland,Wmson. bld,70
+Cleveland,Wmson. bldg.,70
+Cleveland,Wyandot bldg.,70
+Cleveland,,70
+Columbus,Brunson bldg.,27
+Columbus,Capitol Trust bldg.,27
+Columbus,Capitol Trust blåg.,27
+Columbus,Capt. Trust bldg.,27
+Columbus,Cola Sav. & Trust bldg.,27
+Columbus,Cola. Sav. & Tr. bldg.,27
+Columbus,Cola. Sav. & Trust bldg.,27
+Columbus,Cols. Sav. & Tr. bldg.,27
+Columbus,Cols. Sav. & Trust bldg.,27
+Columbus,Deshler bldg.,27
+Columbus,Douglas bik,27
+Columbus,Harri-son bldg.,27
+Columbus,Harrison bidg.,27
+Columbus,Harrison bldg.,27
+Columbus,Hayden-Clinton Bk.,27
+Columbus,Hayden-Clinton bidg.,27
+Columbus,New 1st Nat. Bk.,27
+Columbus,New 1st Nat. Bk. bld.,27
+Columbus,New First Nat. Bk. bldg.,27
+Columbus,New Hayden bldg.,27
+Columbus,Ruggery bldg.,27
+Columbus,Union Nat. Bk. bld.,27
+Columbus,Union Nat. Bk. bldg.,27
+Columbus,Wyandotte bldg.,27
+Columbus,Wyandotte blk.,27
+Columbus,blk.,27
+Columbus,,27
+Dallas,724 Slaughter bldg,22
+Dallas,807 Slaughter bldg,22
+Dallas,810 Slaughter bldg,22
+Dallas,905 Praetorian bldg,22
+Dallas,Bank bldg.,22
+Dallas,Guar. Bank bldg.,22
+Dallas,Guaranty Bank,22
+Dallas,Guaranty S. Bk. bldg.,22
+Dallas,Guaranty bldg.,22
+Dallas,Juanita bldg.,22
+Dallas,Linz bldg.,22
+Dallas,Praetorian bldg.,22
+Dallas,Scollard,22
+Dallas,Scollard bidg.,22
+Dallas,Scollard bld.,22
+Dallas,Scollard bldg.,22
+Dallas,Slaughter bldg.,22
+Dallas,Texas bldg.,22
+Dallas,Wilson,22
+Dallas,Wilson bidg.,22
+Dallas,Wilson bldg.,22
+Dallas,,22
+Denver,1st Nat Bank bldg.,79
+Denver,1st Nat.,79
+Denver,1st Nat. Bank bidg,79
+Denver,1st Nat. Bank bidg.,79
+Denver,1st Nat. Bank bldg.,79
+Denver,1st Nat. Bk. bld.,79
+Denver,1st Nat. Bk. bldg.,79
+Denver,1st. Nat. Bk. bld.,79
+Denver,Bank bldg.,79
+Denver,Bank block,79
+Denver,Boston bld,79
+Denver,Boston bldg.,79
+Denver,By. Exch. bldg.,79
+Denver,Bymes bid.,79
+Denver,Calif. bidg.,79
+Denver,Calif. biel,79
+Denver,Calif. bldg,79
+Denver,Calif. bldg.,79
+Denver,Callf. bldg.,79
+Denver,Century bldg.,79
+Denver,Chamber,79
+Denver,Champa,79
+Denver,Colo. bldg.,79
+Denver,Colorado bidg.,79
+Denver,Colorado bldg.,79
+Denver,Commenwealth blide,79
+Denver,Commonwealth bldg.,79
+Denver,Continental bldg.,79
+Denver,Cooper bldg.,79
+Denver,Cooper hidg.,79
+Denver,Coronado bldg.,79
+Denver,E. & C. bldg.,79
+Denver,Empire bid.,79
+Denver,Empire bldg.,79
+Denver,Equit. bldg.,79
+Denver,Equitable bldg.,79
+Denver,Exch. bldg.,79
+Denver,Exchange bldg.,79
+Denver,Foster bld.,79
+Denver,Foster bldg.,79
+Denver,Gas & Elec,79
+Denver,Gas & Elec bldg.,79
+Denver,Gas & Elec. bid.,79
+Denver,Gas & Elec. bldg,79
+Denver,Gas & Elec. bldg.,79
+Denver,Gas & Electric bldg.,79
+Denver,Glenarm pl.,79
+Denver,Ideal bidg.,79
+Denver,Ideal bldg.,79
+Denver,Jacobson bldg.,79
+Denver,Kittredge bldg.,79
+Denver,Mack bldg.,79
+Denver,Majestic bld,79
+Denver,McPhee bidg.,79
+Denver,McPhee bldg.,79
+Denver,Mercantile bidg.,79
+Denver,Mercantile bldg.,79
+Denver,MoPhee bidg.,79
+Denver,Nassau bldg.,79
+Denver,Nat. Bank bldg.,79
+Denver,New Cen. bldg.,79
+Denver,New Century bldg.,79
+Denver,Opera House bldg.,79
+Denver,Quincy bldg.,79
+Denver,Ry. Ex,79
+Denver,Ry. Ex. bldg.,79
+Denver,Ry. Exch,79
+Denver,Ry. Exch.,79
+Denver,Ry. Exch. bldg.,79
+Denver,Steele bldg,79
+Denver,Stout,79
+Denver,Symes bldg,79
+Denver,Symes bldg.,79
+Denver,Temple Ct. bidg.,79
+Denver,Temple Ct. bldg.,79
+Denver,Tmpl Ct. bld.,79
+Denver,Welton,79
+Denver,ist Nat. Bk. bldg.,79
+Denver,,79
+Detroit,1 McGraw bldg.,163
+Detroit,100 Griswold,163
+Detroit,1006 Hammond bldg.,163
+Detroit,1007 Majestic bldg.,163
+Detroit,1008 Ford bldg.,163
+Detroit,1008 U. T. bldg.,163
+Detroit,1026 Majestic bldg.,163
+Detroit,1028 Majestic bldg.,163
+Detroit,1117 Ford bldg.,163
+Detroit,1120 C. of C.,163
+Detroit,1208 C. of C.,163
+Detroit,1228 C. of C.,163
+Detroit,1302 Penobscot bldg.,163
+Detroit,1325 Penobscot bldg.,163
+Detroit,1328 C. of C.,163
+Detroit,1411 Ford bldg.,163
+Detroit,1558 Michigan,163
+Detroit,1613 Ford bldg.,163
+Detroit,165 Kercheval,163
+Detroit,197 High W.,163
+Detroit,"1st fl., Campau bldg.",163
+Detroit,2 Walker blk.,163
+Detroit,20 Buhl bldg.,163
+Detroit,203 Breitmeyer bldg.,163
+Detroit,208 Whitney bidg.,163
+Detroit,21 McGraw bldg.,163
+Detroit,212 Buhl bldg.,163
+Detroit,214 Moffat blk.,163
+Detroit,215 Hammond bldg.,163
+Detroit,217 Moffat,163
+Detroit,2196 W. Jeff,163
+Detroit,22 Buhl bik,163
+Detroit,22 McGraw bldg.,163
+Detroit,27 Cleland bldg.,163
+Detroit,28 Buhl blk.,163
+Detroit,29 Home Blk. bldg.,163
+Detroit,29 Monroe,163
+Detroit,29 Monroe ave.,163
+Detroit,302 Moffat blk.,163
+Detroit,303 Hodges bldg.,163
+Detroit,305 Hodges bldg.,163
+Detroit,306 Hodges bldg.,163
+Detroit,307 Majestic bldg.,163
+Detroit,309 Majestic bldg.,163
+Detroit,31 Home Bk. bldg.,163
+Detroit,311 Moffat,163
+Detroit,316 Moffat blk.,163
+Detroit,3215 W. Jefferson,163
+Detroit,35 State,163
+Detroit,36 Home Bk. bldg.,163
+Detroit,402 Whitney bldg.,163
+Detroit,405 Whitney bldg.,163
+Detroit,406 Moffat blk.,163
+Detroit,406 Penobscot bldg.,163
+Detroit,409 Hodges bldg.,163
+Detroit,415 Moffat blk.,163
+Detroit,416 Hammond bldg.,163
+Detroit,45 Home Bk. bldg.,163
+Detroit,45 State,163
+Detroit,450 Kirby E.,163
+Detroit,46 Equity bldg.,163
+Detroit,496 Hastings,163
+Detroit,501 C. of C.,163
+Detroit,501 Ferguson bldg.,163
+Detroit,501 Ford bldg.,163
+Detroit,504 Whitney bldg.,163
+Detroit,505 Majestic bldg.,163
+Detroit,508 C. of C.,163
+Detroit,510 Penobscot bldg.,163
+Detroit,511 Moffat blk.,163
+Detroit,516 Moffat bik.,163
+Detroit,52 Buhl blk.,163
+Detroit,521 Hammond,163
+Detroit,523 Hammond bldg.,163
+Detroit,568 Gratiot,163
+Detroit,58 Lafayette,163
+Detroit,6 Home Bk. bldg.,163
+Detroit,601 Majestic,163
+Detroit,601 Whitney bldg.,163
+Detroit,602 Hodges bldg.,163
+Detroit,604 Union Trust bldg.,163
+Detroit,610 Wayne Co. Bk. bidg.,163
+Detroit,618 Moffat blk.,163
+Detroit,65 Home Bk. bldg.,163
+Detroit,656 Clinton,163
+Detroit,703 Breitmeyer bldg.,163
+Detroit,705 Whitney,163
+Detroit,706 Whitney bldg.,163
+Detroit,71 Home Bk. bldg.,163
+Detroit,711 C. of C.,163
+Detroit,726 C. of C.,163
+Detroit,727 C. of C.,163
+Detroit,728 Gratiot,163
+Detroit,8000 Woodward,163
+Detroit,801 Breitmeyer bidg.,163
+Detroit,801 Loyal Guard bldg.,163
+Detroit,801 Wayne Co. Bk. bldg.,163
+Detroit,803 Elks Temple,163
+Detroit,804 Moffat blk.,163
+Detroit,804 U. T. bldg.,163
+Detroit,805 C. of C.,163
+Detroit,807 Hammond bldg.,163
+Detroit,807 Majestic bldg.,163
+Detroit,81 Home Bk. bldg.,163
+Detroit,810 U. T. bldg.,163
+Detroit,811 Majestic bldg.,163
+Detroit,815 Ford bldg.,163
+Detroit,82 Griswold,163
+Detroit,84 Griswold,163
+Detroit,842 Griswold,163
+Detroit,85 Home Bk. bldg.,163
+Detroit,885 Hastings,163
+Detroit,89 Rowland,163
+Detroit,919 Hammond bldg.,163
+Detroit,988 Michigan,163
+Detroit,Adelaide & Hastings,163
+Detroit,Bewick,163
+Detroit,Bll Wayne Co. Bk. bldg.,163
+Detroit,Breitmeyer hldg.,163
+Detroit,Buhl blk.,163
+Detroit,Butler bldg.,163
+Detroit,C. of C.,163
+Detroit,Chene,163
+Detroit,Congress W.,163
+Detroit,Elka Temple,163
+Detroit,Ford bldg.,163
+Detroit,Goebel bldg.,163
+Detroit,"Grand blvd, & Dexter",163
+Detroit,Gratiot,163
+Detroit,Gratiot & Chippewa,163
+Detroit,Ham'd bldg,163
+Detroit,Hammond bldg.,163
+Detroit,Hancock & Rivard,163
+Detroit,Hastings,163
+Detroit,Hillger & Jeff.,163
+Detroit,Hodges bldg.,163
+Detroit,Hodges blk.,163
+Detroit,Home Bk. bldg.,163
+Detroit,Jeff & Lakewood,163
+Detroit,Mack nr. McLellan,163
+Detroit,Majestic,163
+Detroit,Majestic bidg.,163
+Detroit,Majestic bldg.,163
+Detroit,McCraw bldg.,163
+Detroit,McGraw bldg,163
+Detroit,McGraw bldg.,163
+Detroit,Moffat,163
+Detroit,Moffat bidg.,163
+Detroit,Moffat bldg.,163
+Detroit,Moffat blk.,163
+Detroit,Palmer bldg.,163
+Detroit,Penobscot,163
+Detroit,Penobscot bldg.,163
+Detroit,Shelby,163
+Detroit,Tel. bldg.,163
+Detroit,Tolsma bldg.,163
+Detroit,U. T. bldg.,163
+Detroit,Union Tr. bldg.,163
+Detroit,Union Trust bldg.,163
+Detroit,Walker blk.,163
+Detroit,Whitney bldg.,163
+Detroit,Woodward & Smith,163
+Detroit,,163
+Fort Worth,1st Nat. Bank,33
+Fort Worth,1st Nat. Bank bldg.,33
+Fort Worth,1st Nat. Bk.,33
+Fort Worth,1st Nat. Bk. bldg.,33
+Fort Worth,401 Flat-iron bldg.,33
+Fort Worth,Continental Bank bldg.,33
+Fort Worth,Court House,33
+Fort Worth,Dundee bld.,33
+Fort Worth,Dundee bldg.,33
+Fort Worth,Ellison bldg.,33
+Fort Worth,Exch. Nat. Bank,33
+Fort Worth,F. & M. Bank bld.,33
+Fort Worth,F. & M. Bk. bldg.,33
+Fort Worth,First Nat. Bk. bidg.,33
+Fort Worth,Flatiron bld.,33
+Fort Worth,Flatiron bldg.,33
+Fort Worth,Ft Worth Bk.,33
+Fort Worth,Ft. Worth Nat' Bank bidg.,33
+Fort Worth,Ft. Worth Nat. Bank,33
+Fort Worth,Ft. Worth Nat. Bank bldg.,33
+Fort Worth,Horie bldg.,33
+Fort Worth,Houston,33
+Fort Worth,Hoxie bldg.,33
+Fort Worth,Moore bid.,33
+Fort Worth,Moore bldg.,33
+Fort Worth,Reynolds bld.,33
+Fort Worth,Reynolds bldg.,33
+Fort Worth,Terrell bldg.,33
+Fort Worth,Touraine bldg.,33
+Fort Worth,Westbrook bldg.,33
+Fort Worth,Western Nat. Bank,33
+Fort Worth,Wheat bldg.,33
+Fort Worth,,33
+Houston,1001 Carter bldg.,139
+Houston,1004 Scan-lan bldg.,139
+Houston,1006 Scanlan bldg.,139
+Houston,1008 Carter bid,139
+Houston,1008 Scanian bldg.,139
+Houston,1010½ Congress ave.,139
+Houston,1014 Capitol ave.,139
+Houston,1016½ Congress ave.,139
+Houston,109Milam st.,139
+Houston,1106 Scanlan bldg.,139
+Houston,1216 Carter bldg.,139
+Houston,1302 Carter bldg.,139
+Houston,1stNat'l Bk. bldg.,139
+Houston,202 1st Nat'l Bk.,139
+Houston,203 Land &Trust bldg.,139
+Houston,203 Scanlan bldg.,139
+Houston,204 Stewart bldg.,139
+Houston,205 Moore-Burnett bldg.,139
+Houston,206 Prince Theatre bldg.,139
+Houston,206 Scanlan bld.,139
+Houston,206 Scanlan bldg.,139
+Houston,207 H. L. & T. bldg.,139
+Houston,207 Main st.,139
+Houston,208 Stewart bldg.,139
+Houston,209 1st Nat'l Bk. bldg.,139
+Houston,210 Mason bldg.,139
+Houston,211 Templebldg.,139
+Houston,216 Mason bldg.,139
+Houston,219 1st Nat'l Bk. bidg.,139
+Houston,233 Mason bidg.,139
+Houston,301 Binz bldg.,139
+Houston,301 Paul bldg.,139
+Houston,301 Scanlan bldg.,139
+Houston,302 Klam bldg.,139
+Houston,302 Scanlan bldg.,139
+Houston,304 Scanlan,139
+Houston,304 Scanlan bldg.,139
+Houston,305 Kiam bld.,139
+Houston,305 Temple bldg.,139
+Houston,306 Com'l Nat'lBk. bldg.,139
+Houston,307 Scanlan bld.,139
+Houston,308 1st Nat'l Bk. bldg,139
+Houston,308 1st Nat'l Bk. bldg.,139
+Houston,308 Prince Theatre bld.,139
+Houston,308 Scanian bldg.,139
+Houston,309 1st Nat'l Bk.,139
+Houston,309 Scanlan bldg.,139
+Houston,310 Paul bldg.,139
+Houston,310 Stewart bldg.,139
+Houston,311 Scanlan bldg.,139
+Houston,315 1st Nat'l Bk. bldg.,139
+Houston,315 Com. Nat. Bank bldg.,139
+Houston,317¼ Main st.,139
+Houston,319 Kiam bldg.,139
+Houston,321 1st Nat'l Bk. bldg.,139
+Houston,326 1st Nat'l Bk. bid.,139
+Houston,400 Klam bldg.,139
+Houston,401 Binz bldg.,139
+Houston,401 Mason Bldg.,139
+Houston,401 Scanian,139
+Houston,402 Chronicle bldg.,139
+Houston,402 Kiam bldg.,139
+Houston,402 Moore-Burnett bldg.,139
+Houston,404-5 Klam bldg.,139
+Houston,405 Klam bldg.,139
+Houston,405 Paul bldg.,139
+Houston,405 Scanlan bldg.,139
+Houston,406 Paul bldg.,139
+Houston,406 Scanlan bldg.,139
+Houston,407 Scanlan bldg.,139
+Houston,408 Cotton Exch.,139
+Houston,409 Paul bldg.,139
+Houston,409 Scanlan bldg.,139
+Houston,410 W. 17th ave.,139
+Houston,411 Binz bldg.,139
+Houston,4114 Travis st.,139
+Houston,412 Binz bld.,139
+Houston,412 Paul bldg.,139
+Houston,417 Binz bldg.,139
+Houston,417 Com'lNat'l Bk. bldg.,139
+Houston,418-19-20 Mason bldg.,139
+Houston,423 Mason bldg.,139
+Houston,426 1st. Nat'l Bk. bldg.,139
+Houston,427 1st Na'l Bk. bldg.,139
+Houston,435 Mason bldg.,139
+Houston,4th fl. Mason bldg.,139
+Houston,501 Bins bldg.,139
+Houston,502 Binz bldg.,139
+Houston,503 Binz bldg.,139
+Houston,503 Kiam,139
+Houston,503 Kiam bldg.,139
+Houston,504 Binz bldg.,139
+Houston,505 Carter bldg.,139
+Houston,505 Kiam,139
+Houston,506 Paul bldg.,139
+Houston,507 Paul bldg.,139
+Houston,508 Paul bldg.,139
+Houston,512 Paul bldg.,139
+Houston,525 1st Nat'llBk. bldg.,139
+Houston,526 Com'l Bk. bldg.,139
+Houston,6 Cotton Exch.,139
+Houston,6 Klam bldg.,139
+Houston,602 Binz bldg.,139
+Houston,602¼ Main st.,139
+Houston,602½ Main,139
+Houston,605 Binz bldg.,139
+Houston,606 1st Nat'l Bk.,139
+Houston,612 Binz bldg.,139
+Houston,701Stewart bldg.,139
+Houston,710 Stewart bidg.,139
+Houston,8 Fox bldg.,139
+Houston,801 Theatre bldg.,139
+Houston,801-2 Union Nat. Bank bldg.,139
+Houston,802 Main St.,139
+Houston,802 Stewart bldg.,139
+Houston,802-8 Union Nat. Bank bldg.,139
+Houston,804 Theatre bldg.,139
+Houston,807 Paul bulg.,139
+Houston,811-12 Kiam bldg.,139
+Houston,900 Main St.,139
+Houston,901 Carter bldg.,139
+Houston,906 Scanlan bld.,139
+Houston,9104 Preston ave.,139
+Houston,Binx bldg.,139
+Houston,Bk. bldg.,139
+Houston,Carter bldg.,139
+Houston,Chronicle bidg.,139
+Houston,Chronicle bld.,139
+Houston,Chronicle bldg.,139
+Houston,Com. Nat. Bk. bldg.,139
+Houston,Grand CentralDepot,139
+Houston,Kiam bldg.,139
+Houston,L. & T. bldg.,139
+Houston,Rice hotel,139
+Houston,Scanian bldg.,139
+Houston,Scanlan bld.,139
+Houston,Stewart bldg.,139
+Houston,lat Nat. Bank bldg.,139
+Houston,,139
+Indianapolis,Am. Cent. Life bidg.,46
+Indianapolis,Am. Central Life bldg.,46
+Indianapolis,Amer. Cent. Life bldg.,46
+Indianapolis,Amer. Central Life bldg.,46
+Indianapolis,Amer. Cont. Life bldg.,46
+Indianapolis,Baldwin bik.,46
+Indianapolis,Baldwin blk,46
+Indianapolis,Baldwin blk.,46
+Indianapolis,Bd. of Trade bldg.,46
+Indianapolis,Board of Trade,46
+Indianapolis,Bran-don blk.,46
+Indianapolis,Castle Hall,46
+Indianapolis,Castle Hall bldg.,46
+Indianapolis,E. Market,46
+Indianapolis,Fletcher Am. Bank bldg.,46
+Indianapolis,Holiday bldg.,46
+Indianapolis,Ind. Pyth. bldg.,46
+Indianapolis,Ind. Pythian bldg.,46
+Indianapolis,Ind. Trust bldg.,46
+Indianapolis,Indiana Tr. bldg.,46
+Indianapolis,Law Bldg.,46
+Indianapolis,Law bdig.,46
+Indianapolis,Law bldg.,46
+Indianapolis,Lemcke,46
+Indianapolis,Lemcke Annex,46
+Indianapolis,Lemcke bidg.,46
+Indianapolis,Lemcke bld.,46
+Indianapolis,Lemcke bldg.,46
+Indianapolis,Lemcko bldg.,46
+Indianapolis,Lombard bldg.,46
+Indianapolis,Newton Claypool bldg.,46
+Indianapolis,Odd Fellows bldg.,46
+Indianapolis,Saks bldg.,46
+Indianapolis,State Life,46
+Indianapolis,State Life bid.,46
+Indianapolis,State Life bldg.,46
+Indianapolis,Terminal blog.,46
+Indianapolis,Trac. Term.,46
+Indianapolis,Trac. Term. bld.,46
+Indianapolis,Trac. Term. bldg.,46
+Indianapolis,Traction bldg.,46
+Indianapolis,Union Tr. bldg.,46
+Indianapolis,Union Trust bldg.,46
+Indianapolis,Unity bldg.,46
+Indianapolis,When bldg.,46
+Indianapolis,,46
+Kansas City,1st Nat Bank bldg.,182
+Kansas City,1st Nat. Bk. bldg.,182
+Kansas City,300 U. S. & Mex. Trust bldg.,182
+Kansas City,325 Midland bldg.,182
+Kansas City,Acarritt bide.,182
+Kansas City,Acarritt bldg.,182
+Kansas City,Am. Bank bidg.,182
+Kansas City,Am. Rank bldg.,182
+Kansas City,Amer. Bank bldg.,182
+Kansas City,American Bank bldg.,182
+Kansas City,Argyle bldg.,182
+Kansas City,Arlington bldg.,182
+Kansas City,Baltimore,182
+Kansas City,Barker bldg.,182
+Kansas City,Braley bldg.,182
+Kansas City,Bryant bldg.,182
+Kansas City,Buley bldg.,182
+Kansas City,Bunker bldg.,182
+Kansas City,Century bldg.,182
+Kansas City,Century blåg.,182
+Kansas City,Chapman bldg.,182
+Kansas City,Com. bld.,182
+Kansas City,Com. bldg.,182
+Kansas City,Com. blåg,182
+Kansas City,Commerce,182
+Kansas City,Commerce bidg.,182
+Kansas City,Commerce bilg.,182
+Kansas City,Commerce bld.,182
+Kansas City,Commerce bldg.,182
+Kansas City,Commercial Bk. bldg.,182
+Kansas City,Dwight bld.,182
+Kansas City,Dwight bldg,182
+Kansas City,Dwight bldg.,182
+Kansas City,E. 8th,182
+Kansas City,Fidelity Tr. bldg.,182
+Kansas City,Fidelity Trust,182
+Kansas City,Fidelity Trust bldg.,182
+Kansas City,Finance bid,182
+Kansas City,Finance bidg.,182
+Kansas City,Finance bld.,182
+Kansas City,Finance bldg,182
+Kansas City,Finance bldg.,182
+Kansas City,G. & K. bldg.,182
+Kansas City,Gibraltar bldg.,182
+Kansas City,Glendale bldg.,182
+Kansas City,Gloyd bldg.,182
+Kansas City,Grand Av. Tem.,182
+Kansas City,Grand Av. Temple,182
+Kansas City,Grand Ave.,182
+Kansas City,Grand Ave. Tempie,182
+Kansas City,Grand Ave. Temple,182
+Kansas City,Gumbel bldg.,182
+Kansas City,Gumbet bldg.,182
+Kansas City,Hail bidg,182
+Kansas City,Hall bidg.,182
+Kansas City,Hall bldg.,182
+Kansas City,Harrison,182
+Kansas City,Hatt Didg.,182
+Kansas City,Helst bldg.,182
+Kansas City,Junction bldg,182
+Kansas City,Junction bldg.,182
+Kansas City,K. & I. bldg.,182
+Kansas City,K. & P. bidg.,182
+Kansas City,K. & P. bld.,182
+Kansas City,K. & P. bldg.,182
+Kansas City,K. & P. hldg.,182
+Kansas City,K. A. Long bldg.,182
+Kansas City,K. C. Life,182
+Kansas City,K. C. Life bld.,182
+Kansas City,K. C. Life bldg.,182
+Kansas City,Keith & Perry bldg.,182
+Kansas City,Kemper bldg,182
+Kansas City,Klage bldg,182
+Kansas City,Koppel bldg.,182
+Kansas City,Lillis bldg.,182
+Kansas City,Live Stock Exch.,182
+Kansas City,Live Stock Exchange,182
+Kansas City,Long Bros bldg.,182
+Kansas City,Main,182
+Kansas City,Mass. bidg.,182
+Kansas City,Mass. bldg,182
+Kansas City,Mass. bldg.,182
+Kansas City,Massachusetts bldg.,182
+Kansas City,Midland,182
+Kansas City,Midland bl,182
+Kansas City,Midland bldg.,182
+Kansas City,Minnesota ave.,182
+Kansas City,Missouri bldg.,182
+Kansas City,Myers bldg.,182
+Kansas City,N. Y.,182
+Kansas City,N. Y. Life,182
+Kansas City,N. Y. Life bidg.,182
+Kansas City,N. Y. Life bld.,182
+Kansas City,N. Y. Life bldg,182
+Kansas City,N. Y. Life bldg.,182
+Kansas City,N. Y. Life hidg.,182
+Kansas City,Nat. Bank bldg.,182
+Kansas City,Nat. Bk. of Reserve,182
+Kansas City,Nat. Reserve Bank bldg.,182
+Kansas City,Nelson birde.,182
+Kansas City,Nelson bldg.,182
+Kansas City,New Eng. bldg.,182
+Kansas City,New Eng. hldg.,182
+Kansas City,New England blag.,182
+Kansas City,New England bldg.,182
+Kansas City,New Ridge,182
+Kansas City,New Ridge bldg,182
+Kansas City,New Ridge bldg.,182
+Kansas City,New bldg.,182
+Kansas City,Orear-Lesile bldg.,182
+Kansas City,Orear-Leslie bldg.,182
+Kansas City,Pennock bldg.,182
+Kansas City,Poplar,182
+Kansas City,Portsmouth bld.,182
+Kansas City,Postal Tel. bldg.,182
+Kansas City,R. A. Long bid.,182
+Kansas City,R. A. Long bidg,182
+Kansas City,R. A. Long bldg,182
+Kansas City,R. A. Long bldg.,182
+Kansas City,R. A. Long blog.,182
+Kansas City,Rea Bank bidg.,182
+Kansas City,Rea. Bank bldg.,182
+Kansas City,Reliance blag.,182
+Kansas City,Reliance bldg.,182
+Kansas City,Rellance bldg,182
+Kansas City,Rellance bldg.,182
+Kansas City,Republic bldg.,182
+Kansas City,Res Bank bldg.,182
+Kansas City,Res Rank bldg.,182
+Kansas City,Res. Bank bldg.,182
+Kansas City,Res. Bk. bld.,182
+Kansas City,Res. Bk. bldg.,182
+Kansas City,Reserve Bank bldg.,182
+Kansas City,Rialto bld.,182
+Kansas City,Rialto bldg.,182
+Kansas City,Ricksecker bldg.,182
+Kansas City,Ridge bidg.,182
+Kansas City,Ridge bldg,182
+Kansas City,Ridge bldg.,182
+Kansas City,Ridre bldg.,182
+Kansas City,Scar-ritt bldg.,182
+Kansas City,Scarrilt bldg.,182
+Kansas City,Scarritt,182
+Kansas City,Scarritt Arcade,182
+Kansas City,Scarritt bidg.,182
+Kansas City,Scarritt bld.,182
+Kansas City,Scarritt bldg,182
+Kansas City,Scarritt bldg.,182
+Kansas City,Scerritt bldg.,182
+Kansas City,Scurritt bldg.,182
+Kansas City,Sharp bldg,182
+Kansas City,Sharp bldg.,182
+Kansas City,Sheidley bidg.,182
+Kansas City,Sheidley bld.,182
+Kansas City,Sheidley bldg.,182
+Kansas City,Sheld-ley bldg.,182
+Kansas City,Sheldley bld.,182
+Kansas City,Sheldley bldg.,182
+Kansas City,Sheldley hide.,182
+Kansas City,Sheruley bldg.,182
+Kansas City,Shiedley bldg.,182
+Kansas City,Shukert bldg,182
+Kansas City,Shukert bldg.,182
+Kansas City,Snukert bldg.,182
+Kansas City,Sterling bldg.,182
+Kansas City,Temple,182
+Kansas City,Temple bldg.,182
+Kansas City,U. S. & Mex. Trust bldg.,182
+Kansas City,Victor bld.,182
+Kansas City,Victor bldg.,182
+Kansas City,W. 9th,182
+Kansas City,Wald-heim bldg.,182
+Kansas City,Wald-helm bldg.,182
+Kansas City,Waldheim bidz.,182
+Kansas City,Waldheim bldg.,182
+Kansas City,Wardheim bldg.,182
+Kansas City,Water Works bldg.,182
+Kansas City,Wheeler bldg.,182
+Kansas City,Y. Life bldg.,182
+Kansas City,ned. Sk. bldg.,182
+Kansas City,К. С. Life bldg.,182
+Kansas City,,182
+Lexington,Tr. Co. bldg,2
+Lexington,,2
+Los Angeles,1114 Union Trust bldg.,249
+Los Angeles,1403 E. Vernon,249
+Los Angeles,142 S. Broadway,249
+Los Angeles,1454 N. Main,249
+Los Angeles,1468 Central,249
+Los Angeles,147 S. Broadway,249
+Los Angeles,200 Coulter bldg.,249
+Los Angeles,200 H. W. Hellman,249
+Los Angeles,200-1-2-3 Currler bldg.,249
+Los Angeles,200-2 Frost bldg.,249
+Los Angeles,201 Equit. Savings Bank bldg.,249
+Los Angeles,201 Grant bldg.,249
+Los Angeles,202 Mercantile pl.,249
+Los Angeles,204 Bradbury bldg.,249
+Los Angeles,205 Amer. Bank bldg.,249
+Los Angeles,207 Amer. Bk bldg.,249
+Los Angeles,207 Stimson bldg.,249
+Los Angeles,210 Mason bldg.,249
+Los Angeles,211 Grant bldg.,249
+Los Angeles,214-16-18 Am. Bank bldg.,249
+Los Angeles,216 Copp bldg.,249
+Los Angeles,219 Cit. Nat. Bank bldg,249
+Los Angeles,221 Central bldg.,249
+Los Angeles,229 I. W. Hellman bld.,249
+Los Angeles,280 I. W. Hellman bldg.,249
+Los Angeles,280 I. W. Hellman blåg.,249
+Los Angeles,284 Mason bldg.,249
+Los Angeles,302 Central bldg.,249
+Los Angeles,304 Fay bldg.,249
+Los Angeles,305 Mason bldg.,249
+Los Angeles,308 Tr. & Sav. bldg.,249
+Los Angeles,310 Fay bldg.,249
+Los Angeles,310 Severance,249
+Los Angeles,313 O T. Johnson bldg.,249
+Los Angeles,315 Cons. Rity bldg.,249
+Los Angeles,317 Mer. Tr. bld.,249
+Los Angeles,329 P. E. bldg.,249
+Los Angeles,376 Wilcox bldg.,249
+Los Angeles,382 W. 6th,249
+Los Angeles,404 Lankerahim bldg.,249
+Los Angeles,404 P. E. bldg.,249
+Los Angeles,405 Grant bldg.,249
+Los Angeles,406 Laughlin bldg.,249
+Los Angeles,406 Mason bldg.,249
+Los Angeles,408 Bumiller bldg,249
+Los Angeles,408-10 S. Hill,249
+Los Angeles,409 Fay bldg.,249
+Los Angeles,410 Lankershim bldg.,249
+Los Angeles,413 Grant bldg.,249
+Los Angeles,415 Exchange bldg.,249
+Los Angeles,420-21 Story bldg.,249
+Los Angeles,425 I. W. Hellman bldg.,249
+Los Angeles,427 Story bldg.,249
+Los Angeles,428 Mason bld.,249
+Los Angeles,4706 Vermont,249
+Los Angeles,524 Bumiller bldg.,249
+Los Angeles,601 Story bldg.,249
+Los Angeles,609 Bumiller bldg.,249
+Los Angeles,611 Security bldg.,249
+Los Angeles,612 H. W. Hellman bldg.,249
+Los Angeles,613 Citz. Bank bldg.,249
+Los Angeles,614 Tr. & Sav. bld.,249
+Los Angeles,614 Trust & Sav. bldg.,249
+Los Angeles,616 Grant bldg.,249
+Los Angeles,619 Cons. Rity bld.,249
+Los Angeles,621 Bumiller bldg.,249
+Los Angeles,628 8. Hill at.,249
+Los Angeles,631 Security bldg.,249
+Los Angeles,632 Chamber of Commerce,249
+Los Angeles,658 P. E. bldg.,249
+Los Angeles,680 Security bldg.,249
+Los Angeles,681 I. W. Hellman bldg.,249
+Los Angeles,686 H. W. Hell-man blåg.,249
+Los Angeles,702 Fay bidg.,249
+Los Angeles,702 Johnston bldg.,249
+Los Angeles,705 Delta bldg.,249
+Los Angeles,710 W. & C. bldg.,249
+Los Angeles,719 Delta bldg.,249
+Los Angeles,722 Story bldg.,249
+Los Angeles,732 Security bldg.,249
+Los Angeles,802 Frost bldg.,249
+Los Angeles,802 Story bldg.,249
+Los Angeles,804 Grant bldg.,249
+Los Angeles,804 Trust & Sav. bldg.,249
+Los Angeles,808 H. W. Hellman,249
+Los Angeles,812 Ferguson bidg.,249
+Los Angeles,815 Currier bldg.,249
+Los Angeles,817 Cons. Rity bldg.,249
+Los Angeles,818 H. W. Hellman,249
+Los Angeles,822 Security bldg.,249
+Los Angeles,841 8 Hill,249
+Los Angeles,89th & Western,249
+Los Angeles,905 Story bldg.,249
+Los Angeles,933 Security bldg.,249
+Los Angeles,937 Security bldg.,249
+Los Angeles,Am. Bank,249
+Los Angeles,Am. Bank bldg.,249
+Los Angeles,Amer. Bank bldg.,249
+Los Angeles,Bradbury,249
+Los Angeles,Bradbury bldg.,249
+Los Angeles,"Brwy, Cent bld.",249
+Los Angeles,Bryson bldg.,249
+Los Angeles,Bullard bldg.,249
+Los Angeles,Bumiller bldg,249
+Los Angeles,Bumiller bldg.,249
+Los Angeles,Byrne bldg.,249
+Los Angeles,California bldg.,249
+Los Angeles,Cent. bld.,249
+Los Angeles,Central,249
+Los Angeles,Central bide.,249
+Los Angeles,Central bldg.,249
+Los Angeles,Central blvd.,249
+Los Angeles,Centrul,249
+Los Angeles,Centrul bldg.,249
+Los Angeles,Cham. of Com.,249
+Los Angeles,Cham. of Com. bldg.,249
+Los Angeles,Chamber of Com.,249
+Los Angeles,Chamber of Commerce,249
+Los Angeles,Cit. Nat. Bank bldg.,249
+Los Angeles,Citizens National Bank bldg.,249
+Los Angeles,Citizens' National Bank bldg.,249
+Los Angeles,City Bank bldg.,249
+Los Angeles,City Nat. Bank bidg.,249
+Los Angeles,Citz. Nat. Bank bidg.,249
+Los Angeles,Citz. Nat. Bank bldg.,249
+Los Angeles,Citz. Nat. Bk bld.,249
+Los Angeles,Columbia Trust bldg.,249
+Los Angeles,Cons. Realty,249
+Los Angeles,Cons. Realty bidg.,249
+Los Angeles,Cons. Realty bldg.,249
+Los Angeles,Cons. Rity bldg.,249
+Los Angeles,Cons. Rity. bld.,249
+Los Angeles,Consolidated Realty bldg.,249
+Los Angeles,Currier bldg.,249
+Los Angeles,Delta bidg.,249
+Los Angeles,Delta bldg.,249
+Los Angeles,Donglas bldg.,249
+Los Angeles,Douglas bidg.,249
+Los Angeles,Douglas bld.,249
+Los Angeles,Douglas bldg.,249
+Los Angeles,East Hollywood,249
+Los Angeles,Eq. Sav. Bk bldg.,249
+Los Angeles,Exch. bldg.,249
+Los Angeles,Exchange bldg,249
+Los Angeles,Exchange bldg.,249
+Los Angeles,Fay bldg.,249
+Los Angeles,Ferguson bldg.,249
+Los Angeles,Frost bldg,249
+Los Angeles,Frost bldg.,249
+Los Angeles,Grant,249
+Los Angeles,Grant bidg.,249
+Los Angeles,Grant bldg.,249
+Los Angeles,Grosse bldg.,249
+Los Angeles,H. W. H. bidg.,249
+Los Angeles,H. W. H. bld.,249
+Los Angeles,H. W. Hellman,249
+Los Angeles,H. W. Hellman bld,249
+Los Angeles,H. W. Hellman bld.,249
+Los Angeles,H. W. Hellman bldg.,249
+Los Angeles,Hellman,249
+Los Angeles,Hellman bld.,249
+Los Angeles,Hellman bldg,249
+Los Angeles,Hellman bldg.,249
+Los Angeles,Hellman hidg.,249
+Los Angeles,Henne bidg.,249
+Los Angeles,Henne bldg.,249
+Los Angeles,Higgins blag.,249
+Los Angeles,Higgins bldg.,249
+Los Angeles,Higgins hide.,249
+Los Angeles,Hill,249
+Los Angeles,Hilyd blvd.,249
+Los Angeles,I. W. Hellman bidg.,249
+Los Angeles,I. W. Hellman bldg.,249
+Los Angeles,Int. Bank bldg.,249
+Los Angeles,J. W. Hellman,249
+Los Angeles,Johnson bldg.,249
+Los Angeles,Kerckhoff bldg.,249
+Los Angeles,Lankershim bldg.,249
+Los Angeles,"Lankershim, bldg.",249
+Los Angeles,Laughlin bide.,249
+Los Angeles,Laughlin bidg,249
+Los Angeles,Laughlin bldg.,249
+Los Angeles,Lissner bldg.,249
+Los Angeles,Lyceum Theater bld.,249
+Los Angeles,Mason Opera House,249
+Los Angeles,Mason bid.,249
+Los Angeles,Mason bidg,249
+Los Angeles,Mason bidg.,249
+Los Angeles,Mason bldg.,249
+Los Angeles,Mer. Tr. bidg.,249
+Los Angeles,Mer. Tr. bldg.,249
+Los Angeles,Mer. Trust bidg.,249
+Los Angeles,Mer. Trust bldg.,249
+Los Angeles,Mercantile,249
+Los Angeles,Mercantile pl.,249
+Los Angeles,Nat'l Bank bidg,249
+Los Angeles,Nat. Bank bldg.,249
+Los Angeles,O. T. Johnson bidg.,249
+Los Angeles,O. T. Johnson bldg.,249
+Los Angeles,P. E. bldg.,249
+Los Angeles,Pac. Elec. bldg.,249
+Los Angeles,S. HIM,249
+Los Angeles,S. Hill,249
+Los Angeles,S. Spring,249
+Los Angeles,San Fernando bidg.,249
+Los Angeles,Sec bldg.,249
+Los Angeles,Security bidg.,249
+Los Angeles,Security blag.,249
+Los Angeles,Security bldg.,249
+Los Angeles,Severance,249
+Los Angeles,Severance bldg.,249
+Los Angeles,Severance pl.,249
+Los Angeles,Stimson bidg.,249
+Los Angeles,Stimson bik.,249
+Los Angeles,Stimson bldg.,249
+Los Angeles,Store bldr.,249
+Los Angeles,Story bid.,249
+Los Angeles,Story bilg.,249
+Los Angeles,Story bldg.,249
+Los Angeles,Story blilg.,249
+Los Angeles,Sumson bldg.,249
+Los Angeles,T. & Bav. bldg.,249
+Los Angeles,Temple blk.,249
+Los Angeles,Title Inn. bldg.,249
+Los Angeles,Tr. & Bav. bldg.,249
+Los Angeles,Tr. & Sav.,249
+Los Angeles,Tr. & Sav. bld.,249
+Los Angeles,Tr. & Sav. bldg.,249
+Los Angeles,Trust & Sav.,249
+Los Angeles,Trust & Sav. bldg.,249
+Los Angeles,Trust & Savings bldg.,249
+Los Angeles,Un. Tr. bldg.,249
+Los Angeles,Union League bldg.,249
+Los Angeles,Union Tr. bid.,249
+Los Angeles,Union Tr. bldg.,249
+Los Angeles,Union Trust,249
+Los Angeles,Union Trust bldg.,249
+Los Angeles,Union Trust blåg.,249
+Los Angeles,University,249
+Los Angeles,Vermont,249
+Los Angeles,W. & C. bldg.,249
+Los Angeles,W. A. Sec. bldg.,249
+Los Angeles,W. H. bldg.,249
+Los Angeles,W. P. Story bldg.,249
+Los Angeles,Wilcox bldg.,249
+Los Angeles,Wr. & Call. bldg.,249
+Los Angeles,Wright & Cal. bldg.,249
+Los Angeles,Wright & Callender bldg.,249
+Los Angeles,,249
+Milwaukee,Alhambra bld.,44
+Milwaukee,Alhambra bldg.,44
+Milwaukee,Camp bldg.,44
+Milwaukee,"Caswell blk,",44
+Milwaukee,Caswell blk.,44
+Milwaukee,Cawker bldg.,44
+Milwaukee,Cawker bole,44
+Milwaukee,Cns-well blk.,44
+Milwaukee,Colby-Abbott bldg.,44
+Milwaukee,East Water,44
+Milwaukee,Empire bldg.,44
+Milwaukee,Folnom Place,44
+Milwaukee,Germania bldg.,44
+Milwaukee,Germanin bldg.,44
+Milwaukee,Goldsmith bldg.,44
+Milwaukee,Iron blk.,44
+Milwaukee,Kinnikinnic,44
+Milwaukee,Kinnikinnte,44
+Milwaukee,Loan & T. bldg.,44
+Milwaukee,Loan & Tr. bld.,44
+Milwaukee,Loan & Trust bldg.,44
+Milwaukee,Majestic bldg.,44
+Milwaukee,Matthews bld.,44
+Milwaukee,Matthews bldg.,44
+Milwaukee,Mayester bldg.,44
+Milwaukee,Merrill bldg.,44
+Milwaukee,Metropolitan blk.,44
+Milwaukee,Miller bldg.,44
+Milwaukee,Mitchell,44
+Milwaukee,Mitchell bldg.,44
+Milwaukee,Montgom-ery bldg.,44
+Milwaukee,National ave.,44
+Milwaukee,Ogden bldg.,44
+Milwaukee,Pabst bidg.,44
+Milwaukee,Pabst bldg.,44
+Milwaukee,Plankinton bld.,44
+Milwaukee,Plankinton bldg.,44
+Milwaukee,Railway Ex. bld.,44
+Milwaukee,Railway Ex. bldg.,44
+Milwaukee,Rallway Ex bldg.,44
+Milwaukee,Ry. Ex. bld.,44
+Milwaukee,Sentinel bldg.,44
+Milwaukee,Wells bldg.,44
+Milwaukee,,44
+Minneapolis,1st Main,95
+Minneapolis,1st ave. N.,95
+Minneapolis,1st ave. S.,95
+Minneapolis,4th,95
+Minneapolis,An-,95
+Minneapolis,Andrus,95
+Minneapolis,Andrus bidg.,95
+Minneapolis,Andrus bld.,95
+Minneapolis,Andrus bldg.,95
+Minneapolis,Bank Com.,95
+Minneapolis,Bank Commerce,95
+Minneapolis,Bank of Commerce,95
+Minneapolis,Bk. Com.,95
+Minneapolis,Boston bik.,95
+Minneapolis,Boston blk.,95
+Minneapolis,Broadway Beit Line,95
+Minneapolis,Central,95
+Minneapolis,Century bldg.,95
+Minneapolis,Cham. Commerce,95
+Minneapolis,Flour Ex. bldg.,95
+Minneapolis,Furn. Expo. bldg.,95
+Minneapolis,Globe,95
+Minneapolis,Globe bldg.,95
+Minneapolis,Guaranty bldg.,95
+Minneapolis,Kasota,95
+Minneapolis,Kasota bldg.,95
+Minneapolis,Kasota blk.,95
+Minneapolis,Life bldg.,95
+Minneapolis,Lincoln bldg.,95
+Minneapolis,Loan,95
+Minneapolis,Lobby,95
+Minneapolis,Lumber Ex.,95
+Minneapolis,Lumber Exch.,95
+Minneapolis,Lumber Exch. bldg.,95
+Minneapolis,Lumber Exchange,95
+Minneapolis,Lumber Exchange bldg.,95
+Minneapolis,McMullen bldg.,95
+Minneapolis,Medical blk.,95
+Minneapolis,Met Life,95
+Minneapolis,Met Life bid.,95
+Minneapolis,Met Life bldg,95
+Minneapolis,Met Life bldg.,95
+Minneapolis,"Met, Life bld.",95
+Minneapolis,"Met, Life bldg.",95
+Minneapolis,Met.,95
+Minneapolis,Met. Life,95
+Minneapolis,Met. Life bide.,95
+Minneapolis,Met. Life bidg.,95
+Minneapolis,Met. Life bld.,95
+Minneapolis,Met. Life bldg.,95
+Minneapolis,Met. bldg.,95
+Minneapolis,Met. hldg.,95
+Minneapolis,Minn. L. & Tr.,95
+Minneapolis,N. W. bldg.,95
+Minneapolis,N. Y. Life bldg.,95
+Minneapolis,Nicollet,95
+Minneapolis,Nicollet ave.,95
+Minneapolis,Oneida bldg.,95
+Minneapolis,Oneida blk.,95
+Minneapolis,Onelda bldg.,95
+Minneapolis,Palace,95
+Minneapolis,Palace bld.,95
+Minneapolis,Palace bldg.,95
+Minneapolis,"Palace bldg.,",95
+Minneapolis,Phoe,95
+Minneapolis,Phoenix,95
+Minneapolis,Phoenix bld.,95
+Minneapolis,Phoenix bldg.,95
+Minneapolis,Pilsbury bldg.,95
+Minneapolis,Ply. bldg.,95
+Minneapolis,Plymouth bld.,95
+Minneapolis,Plymouth bldg.,95
+Minneapolis,Rand bldg.,95
+Minneapolis,Reid Corner,95
+Minneapolis,Relr Corner,95
+Minneapolis,S. 4th,95
+Minneapolis,S. 4th.,95
+Minneapolis,S. 5th,95
+Minneapolis,Sec.,95
+Minneapolis,Sec. Bank,95
+Minneapolis,Sec. Bank bld.,95
+Minneapolis,Sec. Bank bldg.,95
+Minneapolis,Sec. Bk.,95
+Minneapolis,Sec. Bk. bldg.,95
+Minneapolis,Sec. Bldg.,95
+Minneapolis,Sec. bldg.,95
+Minneapolis,Security Bank,95
+Minneapolis,Security Bank bld.,95
+Minneapolis,Security Bank bldg.,95
+Minneapolis,Security Bk.,95
+Minneapolis,St. Anth. Falls Bank,95
+Minneapolis,Sykes blk.,95
+Minneapolis,Temple Court,95
+Minneapolis,Temple Ct.,95
+Minneapolis,,95
+Nashville,"1st Nat'l Bank, bldg.",18
+Nashville,1st Natl. Bk.,18
+Nashville,23 Vanderbilt bldg.,18
+Nashville,7 Noel blk.,18
+Nashville,Bruce bldg.,18
+Nashville,Cham. of Com.,18
+Nashville,Homestead bldg.,18
+Nashville,McGavock blk.,18
+Nashville,Natl. Bk bidg,18
+Nashville,Natl. Bk.,18
+Nashville,Natl. Bk. bld.,18
+Nashville,Un. Bk. bldg.,18
+Nashville,Union Bank bldg.,18
+Nashville,Union Bk. bldg.,18
+Nashville,Unton Bk. bldg.,18
+Nashville,Vander-bilt bldg.,18
+Nashville,Vanderbilt blåg,18
+Nashville,,18
+Newark,Essex,11
+Newark,Essex Bldg.,11
+Newark,Frme Bids.,11
+Newark,Frms. Bldg.,11
+Newark,Met. Bldg.,11
+Newark,Mt. Pros,11
+Newark,Prud bldg.,11
+Newark,Prud. Bldg.,11
+Newark,Union Bldg.,11
+Newark,Union bldg.,11
+Newark,,11
+Philadelphia,1006 Franklin Bk bld.,126
+Philadelphia,1006 Franklin Rk. bld.,126
+Philadelphia,603 Franklin Bk. bldg.,126
+Philadelphia,615 Bulletin bldg.,126
+Philadelphia,705 Stephen Girard bldg.,126
+Philadelphia,818 Arcade bldg,126
+Philadelphia,Amer.bldg.,126
+Philadelphia,American bldg.,126
+Philadelphia,Arcade bidg,126
+Philadelphia,Arcade bidg.,126
+Philadelphia,Arcade bld.,126
+Philadelphia,Arcade bldg.,126
+Philadelphia,Arch,126
+Philadelphia,Bailey,126
+Philadelphia,Bailey bldg,126
+Philadelphia,Bailey bldg.,126
+Philadelphia,Balley bld.,126
+Philadelphia,Balley bldg.,126
+Philadelphia,Betz bldg,126
+Philadelphia,Betz bldg.,126
+Philadelphia,Bridge bidg.,126
+Philadelphia,Broad-St. Sta.,126
+Philadelphia,Bulletin,126
+Philadelphia,Bulletin bidg.,126
+Philadelphia,Bulletin bldg,126
+Philadelphia,Bulletin bldg.,126
+Philadelphia,Bullitt bldg.,126
+Philadelphia,Chestnut,126
+Philadelphia,Christian,126
+Philadelphia,Commonwealth,126
+Philadelphia,Commonwealth Trust,126
+Philadelphia,Commonwealth Trust bldg.,126
+Philadelphia,Crozer bldg.,126
+Philadelphia,Denckla bldg.,126
+Philadelphia,Drexel bld.,126
+Philadelphia,Drexel bldg,126
+Philadelphia,Drexel bldg.,126
+Philadelphia,E. Boston,126
+Philadelphia,Fidelity Mu-,126
+Philadelphia,Fidelity Mutual Life bldg.,126
+Philadelphia,Fidellty Mutual Life bldg.,126
+Philadelphia,Filbert,126
+Philadelphia,Fisher's In,126
+Philadelphia,Franklin Bank,126
+Philadelphia,Franklin Bk. bldg.,126
+Philadelphia,Franklin bid.,126
+Philadelphia,Franklin bld.,126
+Philadelphia,Franklin bldg.,126
+Philadelphia,Fuller bldg.,126
+Philadelphia,Hal,126
+Philadelphia,Hale bidg.,126
+Philadelphia,Hale bldg,126
+Philadelphia,Hale bldg.,126
+Philadelphia,Harrison bldg.,126
+Philadelphia,Haverford,126
+Philadelphia,Heed bldg.,126
+Philadelphia,Keith's Theatre bld.,126
+Philadelphia,Keith's Theatre bldg.,126
+Philadelphia,Keul Estate Trust bldg.,126
+Philadelphia,Lafayette bldg.,126
+Philadelphia,Land Title,126
+Philadelphia,Land Title bid,126
+Philadelphia,Land Title bid.,126
+Philadelphia,Land Title bld.,126
+Philadelphia,Land Title bldg,126
+Philadelphia,Land Title bldg.,126
+Philadelphia,Land Titlo,126
+Philadelphia,Ledger bldg.,126
+Philadelphia,Manhattan bldg.,126
+Philadelphia,Mariner & Merchant bldg.,126
+Philadelphia,Mint Arcade bld.,126
+Philadelphia,Mint Arcade bldg.,126
+Philadelphia,Morris bldg.,126
+Philadelphia,Mut. Life bldg.,126
+Philadelphia,Mut. Life budg,126
+Philadelphia,Mutual Life,126
+Philadelphia,Mutual Life bid,126
+Philadelphia,Mutual Life bldg.,126
+Philadelphia,N. Am. bldg.,126
+Philadelphia,N. Amer. bldg.,126
+Philadelphia,N. American bldg.,126
+Philadelphia,N. Front,126
+Philadelphia,North Amer-ican bldg.,126
+Philadelphia,North American bid.,126
+Philadelphia,North American bldg.,126
+Philadelphia,Orthodox Fkd.,126
+Philadelphia,Orthodox bld.,126
+Philadelphia,Orthodox bldg.,126
+Philadelphia,"Orthodox, Fkd.",126
+Philadelphia,Penn. Sq. bldg.,126
+Philadelphia,PennSq. bldg.,126
+Philadelphia,Penna. bldg.,126
+Philadelphia,Pennsylvania bldg.,126
+Philadelphia,Perry bldg.,126
+Philadelphia,Petz bldg.,126
+Philadelphia,Phila. Bourse,126
+Philadelphia,Provident bldg.,126
+Philadelphia,R. E. Tr. bld.,126
+Philadelphia,R. E. Trust bld.,126
+Philadelphia,R. E. Trust bldg.,126
+Philadelphia,Real Est. Tr. bld,126
+Philadelphia,Real Est. Trust bld.,126
+Philadelphia,Real Estate,126
+Philadelphia,Real Estate Trust,126
+Philadelphia,Real Estate Trust bidg.,126
+Philadelphia,Real Estate Trust bldg.,126
+Philadelphia,Real EstateTrust bldg.,126
+Philadelphia,RealEstate Trust bldg.,126
+Philadelphia,Ridge bidg.,126
+Philadelphia,S. 2nd.,126
+Philadelphia,S. 4th,126
+Philadelphia,S. 6th,126
+Philadelphia,S. 8d,126
+Philadelphia,Stephen Girard bids,126
+Philadelphia,Stephen Girard bldg.,126
+Philadelphia,Trust bldg.,126
+Philadelphia,Walnut,126
+Philadelphia,Walnut & Witherspoon bldg,126
+Philadelphia,Weightman bld.,126
+Philadelphia,Weightman bldg.,126
+Philadelphia,Willings al.,126
+Philadelphia,Witherspoon bidg.,126
+Philadelphia,Witherspoon bldg,126
+Philadelphia,Witherspoon bldg.,126
+Philadelphia,ne c. 3rd & McKean,126
+Philadelphia,,126
+Phoenix,Fleming bldg.,7
+Phoenix,Goodrich bldg,7
+Phoenix,Nat. Bank bldg.,7
+Phoenix,Rm. 1 Lewis bldg,7
+Phoenix,Rma 2-3 Lewis bldg.,7
+Phoenix,Vendome Hotel,7
+Phoenix,,7
+Pittsburgh,Apollo bldg.,53
+Pittsburgh,Arrott bldg.,53
+Pittsburgh,Bakewell bldg.,53
+Pittsburgh,"Beely Blk., Penn & Beatty",53
+Pittsburgh,Berger bldg,53
+Pittsburgh,Berger bldg.,53
+Pittsburgh,Bijou bidg.,53
+Pittsburgh,Bridge at.,53
+Pittsburgh,Caldwell & Graham bldg.,53
+Pittsburgh,Century bldg.,53
+Pittsburgh,Columbia Bank bldg.,53
+Pittsburgh,Commonwealth Real Estate Co.,53
+Pittsburgh,Commonwealth bldg.,53
+Pittsburgh,Diamond Bank bldg.,53
+Pittsburgh,Diamond Bk. bldg.,53
+Pittsburgh,Empire bldg.,53
+Pittsburgh,Farmer Bank bldg.,53
+Pittsburgh,Farmer's Bank bld.,53
+Pittsburgh,Farmers Bank Bldg.,53
+Pittsburgh,Farmers Bank bldg.,53
+Pittsburgh,Farmers Bk. bldg.,53
+Pittsburgh,Farmers' Bank bldg.,53
+Pittsburgh,Ferguson bldg.,53
+Pittsburgh,Forbes & Shady,53
+Pittsburgh,Fulton bldg.,53
+Pittsburgh,Highland bldg.,53
+Pittsburgh,Jenkins Arcade,53
+Pittsburgh,Jenkins bldg.,53
+Pittsburgh,Keystone bld.,53
+Pittsburgh,Keystone bldg.,53
+Pittsburgh,Lewis bldg.,53
+Pittsburgh,Machesney bidg.,53
+Pittsburgh,Machesney bldg.,53
+Pittsburgh,Magee bldg.,53
+Pittsburgh,May bldg.,53
+Pittsburgh,Ohio Valley Trust bldg.,53
+Pittsburgh,Oliver bldg.,53
+Pittsburgh,Park bldg.,53
+Pittsburgh,People Bank bldg.,53
+Pittsburgh,People bldg.,53
+Pittsburgh,People's Bank bldg.,53
+Pittsburgh,Peoples Bank bldg.,53
+Pittsburgh,Peoples bldg.,53
+Pittsburgh,Renshaw bldg.,53
+Pittsburgh,St. Nicholas bldg.,53
+Pittsburgh,Times bldg.,53
+Pittsburgh,Union Bank bldg.,53
+Pittsburgh,Union Bk. bldg.,53
+Pittsburgh,Unton Bank bldg,53
+Pittsburgh,Vandergrift bldg.,53
+Pittsburgh,Wabash bldg.,53
+Pittsburgh,Washington Bank bldg.,53
+Pittsburgh,,53
+Portland,13th & Spokane,139
+Portland,248 Alder,139
+Portland,Abington bld.,139
+Portland,Abington bldg.,139
+Portland,Acheson bldg.,139
+Portland,Allsky bldg.,139
+Portland,Arleta,139
+Portland,B. of Trade bld.,139
+Portland,B. of Trade bldg.,139
+Portland,Bank of Kenton bld.,139
+Portland,Bd. of T. bld.,139
+Portland,Bd. of Trade bidg,139
+Portland,Bd. of Trade bidg.,139
+Portland,Bd. of Trade bld.,139
+Portland,Bd. of Trade bldg,139
+Portland,Bd. of Trade bldg.,139
+Portland,Behnke-Walker bldg.,139
+Portland,Berlinger bldg.,139
+Portland,Board of T. bldg.,139
+Portland,Board of Trade,139
+Portland,Board of Trade bldg.,139
+Portland,Buchanan bldg.,139
+Portland,Cambridge bldg.,139
+Portland,Ch. of Com,139
+Portland,Ch. of Com.,139
+Portland,Ch. of Com. bidg.,139
+Portland,Ch. of Com. bld.,139
+Portland,Ch. of Com. bldg,139
+Portland,Ch. of Com. bldg.,139
+Portland,Cham. of Com.,139
+Portland,Cham. of Com. bidg.,139
+Portland,Cham. of Com. bld.,139
+Portland,Cham. of Com. bldg.,139
+Portland,Chamber of Com. bldg.,139
+Portland,Chambers bldg.,139
+Portland,Com Club bldg.,139
+Portland,Com'l Club bldg.,139
+Portland,Com'l blk.,139
+Portland,Com. Club bldg.,139
+Portland,Com. Club. bld.,139
+Portland,Commercial Club bldg.,139
+Portland,Commercial bik.,139
+Portland,Commercial bldg,139
+Portland,Commercial bldg.,139
+Portland,Commercial blk.,139
+Portland,Commonwealth bldg.,139
+Portland,Corbett bld.,139
+Portland,Corbett bldg.,139
+Portland,Corbett blidg,139
+Portland,Couch bld.,139
+Portland,Couch bldg.,139
+Portland,Dekum bldg.,139
+Portland,E. 39th & Glisan,139
+Portland,Electric bldg.,139
+Portland,Failing bldg.,139
+Portland,Falling bldg.,139
+Portland,Fenton bidg.,139
+Portland,Firland Sta.,139
+Portland,Gerlinger bld.,139
+Portland,Gerlinger bldg.,139
+Portland,Grand av. & Multnomah,139
+Portland,Hamilton bidg.,139
+Portland,Hamilton bldg,139
+Portland,Hamilton bldg.,139
+Portland,Healy bldg.,139
+Portland,Henry bid,139
+Portland,Henry bidg,139
+Portland,Henry bldg.,139
+Portland,Humlion bldg.,139
+Portland,Kenton Bank bldg.,139
+Portland,Kerrigan Sta.,139
+Portland,Laurelwood Sta.,139
+Portland,Lewis bidg.,139
+Portland,Lewis bldg,139
+Portland,Lewis bldg.,139
+Portland,Lmbr. Ex. bldg.,139
+Portland,Lmbr. Exch. bldg.,139
+Portland,Lmbr. Exchange bldg.,139
+Portland,Lumber Ex. bldg.,139
+Portland,Lumber Exch. bid.,139
+Portland,Lumber Exch. bidg.,139
+Portland,Lumber Exch. bldg.,139
+Portland,Lumber Exchange,139
+Portland,Lumberman's,139
+Portland,Lumberman's bldg.,139
+Portland,Lumbermen's bld.,139
+Portland,Lumbermen's bldg,139
+Portland,Lumbermen's bldg.,139
+Portland,Madison bldg.,139
+Portland,Marquam bldg.,139
+Portland,McKay bidg.,139
+Portland,McKay bldg.,139
+Portland,Merchants Trust bldg.,139
+Portland,Merchants' Trust bid.,139
+Portland,Merchants' Trust bldg.,139
+Portland,Metzger Station,139
+Portland,Mohawk bidg.,139
+Portland,Mohawk bldg.,139
+Portland,Mohawk blåg,139
+Portland,Mulkey bldg.,139
+Portland,Oregonian bldg.,139
+Portland,Peninsula & Pippin,139
+Portland,Railroad Exch. bldg.,139
+Portland,Railway Exch. bldg.,139
+Portland,Rothchild bldg.,139
+Portland,Russell bldg.,139
+Portland,Ry. Ex. bld.,139
+Portland,Ry. Exch bldg,139
+Portland,Ry. Exch. bld,139
+Portland,Ry. Exch. bldg.,139
+Portland,Ry. Exchange bidg.,139
+Portland,Selling bidg.,139
+Portland,Selling bldg.,139
+Portland,Sherlock bldg.,139
+Portland,Spalding bidg.,139
+Portland,Spalding bld.,139
+Portland,Spalding bldg.,139
+Portland,Spalding blilk.,139
+Portland,Stearns bldg.,139
+Portland,Stewarts Sta.,139
+Portland,Strowbridge bld.,139
+Portland,Swetland bldg,139
+Portland,Swetland bldg.,139
+Portland,Wash bldg.,139
+Portland,Wash. bldg.,139
+Portland,Washington bldg,139
+Portland,Washington bldg.,139
+Portland,Wells-Fargo bld.,139
+Portland,Wells-Fargo bldg,139
+Portland,Wells-Fargo bldg.,139
+Portland,Worcester bldg.,139
+Portland,Worcester blk.,139
+Portland,Yeon bidg.,139
+Portland,Yeon bld.,139
+Portland,Yeon bldg.,139
+Portland,Yeon blug.,139
+Portland,Yeon.bldg.,139
+Portland,h. of Com. 11.,139
+Portland,,139
+Providence,Banican bldg.,22
+Providence,Banigan,22
+Providence,Banigan bid,22
+Providence,Banigan bid.,22
+Providence,Banigan bidg.,22
+Providence,Banigan bidr.,22
+Providence,Banigan bldg.,22
+Providence,Banlgan bldg.,22
+Providence,Butler Exch.,22
+Providence,Case-Mead bldg.,22
+Providence,Custom House,22
+Providence,Exchange,22
+Providence,Howard bldg.,22
+Providence,Ind. Tr. bidg,22
+Providence,Ind. Trust bldg,22
+Providence,Ind. Trust bldg.,22
+Providence,Industrial Trust,22
+Providence,Lapham bldg.,22
+Providence,Ranigan bidg,22
+Providence,Union Tr. bidg,22
+Providence,Union Trust bldg.,22
+Providence,,22
+Sacramento,Forum bldg.,12
+Sacramento,Hagelstein bldg.,12
+Sacramento,Hotel Sacramento,12
+Sacramento,Ochaner bldg.,12
+Sacramento,Ochener,12
+Sacramento,Ochsner,12
+Sacramento,Ochsner bldg,12
+Sacramento,Ochsner bldg.,12
+Sacramento,Samuels bldg.,12
+Sacramento,Sav. Bk. bldg.,12
+Sacramento,Stoll bldg.,12
+Sacramento,,12
+Saint Louis,3d Nat. Bk. bldg.,73
+Saint Louis,3rd Nat. Bk. bld.,73
+Saint Louis,Arcade bldg.,73
+Saint Louis,Bank of Com. bldg.,73
+Saint Louis,Benoist bldg.,73
+Saint Louis,Bk. of Commerce bldg.,73
+Saint Louis,Carleton bldg.,73
+Saint Louis,Central Nat. Bk. bldg.,73
+Saint Louis,Century bldg.,73
+Saint Louis,Chemical bldg.,73
+Saint Louis,Chestnut,73
+Saint Louis,Columbia bldg.,73
+Saint Louis,Commercial bld.,73
+Saint Louis,Commercial bldg.,73
+Saint Louis,Cont. Nat. Bank bldg.,73
+Saint Louis,Culver bldg.,73
+Saint Louis,De Menil bldg.,73
+Saint Louis,Frisco bidg.,73
+Saint Louis,Frisco bldg.,73
+Saint Louis,Fullerton bidg.,73
+Saint Louis,Fullerton bldg.,73
+Saint Louis,Granite bldg.,73
+Saint Louis,Holland bldg.,73
+Saint Louis,Homer bldg.,73
+Saint Louis,Itaska bldg.,73
+Saint Louis,La Salle bldg.,73
+Saint Louis,LaSalle bldg.,73
+Saint Louis,Laciede bldg.,73
+Saint Louis,Laclede bldg.,73
+Saint Louis,Liggett bidg.,73
+Saint Louis,Liggett bld.,73
+Saint Louis,Liggett bldg.,73
+Saint Louis,Lincoln Trust bldg.,73
+Saint Louis,Lister bldg.,73
+Saint Louis,McElhinney bldg.,73
+Saint Louis,Mech. Am. Bank bidg.,73
+Saint Louis,Mer.-Laclede bidg.,73
+Saint Louis,Mermod & Jaccard bldg.,73
+Saint Louis,Mo. Tr. bldg.,73
+Saint Louis,Mo. Trust bldg.,73
+Saint Louis,Navarra bldg.,73
+Saint Louis,Navarre bidg.,73
+Saint Louis,Navarre bldg.,73
+Saint Louis,New Bk. of Com. bld.,73
+Saint Louis,Olivia bldg.,73
+Saint Louis,Pierce bldg.,73
+Saint Louis,Rialto bldg.,73
+Saint Louis,Roe bldg.,73
+Saint Louis,Sawyer bldg.,73
+Saint Louis,Security bldg.,73
+Saint Louis,Syndicate Tr. bld.,73
+Saint Louis,Syndicate Trust bldg.,73
+Saint Louis,Temple bidg.,73
+Saint Louis,The Mer. Laclede bld.,73
+Saint Louis,The Navarre bldg.,73
+Saint Louis,Times bidg.,73
+Saint Louis,Times bldg.,73
+Saint Louis,Title Guar-anty bldg.,73
+Saint Louis,Title Guar. bld,73
+Saint Louis,Title Guar. bld.,73
+Saint Louis,Title Guar. bldg.,73
+Saint Louis,Title Guaranty bidg.,73
+Saint Louis,Title Guaranty bld.,73
+Saint Louis,Title Guaranty bldg.,73
+Saint Louis,Victoria bidg.,73
+Saint Louis,Victoria bldg.,73
+Saint Louis,Wain-wright bldg.,73
+Saint Louis,Wainright bldg.,73
+Saint Louis,Wainwright bidg.,73
+Saint Louis,Wainwright bld.,73
+Saint Louis,Wainwright bldg.,73
+Saint Louis,Wright bldg.,73
+Saint Louis,,73
+San Antonio,113 Ave. C,47
+San Antonio,118 Mackay bldg.,47
+San Antonio,210 Mackay bldg.,47
+San Antonio,211 Gibbs bldg.,47
+San Antonio,212 Moore bldg.,47
+San Antonio,213 Frost bldg.,47
+San Antonio,214 Gibbs bldg.,47
+San Antonio,225 St. Mary's,47
+San Antonio,229 E. Houston st.,47
+San Antonio,23 E. Houston st.,47
+San Antonio,238 Moore,47
+San Antonio,301 Gunter bldg.,47
+San Antonio,301 Mackay bldg.,47
+San Antonio,306 Mackay bldg.,47
+San Antonio,311 Moore bldg.,47
+San Antonio,407 E. Houston st.,47
+San Antonio,421 Navarro st.,47
+San Antonio,5 Riverside bldg.,47
+San Antonio,501 Gunter bldg.,47
+San Antonio,540 Moore bldg.,47
+San Antonio,544 Moore bldg.,47
+San Antonio,601 Navarro st.,47
+San Antonio,811 Mackay bldg.,47
+San Antonio,Alamo Bk bldg.,47
+San Antonio,Alamo Nat'l Bk. bldg.,47
+San Antonio,Alamo Plaza,47
+San Antonio,Bedell bldg.,47
+San Antonio,Bwearingen-McCraw bldg.,47
+San Antonio,Central Office bldg.,47
+San Antonio,Chamber of Commerce bldg.,47
+San Antonio,Chandler bldg.,47
+San Antonio,Frost,47
+San Antonio,Frost bldg.,47
+San Antonio,Gibbs,47
+San Antonio,Gibbs bldg.,47
+San Antonio,Gunter bldg.,47
+San Antonio,Hicks bldg.,47
+San Antonio,Kampmann bldg.,47
+San Antonio,Loan & Trust bldg.,47
+San Antonio,Mackay,47
+San Antonio,Mackay bldg.,47
+San Antonio,Medell bldg.,47
+San Antonio,Moore bldg.,47
+San Antonio,Riverside bldg.,47
+San Antonio,St. James hotel,47
+San Antonio,Washer bldg.,47
+San Antonio,,47
+San Diego,Amer. Nat. Bank bldg.,11
+San Diego,Granger bldg.,11
+San Diego,Hill blk.,11
+San Diego,Keating bldg.,11
+San Diego,Pacific bldg,11
+San Diego,Sun bldg.,11
+San Diego,Timeken bidg,11
+San Diego,Timken bldg,11
+San Diego,Union Bldg.,11
+San Diego,Union bldg.,11
+San Diego,,11
+San Francisco,1st Nat. Bank bldg.,58
+San Francisco,1st Nat. Bk. bld.,58
+San Francisco,1st Nat. Bk. bldg,58
+San Francisco,1st Nat. Bk. bldg.,58
+San Francisco,Balboa bidg.,58
+San Francisco,Balboa bldg.,58
+San Francisco,C. Spreckles bld.,58
+San Francisco,C. Spreckles bldg.,58
+San Francisco,Chron. bldg.,58
+San Francisco,Chronicle bldg.,58
+San Francisco,Cl. Spreckles bidg.,58
+San Francisco,Cl. Spreckles bldg.,58
+San Francisco,Clunie bldg.,58
+San Francisco,Crocker bid.,58
+San Francisco,Crocker bldg.,58
+San Francisco,Ex. bldg.,58
+San Francisco,First National Bank bidg.,58
+San Francisco,Hewes bldg.,58
+San Francisco,Hmbit Bk. bldg.,58
+San Francisco,Hmbit. Bk. bld.,58
+San Francisco,Hmblt. Bk. bld.,58
+San Francisco,Humbit. Bank bldg.,58
+San Francisco,Humbit. Bk. bld.,58
+San Francisco,Humbit. Bk. bldg.,58
+San Francisco,Ist Nat. Bank bldg.,58
+San Francisco,Kohl bldg.,58
+San Francisco,Lick bldg.,58
+San Francisco,MacDonough bldg.,58
+San Francisco,Mechanica Institute bld.,58
+San Francisco,Mer. Ex. bldg.,58
+San Francisco,Met. Bk.,58
+San Francisco,Metrop. Bank bidg.,58
+San Francisco,Mille bldg.,58
+San Francisco,Mills bidg,58
+San Francisco,Mills bidg.,58
+San Francisco,Mills bldg,58
+San Francisco,Mills bldg.,58
+San Francisco,Monad. Bldg.,58
+San Francisco,Monad. bldg.,58
+San Francisco,Monadnock bldg.,58
+San Francisco,"Moned, bldg.",58
+San Francisco,Nevada Bank bldg.,58
+San Francisco,Nevada bldg.,58
+San Francisco,Newhall bldg.,58
+San Francisco,Pac bldg.,58
+San Francisco,Pac. bldg.,58
+San Francisco,Phelan bidg.,58
+San Francisco,Phelan bldg.,58
+San Francisco,Russ bd.,58
+San Francisco,Russ bldg.,58
+San Francisco,S. Spreckles bld.,58
+San Francisco,Sheldon bldg.,58
+San Francisco,W. Met Nat. Bank bldg.,58
+San Francisco,W. Met. Nat. Bank bldg.,58
+San Francisco,W. Met. Nat. Bk. bldg.,58
+San Francisco,Westbank bldg.,58
+San Francisco,lat Nat. Bank bldg.,58
+San Francisco,,58
+Seattle,10 Marion bldg.,156
+Seattle,103 2d. S.,156
+Seattle,105 White bldg.,156
+Seattle,106 Cherry,156
+Seattle,201 Mehlhorn bldg.,156
+Seattle,207 Am. Bk. bldg.,156
+Seattle,208-10 Leary bldg.,156
+Seattle,214 Leary bld,156
+Seattle,218 Leary bldg.,156
+Seattle,2420 W. 58th,156
+Seattle,302 Peoples Bk. bldg.,156
+Seattle,308 New York blk.,156
+Seattle,311 Hinckley bik.,156
+Seattle,311 White bldg.,156
+Seattle,312 Central bldg.,156
+Seattle,316 Leary bldg.,156
+Seattle,323 Central bldg,156
+Seattle,326 Leary bldg,156
+Seattle,342-3 Central bldg.,156
+Seattle,405 Oriental bldg.,156
+Seattle,407 Central hide,156
+Seattle,418 Leary bldg.,156
+Seattle,501 Colman bldg.,156
+Seattle,512 Balley bldg.,156
+Seattle,529 Central bldg.,156
+Seattle,529-30-31 Central bldg.,156
+Seattle,664 Empire bldg.,156
+Seattle,719-21 Leary bldg.,156
+Seattle,743 Central bldg.,156
+Seattle,806 Leary bldg.,156
+Seattle,812 Boston blk.,156
+Seattle,812 Central bldg.,156
+Seattle,843 Central bld.,156
+Seattle,856 Empire,156
+Seattle,908 Alaska bldg.,156
+Seattle,Alaska bld.,156
+Seattle,Alaska bldg,156
+Seattle,Alaska bldg.,156
+Seattle,Am. Bank bldg.,156
+Seattle,Am. Bk. bld.,156
+Seattle,Am. Bk. bldg.,156
+Seattle,Amer. Bk. bld,156
+Seattle,American Bank bldg.,156
+Seattle,American Bk. bldg.,156
+Seattle,Arcade Annex,156
+Seattle,Arcade bldg.,156
+Seattle,Bailey bld.,156
+Seattle,Bailey bldg.,156
+Seattle,Balley bldg.,156
+Seattle,Boston bik.,156
+Seattle,Boston bldg.,156
+Seattle,Boston blk,156
+Seattle,Boston blk.,156
+Seattle,Burke bide.,156
+Seattle,Burke bldg.,156
+Seattle,Central bid,156
+Seattle,Central bidg.,156
+Seattle,Central bld,156
+Seattle,Central bld.,156
+Seattle,Central bldg,156
+Seattle,Central bldg.,156
+Seattle,Cherry bldg.,156
+Seattle,Cobb bldg.,156
+Seattle,Collins bldg.,156
+Seattle,Colman,156
+Seattle,Colman bidg.,156
+Seattle,Colman bk.,156
+Seattle,Colman bldg,156
+Seattle,Colman bldg.,156
+Seattle,Colman blk.,156
+Seattle,Crary bldg.,156
+Seattle,Crown bldg.,156
+Seattle,Downs blk.,156
+Seattle,Empire bhldg.,156
+Seattle,Empire bldg.,156
+Seattle,Epler bldg,156
+Seattle,Epler bldg.,156
+Seattle,Epler blk.,156
+Seattle,Georgetown,156
+Seattle,Globe bldg.,156
+Seattle,Haight bldg.,156
+Seattle,Haller bldg.,156
+Seattle,Haller blk.,156
+Seattle,Henry bld.,156
+Seattle,Henry bldg,156
+Seattle,Henry bldg.,156
+Seattle,Hinckley bldg.,156
+Seattle,Hinckley blk.,156
+Seattle,Hoge bldg.,156
+Seattle,Home Office,156
+Seattle,Howard blk.,156
+Seattle,Korn bidg.,156
+Seattle,Learv bldg.,156
+Seattle,Leary bld.,156
+Seattle,Leary bldg,156
+Seattle,Leary bldg.,156
+Seattle,Liberty bldg.,156
+Seattle,Lowman bldg.,156
+Seattle,Ltd.. Mut. Life,156
+Seattle,Lumber,156
+Seattle,Lumber Exch.,156
+Seattle,Lumber Exchange,156
+Seattle,Lumber Exchange.,156
+Seattle,Majestic Theatre,156
+Seattle,Marion,156
+Seattle,Marion bld.,156
+Seattle,Marion bldg.,156
+Seattle,Marion blk.,156
+Seattle,Market bldg.,156
+Seattle,Marlon bldg.,156
+Seattle,Maynard bldg.,156
+Seattle,Mehlhorn bid.,156
+Seattle,Mehlhorn bldg.,156
+Seattle,Mehlhorn hldg.,156
+Seattle,Montlake Park,156
+Seattle,Mutual Life bldg.,156
+Seattle,N. Y. bik.,156
+Seattle,N. Y. blk.,156
+Seattle,New York bik.,156
+Seattle,New York bldg.,156
+Seattle,New York blk.,156
+Seattle,Nor. Bk. & Trust bldg.,156
+Seattle,Northern Bank,156
+Seattle,Northern Bank bldg.,156
+Seattle,Oriental bidg.,156
+Seattle,Oriental bld.,156
+Seattle,Oriental bldg.,156
+Seattle,Oriontal bldg.,156
+Seattle,Oxbow Addition,156
+Seattle,Pacific bldg.,156
+Seattle,Pacific blk.,156
+Seattle,People's Bk. bld.,156
+Seattle,People's Bk. bldg.,156
+Seattle,Peoples Bk. bldg.,156
+Seattle,Peoples' Bank bldg.,156
+Seattle,Pier 2,156
+Seattle,Pioneer,156
+Seattle,Pioneer 'bldg.,156
+Seattle,Pioneer bldg.,156
+Seattle,Pioneer blk.,156
+Seattle,Ranier Beach,156
+Seattle,Scheuerman bldg.,156
+Seattle,Seattle Nat. Bank bldg.,156
+Seattle,Seattle Nat. Bk. bldg.,156
+Seattle,Seattle National Bank bldg.,156
+Seattle,Seneca,156
+Seattle,Starr-Boyd bldg.,156
+Seattle,Sullivan bldg.,156
+Seattle,Tacoma Tide,156
+Seattle,Times bldg.,156
+Seattle,Trafford,156
+Seattle,Wallingford,156
+Seattle,Washington Annex,156
+Seattle,Washington bldg.,156
+Seattle,White bldg.,156
+Seattle,,156
+Tampa,1st Nat. Bank,25
+Tampa,1st Nat. Bank bldg.,25
+Tampa,Am. Bank bldg.,25
+Tampa,Am. Nat. Bank bldg.,25
+Tampa,Amer. Bank,25
+Tampa,Arcade,25
+Tampa,Bank of Tampa,25
+Tampa,City Sav. Bk. bldg.,25
+Tampa,Curry bldg.,25
+Tampa,Davis bldg.,25
+Tampa,De Soto Hotel,25
+Tampa,Drew bldg.,25
+Tampa,Elk bldg.,25
+Tampa,Giddens bldg.,25
+Tampa,Gould bldg.,25
+Tampa,Hampson bldg.,25
+Tampa,Hampton bldg.,25
+Tampa,Harrison,25
+Tampa,Hillsboro Hotel,25
+Tampa,Jackson bldg.,25
+Tampa,Madison,25
+Tampa,Twiggs,25
+Tampa,West Tampa Bank bldg.,25
+Tampa,Ybor Bank bldg.,25
+Tampa,,25
+Washington,Auray bldg.,58
+Washington,Bond bldg,58
+Washington,Bond bldg.,58
+Washington,Bong bldg,58
+Washington,Cen. Nat. Bk bid.,58
+Washington,Cent. N. Bank bldg.,58
+Washington,Cent. Nat. Bk. bldg.,58
+Washington,Cent. bld.,58
+Washington,Colo. bld.,58
+Washington,Colo. bldg,58
+Washington,Colo. bldg.,58
+Washington,Colorado bidg.,58
+Washington,Colorado bldg,58
+Washington,Colorado bldg.,58
+Washington,Com'l Nat. Bank bldg,58
+Washington,"Cong. Hta., D. C.",58
+Washington,Corcoran bldg.,58
+Washington,Dis. Nat. Bk bid,58
+Washington,District Nat. Bank bldg,58
+Washington,Evans bld,58
+Washington,Evans bld.,58
+Washington,Evans bldg,58
+Washington,Evans bldg.,58
+Washington,Fendall bldg.,58
+Washington,Hibba bldg.,58
+Washington,Hibbs bldg,58
+Washington,Home Life bid.,58
+Washington,Home Life bldg,58
+Washington,Jenifer bldg.,58
+Washington,Kellogg bldg.,58
+Washington,Le Droit bldg,58
+Washington,Maryland bidg,58
+Washington,Maryland bldg,58
+Washington,McGill bldg.,58
+Washington,Mel. Bank bldg.,58
+Washington,Munsey Building,58
+Washington,Munsey bld.,58
+Washington,Munsey bldg.,58
+Washington,Mut. Fire ina. bld.,58
+Washington,Nat. Met. Bank bldg.,58
+Washington,Oxford bidg.,58
+Washington,Oxford bldg,58
+Washington,Oxford bldg.,58
+Washington,So. bldg.,58
+Washington,Union Tr. bld.,58
+Washington,Union Tr. bldg.,58
+Washington,Union Trust bldg,58
+Washington,Union Trust bldg.,58
+Washington,Victor bidg.,58
+Washington,Victor bldg.,58
+Washington,"W. L. &
+T. bldg.",58
+Washington,Wash. L. & T. bldg.,58
+Washington,Wash. L. & Tr. bldg,58
+Washington,Wash. Loan & T. bldg,58
+Washington,Wash. Loan & T. bldg.,58
+Washington,Wash. Loan & Tr. bldg.,58
+Washington,Wash. Loan & Trust bldg.,58
+Washington,,58
