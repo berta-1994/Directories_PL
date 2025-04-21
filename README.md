@@ -35,12 +35,12 @@ This script has been deprecated after changing the approach to the one used in t
 ### 4. 02_AI_OCR
 
 This file follows the idea from the paper "MULTIMODAL LLMS FOR OCR, OCR POST-CORRECTION, AND NAMED ENTITY RECOGNITION IN HISTORICAL DOCUMENTS" from Gavin Greif, Niclas Griesshaber and Robin Greif.
+GIT - https://github.com/niclasgriesshaber/gemini_historical_dataset_pipeline/tree/main
 
-Using the same prompt from the paper as template and styling it to our project needs I feed cropped images to the ai model, which returns a json file. Then a second prompt is used to enforce the desired format of the final text. The result is a csv file with addresses.
+Using the same prompt from the paper as template and styling it to our project needs, I feed pre-processed images to the ai model, which returns a json file. Then, a second prompt is used to enforce the desired format of the final text. The result is a csv file with addresses.
 
 The addresses which found are later golocated using geopy free open source geocoding from OpenStreetMap: Nominatim.
 
-GIT - https://github.com/niclasgriesshaber/gemini_historical_dataset_pipeline/tree/main
 
 ### 5. Control
 Finally, the control file can be run to look into the performance of the model and provide basic statistics. 
