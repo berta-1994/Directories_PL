@@ -12,7 +12,7 @@ This script creates the necessary folders in the directory
 ### 2. 00_Cropped_images
 Crop images to minimise the noise and improve OCR performance
 
-### 2. 01_Pre-Process
+### 3. 01_Pre-Process
 The pre_process script contains three major functions to transform PDF images into new images with less noise, easier to interpret by OCR models.
 The images provided are previously cropped in the 00_Cropping_image script.
 
@@ -26,13 +26,13 @@ After this script there are two potential ways of running the OCR model.
 * Option 1: Run the "02_Post-Processing" script and then "03_Geolocation" script.
 * Option 2: Run the "02_AI_OCR" script
 
-### 3. 02_Post-Processing + 03_Geolocation
+### 4.a. 02_Post-Processing + 03_Geolocation
 
 The Post_Process script takes the csv files created in the "01_Pre_process" script and shapes the addresses with the desired form, it corrects recurrent misspellings and mistakes from the tesseract model. To obtain relatively correct outcomes, this script has required considerable time to adjust the shape and correct for misspellings and other mistakes from the OCR.
 
 This script has been deprecated after changing the approach to the one used in the script "02_AI_OCR". The use of the AI model to read and shape the pdf images follows the structure of  the paper "MULTIMODAL LLMS FOR OCR, OCR POST-CORRECTION, AND NAMED ENTITY RECOGNITION IN HISTORICAL DOCUMENTS" from Gavin Greif, Niclas Griesshaber and Robin Greif and has drastically reduced time in human correction.
 
-### 4. 02_AI_OCR
+### 4.b. 02_AI_OCR
 
 This file follows the idea from the paper "MULTIMODAL LLMS FOR OCR, OCR POST-CORRECTION, AND NAMED ENTITY RECOGNITION IN HISTORICAL DOCUMENTS" from Gavin Greif, Niclas Griesshaber and Robin Greif.
 GIT - https://github.com/niclasgriesshaber/gemini_historical_dataset_pipeline/tree/main
